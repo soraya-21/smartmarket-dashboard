@@ -1,0 +1,5001 @@
+lead_id,date,channel,device
+3012,2025-09-01,Emailing,Tablet
+4252,2025-09-01,Organic,Desktop
+2815,2025-09-01,Instagram Ads,Mobile
+2428,2025-09-01,Emailing,Mobile
+3727,2025-09-01,Organic,Desktop
+4230,2025-09-01,Organic,Tablet
+4826,2025-09-01,Google Ads,Desktop
+5079,2025-09-01,Instagram Ads,Desktop
+3318,2025-09-01,Emailing,Mobile
+3003,2025-09-01,Instagram Ads,Mobile
+4877,2025-09-01,LinkedIn,Tablet
+2705,2025-09-01,Instagram Ads,Tablet
+4512,2025-09-02,Instagram Ads,Tablet
+2712,2025-09-02,Google Ads,Tablet
+2002,2025-09-02,Emailing,Mobile
+3418,2025-09-02,LinkedIn,Desktop
+2733,2025-09-02,Emailing,Desktop
+309,2025-09-02,Instagram Ads,Mobile
+1527,2025-09-02,Facebook Ads,Desktop
+922,2025-09-02,Instagram Ads,Mobile
+2022,2025-09-02,Facebook Ads,Desktop
+1269,2025-09-03,Emailing,Tablet
+4604,2025-09-03,Facebook Ads,Tablet
+2396,2025-09-03,LinkedIn,Desktop
+5001,2025-09-03,Organic,Desktop
+2395,2025-09-03,Organic,Mobile
+3845,2025-09-03,Facebook Ads,Desktop
+173,2025-09-03,Facebook Ads,Mobile
+229,2025-09-03,Facebook Ads,Mobile
+2862,2025-09-03,Google Ads,Mobile
+4871,2025-09-03,Emailing,Mobile
+1584,2025-09-03,Google Ads,Mobile
+1616,2025-09-03,Emailing,Desktop
+4013,2025-09-03,Emailing,Desktop
+2919,2025-09-04,Emailing,Tablet
+1384,2025-09-04,Organic,Desktop
+4788,2025-09-04,LinkedIn,Desktop
+3208,2025-09-04,Facebook Ads,Tablet
+3199,2025-09-04,LinkedIn,Mobile
+2629,2025-09-04,LinkedIn,Mobile
+4857,2025-09-04,Instagram Ads,Tablet
+508,2025-09-04,Google Ads,Mobile
+306,2025-09-04,Facebook Ads,Tablet
+3414,2025-09-04,Google Ads,Mobile
+3372,2025-09-04,LinkedIn,Tablet
+2450,2025-09-04,Facebook Ads,Desktop
+3811,2025-09-04,Instagram Ads,Desktop
+3883,2025-09-04,Google Ads,Mobile
+1987,2025-09-04,Emailing,Mobile
+2793,2025-09-04,Instagram Ads,Tablet
+1853,2025-09-05,Google Ads,Mobile
+2918,2025-09-05,Facebook Ads,Mobile
+1844,2025-09-05,LinkedIn,Desktop
+941,2025-09-05,Google Ads,Mobile
+1046,2025-09-05,Google Ads,Mobile
+4197,2025-09-05,Organic,Tablet
+999,2025-09-05,Emailing,Desktop
+2325,2025-09-05,Google Ads,Desktop
+1365,2025-09-05,Organic,Tablet
+4256,2025-09-05,Organic,Desktop
+1900,2025-09-05,Organic,Tablet
+3108,2025-09-05,Organic,Desktop
+4913,2025-09-05,Google Ads,Mobile
+3078,2025-09-05,Organic,Mobile
+4065,2025-09-05,Facebook Ads,Desktop
+2461,2025-09-05,Emailing,Tablet
+571,2025-09-05,Organic,Desktop
+2232,2025-09-05,Facebook Ads,Tablet
+557,2025-09-05,Google Ads,Tablet
+433,2025-09-06,Instagram Ads,Mobile
+4156,2025-09-06,Google Ads,Desktop
+345,2025-09-06,Google Ads,Mobile
+2783,2025-09-06,Emailing,Tablet
+3188,2025-09-06,Organic,Mobile
+3167,2025-09-06,Facebook Ads,Desktop
+4236,2025-09-06,Emailing,Desktop
+3218,2025-09-06,Instagram Ads,Desktop
+3520,2025-09-06,Google Ads,Desktop
+4647,2025-09-06,Instagram Ads,Mobile
+664,2025-09-06,Instagram Ads,Mobile
+2634,2025-09-06,Google Ads,Tablet
+1174,2025-09-07,Instagram Ads,Desktop
+3790,2025-09-07,Organic,Mobile
+2617,2025-09-07,Google Ads,Desktop
+3571,2025-09-07,Google Ads,Tablet
+272,2025-09-07,Instagram Ads,Mobile
+1614,2025-09-07,Instagram Ads,Desktop
+4046,2025-09-07,Google Ads,Tablet
+895,2025-09-07,Facebook Ads,Mobile
+2313,2025-09-07,LinkedIn,Tablet
+472,2025-09-07,Instagram Ads,Desktop
+2804,2025-09-07,Google Ads,Tablet
+3324,2025-09-07,LinkedIn,Tablet
+2809,2025-09-07,Emailing,Desktop
+3364,2025-09-07,Organic,Mobile
+1037,2025-09-07,Google Ads,Mobile
+1847,2025-09-08,LinkedIn,Mobile
+2119,2025-09-08,Facebook Ads,Tablet
+4652,2025-09-08,LinkedIn,Tablet
+1914,2025-09-08,Instagram Ads,Desktop
+111,2025-09-08,LinkedIn,Tablet
+3262,2025-09-08,Organic,Desktop
+2786,2025-09-08,Instagram Ads,Desktop
+4335,2025-09-08,Facebook Ads,Desktop
+983,2025-09-08,Facebook Ads,Mobile
+741,2025-09-08,Organic,Desktop
+1150,2025-09-08,LinkedIn,Desktop
+2071,2025-09-09,Organic,Desktop
+4427,2025-09-09,LinkedIn,Desktop
+1303,2025-09-09,Google Ads,Desktop
+4518,2025-09-09,LinkedIn,Desktop
+338,2025-09-09,Google Ads,Mobile
+1026,2025-09-09,Facebook Ads,Desktop
+3513,2025-09-09,Organic,Mobile
+1302,2025-09-09,Instagram Ads,Desktop
+478,2025-09-09,Emailing,Desktop
+4620,2025-09-09,Emailing,Desktop
+2522,2025-09-09,LinkedIn,Tablet
+1148,2025-09-09,LinkedIn,Mobile
+4051,2025-09-09,Emailing,Mobile
+4608,2025-09-09,LinkedIn,Desktop
+1677,2025-09-09,Emailing,Tablet
+2820,2025-09-09,Emailing,Mobile
+4297,2025-09-10,Instagram Ads,Desktop
+3769,2025-09-10,Emailing,Desktop
+1797,2025-09-10,Organic,Mobile
+1002,2025-09-10,Google Ads,Desktop
+199,2025-09-10,Facebook Ads,Mobile
+616,2025-09-10,Facebook Ads,Tablet
+4026,2025-09-10,Facebook Ads,Tablet
+979,2025-09-10,Facebook Ads,Mobile
+975,2025-09-10,Instagram Ads,Mobile
+413,2025-09-10,LinkedIn,Mobile
+2498,2025-09-10,Organic,Desktop
+2070,2025-09-10,Organic,Tablet
+1603,2025-09-10,Google Ads,Tablet
+4989,2025-09-10,Organic,Mobile
+3076,2025-09-10,Facebook Ads,Mobile
+2181,2025-09-10,LinkedIn,Tablet
+4587,2025-09-10,LinkedIn,Tablet
+457,2025-09-10,Emailing,Desktop
+4063,2025-09-11,Emailing,Desktop
+2514,2025-09-11,Facebook Ads,Mobile
+3796,2025-09-11,Google Ads,Mobile
+4200,2025-09-11,Google Ads,Mobile
+658,2025-09-11,LinkedIn,Mobile
+3604,2025-09-11,Google Ads,Tablet
+2930,2025-09-11,Facebook Ads,Mobile
+1536,2025-09-11,Facebook Ads,Mobile
+1260,2025-09-11,Instagram Ads,Mobile
+3942,2025-09-12,Emailing,Mobile
+1348,2025-09-12,Google Ads,Mobile
+391,2025-09-12,Google Ads,Desktop
+3755,2025-09-12,Instagram Ads,Desktop
+201,2025-09-12,Organic,Tablet
+1401,2025-09-12,LinkedIn,Desktop
+3483,2025-09-12,Organic,Tablet
+1075,2025-09-12,Emailing,Mobile
+1440,2025-09-12,Organic,Tablet
+3895,2025-09-12,Google Ads,Mobile
+1334,2025-09-12,Google Ads,Desktop
+2519,2025-09-12,Organic,Desktop
+3589,2025-09-12,LinkedIn,Desktop
+1555,2025-09-12,Emailing,Mobile
+1120,2025-09-13,Emailing,Mobile
+865,2025-09-13,Emailing,Desktop
+1389,2025-09-13,Organic,Desktop
+3485,2025-09-13,Facebook Ads,Desktop
+143,2025-09-13,Emailing,Tablet
+4111,2025-09-13,Google Ads,Desktop
+2342,2025-09-13,Emailing,Mobile
+4843,2025-09-13,Emailing,Desktop
+3764,2025-09-13,Instagram Ads,Desktop
+2004,2025-09-13,LinkedIn,Mobile
+2111,2025-09-13,Emailing,Desktop
+2283,2025-09-13,Organic,Desktop
+392,2025-09-14,LinkedIn,Tablet
+2959,2025-09-14,Organic,Desktop
+386,2025-09-14,Organic,Tablet
+1751,2025-09-14,Emailing,Mobile
+246,2025-09-14,Google Ads,Desktop
+957,2025-09-14,Emailing,Mobile
+3000,2025-09-14,LinkedIn,Tablet
+1503,2025-09-14,Instagram Ads,Mobile
+2398,2025-09-14,Google Ads,Mobile
+729,2025-09-14,Instagram Ads,Desktop
+1131,2025-09-14,Google Ads,Desktop
+1114,2025-09-15,Instagram Ads,Mobile
+436,2025-09-15,Facebook Ads,Mobile
+3738,2025-09-15,Instagram Ads,Mobile
+711,2025-09-15,Instagram Ads,Mobile
+4848,2025-09-15,LinkedIn,Tablet
+3510,2025-09-15,Organic,Mobile
+700,2025-09-15,Organic,Desktop
+1881,2025-09-15,Facebook Ads,Desktop
+2568,2025-09-15,Facebook Ads,Mobile
+4158,2025-09-15,Instagram Ads,Tablet
+4939,2025-09-15,Google Ads,Tablet
+3489,2025-09-15,Emailing,Tablet
+1450,2025-09-15,Organic,Tablet
+1374,2025-09-15,Emailing,Mobile
+4068,2025-09-15,LinkedIn,Desktop
+4011,2025-09-15,Instagram Ads,Mobile
+269,2025-09-15,Facebook Ads,Tablet
+4060,2025-09-15,Organic,Tablet
+4418,2025-09-15,Organic,Mobile
+3524,2025-09-15,Facebook Ads,Mobile
+2518,2025-09-15,Instagram Ads,Mobile
+2958,2025-09-15,Instagram Ads,Mobile
+5080,2025-09-15,Organic,Desktop
+1517,2025-09-15,Instagram Ads,Desktop
+2466,2025-09-16,Instagram Ads,Mobile
+1173,2025-09-16,Google Ads,Desktop
+573,2025-09-16,Instagram Ads,Tablet
+1649,2025-09-16,Emailing,Mobile
+2304,2025-09-16,Google Ads,Desktop
+1895,2025-09-16,Instagram Ads,Tablet
+3975,2025-09-16,Emailing,Tablet
+4944,2025-09-16,Instagram Ads,Mobile
+1927,2025-09-16,Google Ads,Mobile
+3040,2025-09-16,Emailing,Desktop
+4317,2025-09-16,LinkedIn,Mobile
+1967,2025-09-16,Instagram Ads,Desktop
+1523,2025-09-16,LinkedIn,Desktop
+448,2025-09-17,Organic,Mobile
+2877,2025-09-17,Google Ads,Tablet
+130,2025-09-17,LinkedIn,Mobile
+4190,2025-09-17,Organic,Tablet
+4494,2025-09-17,Google Ads,Desktop
+4490,2025-09-17,Google Ads,Tablet
+2384,2025-09-17,Google Ads,Desktop
+435,2025-09-17,Facebook Ads,Desktop
+587,2025-09-17,Google Ads,Mobile
+615,2025-09-17,Organic,Tablet
+2938,2025-09-17,Emailing,Mobile
+1295,2025-09-17,Emailing,Desktop
+159,2025-09-17,Google Ads,Mobile
+2332,2025-09-18,Organic,Mobile
+4442,2025-09-18,Facebook Ads,Tablet
+4488,2025-09-18,Emailing,Tablet
+2745,2025-09-18,Emailing,Mobile
+4777,2025-09-18,LinkedIn,Desktop
+4664,2025-09-18,Facebook Ads,Tablet
+1058,2025-09-18,Organic,Mobile
+1566,2025-09-18,Instagram Ads,Mobile
+2707,2025-09-18,Facebook Ads,Tablet
+3909,2025-09-19,Facebook Ads,Mobile
+5052,2025-09-19,Instagram Ads,Mobile
+401,2025-09-19,LinkedIn,Mobile
+4473,2025-09-19,LinkedIn,Tablet
+3772,2025-09-19,Facebook Ads,Tablet
+1403,2025-09-19,LinkedIn,Desktop
+5025,2025-09-19,Organic,Mobile
+4208,2025-09-19,Organic,Tablet
+3763,2025-09-19,Emailing,Tablet
+3110,2025-09-19,Organic,Desktop
+4059,2025-09-19,Emailing,Desktop
+1078,2025-09-19,Instagram Ads,Mobile
+3087,2025-09-19,Instagram Ads,Tablet
+249,2025-09-19,Emailing,Desktop
+802,2025-09-19,Instagram Ads,Mobile
+3588,2025-09-19,Emailing,Desktop
+2430,2025-09-19,Google Ads,Mobile
+4079,2025-09-19,Facebook Ads,Mobile
+4094,2025-09-19,Instagram Ads,Mobile
+2881,2025-09-19,Facebook Ads,Mobile
+2663,2025-09-19,Emailing,Tablet
+2165,2025-09-19,Instagram Ads,Mobile
+3910,2025-09-20,Emailing,Mobile
+2754,2025-09-20,Instagram Ads,Desktop
+4822,2025-09-20,Organic,Tablet
+2124,2025-09-20,Google Ads,Desktop
+919,2025-09-20,Instagram Ads,Mobile
+3550,2025-09-20,Google Ads,Desktop
+4436,2025-09-20,Organic,Tablet
+2702,2025-09-20,Emailing,Tablet
+3006,2025-09-20,LinkedIn,Mobile
+4751,2025-09-20,Google Ads,Mobile
+4846,2025-09-20,Organic,Desktop
+629,2025-09-21,Facebook Ads,Tablet
+3265,2025-09-21,Organic,Desktop
+3663,2025-09-21,Instagram Ads,Mobile
+1514,2025-09-21,Instagram Ads,Desktop
+4992,2025-09-21,Google Ads,Tablet
+4337,2025-09-21,LinkedIn,Tablet
+3844,2025-09-21,Facebook Ads,Tablet
+559,2025-09-21,Emailing,Tablet
+3125,2025-09-21,Emailing,Mobile
+2099,2025-09-21,Instagram Ads,Mobile
+4110,2025-09-21,Google Ads,Tablet
+4310,2025-09-21,Emailing,Desktop
+3334,2025-09-22,Google Ads,Mobile
+2041,2025-09-22,Instagram Ads,Desktop
+1201,2025-09-22,Google Ads,Tablet
+1817,2025-09-22,Instagram Ads,Desktop
+4461,2025-09-22,Organic,Tablet
+1815,2025-09-22,LinkedIn,Mobile
+2432,2025-09-22,Emailing,Tablet
+1722,2025-09-22,Emailing,Desktop
+4186,2025-09-22,LinkedIn,Tablet
+4893,2025-09-22,Google Ads,Mobile
+4384,2025-09-22,Organic,Desktop
+2833,2025-09-22,Emailing,Desktop
+2549,2025-09-22,Instagram Ads,Desktop
+4556,2025-09-22,Instagram Ads,Mobile
+2778,2025-09-22,Google Ads,Mobile
+525,2025-09-22,Facebook Ads,Mobile
+1621,2025-09-22,Emailing,Desktop
+107,2025-09-22,LinkedIn,Desktop
+3640,2025-09-23,Organic,Mobile
+4481,2025-09-23,Instagram Ads,Desktop
+4712,2025-09-23,Google Ads,Mobile
+2860,2025-09-23,Google Ads,Desktop
+2161,2025-09-23,LinkedIn,Desktop
+3827,2025-09-23,Emailing,Desktop
+1826,2025-09-23,Facebook Ads,Desktop
+1812,2025-09-23,Google Ads,Tablet
+4352,2025-09-23,Google Ads,Desktop
+3223,2025-09-23,Facebook Ads,Desktop
+2611,2025-09-23,Emailing,Tablet
+2112,2025-09-23,Emailing,Mobile
+1420,2025-09-23,Facebook Ads,Desktop
+717,2025-09-23,Instagram Ads,Desktop
+3610,2025-09-23,Google Ads,Desktop
+4368,2025-09-23,Emailing,Tablet
+2710,2025-09-23,Facebook Ads,Tablet
+2109,2025-09-24,Facebook Ads,Mobile
+1359,2025-09-24,Organic,Tablet
+2030,2025-09-24,Google Ads,Tablet
+2347,2025-09-24,Instagram Ads,Mobile
+3258,2025-09-24,Emailing,Tablet
+1139,2025-09-24,LinkedIn,Tablet
+2182,2025-09-24,Emailing,Desktop
+133,2025-09-24,Facebook Ads,Tablet
+960,2025-09-24,Organic,Desktop
+184,2025-09-24,Facebook Ads,Desktop
+2827,2025-09-24,Google Ads,Desktop
+805,2025-09-24,Instagram Ads,Tablet
+823,2025-09-25,Instagram Ads,Tablet
+1291,2025-09-25,Facebook Ads,Desktop
+1288,2025-09-25,Google Ads,Mobile
+3501,2025-09-25,Facebook Ads,Tablet
+2458,2025-09-25,Google Ads,Tablet
+5095,2025-09-25,Instagram Ads,Desktop
+3892,2025-09-25,Emailing,Desktop
+3240,2025-09-25,Instagram Ads,Desktop
+2147,2025-09-25,Emailing,Mobile
+951,2025-09-25,LinkedIn,Tablet
+3950,2025-09-25,Instagram Ads,Mobile
+1796,2025-09-25,Facebook Ads,Desktop
+4881,2025-09-25,Instagram Ads,Mobile
+1707,2025-09-25,Organic,Desktop
+3139,2025-09-25,Emailing,Mobile
+3422,2025-09-25,Organic,Mobile
+3391,2025-09-25,Google Ads,Tablet
+4832,2025-09-25,Organic,Tablet
+3396,2025-09-25,Emailing,Tablet
+3119,2025-09-25,Emailing,Tablet
+2650,2025-09-25,Organic,Mobile
+3789,2025-09-25,Emailing,Desktop
+1889,2025-09-25,Google Ads,Tablet
+3612,2025-09-25,LinkedIn,Tablet
+4482,2025-09-26,LinkedIn,Mobile
+4213,2025-09-26,Emailing,Tablet
+3970,2025-09-26,Google Ads,Tablet
+475,2025-09-26,Emailing,Desktop
+2380,2025-09-26,Google Ads,Mobile
+2442,2025-09-26,Instagram Ads,Mobile
+1705,2025-09-26,Facebook Ads,Desktop
+3619,2025-09-26,Google Ads,Desktop
+4963,2025-09-26,LinkedIn,Tablet
+2984,2025-09-26,Google Ads,Mobile
+3275,2025-09-26,Facebook Ads,Tablet
+455,2025-09-26,Instagram Ads,Tablet
+3408,2025-09-26,Organic,Mobile
+2985,2025-09-26,Instagram Ads,Mobile
+4902,2025-09-26,Emailing,Desktop
+470,2025-09-26,Instagram Ads,Desktop
+2098,2025-09-26,Emailing,Desktop
+2272,2025-09-26,Facebook Ads,Desktop
+3366,2025-09-26,Instagram Ads,Tablet
+1899,2025-09-27,Emailing,Tablet
+1898,2025-09-27,Organic,Desktop
+577,2025-09-27,Instagram Ads,Tablet
+1492,2025-09-27,LinkedIn,Desktop
+537,2025-09-27,Google Ads,Desktop
+4535,2025-09-27,Facebook Ads,Mobile
+2687,2025-09-27,Organic,Tablet
+2655,2025-09-27,Google Ads,Mobile
+2502,2025-09-27,Instagram Ads,Mobile
+1366,2025-09-27,Google Ads,Mobile
+1594,2025-09-27,Instagram Ads,Tablet
+4802,2025-09-27,Google Ads,Desktop
+2897,2025-09-27,LinkedIn,Mobile
+2664,2025-09-27,Organic,Mobile
+1439,2025-09-27,Google Ads,Tablet
+1084,2025-09-28,Emailing,Mobile
+169,2025-09-28,LinkedIn,Desktop
+1236,2025-09-28,LinkedIn,Mobile
+3398,2025-09-28,Facebook Ads,Desktop
+3159,2025-09-28,LinkedIn,Mobile
+3386,2025-09-28,Google Ads,Tablet
+687,2025-09-28,Instagram Ads,Mobile
+178,2025-09-28,Instagram Ads,Tablet
+2871,2025-09-28,LinkedIn,Tablet
+2840,2025-09-28,Facebook Ads,Mobile
+4392,2025-09-29,Facebook Ads,Tablet
+4498,2025-09-29,Instagram Ads,Tablet
+598,2025-09-29,Instagram Ads,Tablet
+3158,2025-09-29,Google Ads,Tablet
+2647,2025-09-29,Organic,Mobile
+3818,2025-09-29,Organic,Mobile
+1390,2025-09-29,Facebook Ads,Mobile
+4511,2025-09-29,Organic,Desktop
+1698,2025-09-29,Organic,Desktop
+2659,2025-09-29,Emailing,Tablet
+3956,2025-09-29,Facebook Ads,Mobile
+2040,2025-09-29,LinkedIn,Mobile
+210,2025-09-29,Organic,Tablet
+412,2025-09-29,Google Ads,Mobile
+1135,2025-09-29,Facebook Ads,Desktop
+2339,2025-09-29,Google Ads,Mobile
+2237,2025-09-29,Facebook Ads,Tablet
+3033,2025-09-29,Facebook Ads,Tablet
+4907,2025-09-29,Instagram Ads,Tablet
+3456,2025-09-29,Facebook Ads,Desktop
+4133,2025-09-30,Facebook Ads,Desktop
+2086,2025-09-30,Emailing,Tablet
+1777,2025-09-30,Organic,Mobile
+4401,2025-09-30,Facebook Ads,Mobile
+1419,2025-09-30,Emailing,Desktop
+540,2025-09-30,Emailing,Tablet
+4639,2025-09-30,Organic,Tablet
+4406,2025-09-30,Google Ads,Tablet
+714,2025-09-30,Instagram Ads,Tablet
+1233,2025-09-30,Facebook Ads,Desktop
+4996,2025-09-30,LinkedIn,Mobile
+4467,2025-09-30,Instagram Ads,Tablet
+773,2025-09-30,Google Ads,Desktop
+2150,2025-09-30,Google Ads,Mobile
+4198,2025-09-30,Facebook Ads,Tablet
+3228,2025-09-30,Instagram Ads,Desktop
+2443,2025-09-30,Google Ads,Desktop
+1915,2025-09-30,Instagram Ads,Mobile
+1411,2025-09-30,Facebook Ads,Mobile
+3926,2025-10-01,Organic,Desktop
+1896,2025-10-01,Organic,Desktop
+4091,2025-10-01,Organic,Desktop
+1061,2025-10-01,Organic,Desktop
+302,2025-10-01,LinkedIn,Mobile
+4043,2025-10-01,Organic,Tablet
+2219,2025-10-01,Emailing,Mobile
+3659,2025-10-01,Organic,Mobile
+3591,2025-10-01,Organic,Tablet
+541,2025-10-01,Google Ads,Mobile
+535,2025-10-01,Google Ads,Tablet
+3323,2025-10-01,Facebook Ads,Tablet
+3647,2025-10-01,Emailing,Mobile
+1317,2025-10-01,Facebook Ads,Tablet
+550,2025-10-01,Instagram Ads,Tablet
+751,2025-10-02,Facebook Ads,Desktop
+1000,2025-10-02,LinkedIn,Mobile
+4429,2025-10-02,LinkedIn,Mobile
+2407,2025-10-02,LinkedIn,Tablet
+3716,2025-10-02,LinkedIn,Desktop
+4936,2025-10-02,Facebook Ads,Tablet
+400,2025-10-02,Organic,Tablet
+4262,2025-10-02,Facebook Ads,Desktop
+1755,2025-10-02,Organic,Mobile
+4309,2025-10-02,Instagram Ads,Desktop
+3617,2025-10-02,Google Ads,Tablet
+1227,2025-10-02,Emailing,Desktop
+947,2025-10-02,Organic,Mobile
+1699,2025-10-02,Google Ads,Tablet
+4999,2025-10-03,Instagram Ads,Desktop
+157,2025-10-03,Instagram Ads,Desktop
+1745,2025-10-03,Emailing,Tablet
+2645,2025-10-03,LinkedIn,Mobile
+1387,2025-10-03,Google Ads,Desktop
+704,2025-10-03,Emailing,Desktop
+2727,2025-10-03,Emailing,Tablet
+4214,2025-10-03,LinkedIn,Tablet
+265,2025-10-03,Facebook Ads,Tablet
+4640,2025-10-03,Organic,Tablet
+2051,2025-10-03,LinkedIn,Mobile
+1182,2025-10-03,Instagram Ads,Desktop
+3479,2025-10-03,Facebook Ads,Tablet
+3828,2025-10-04,Google Ads,Tablet
+4613,2025-10-04,Instagram Ads,Desktop
+1096,2025-10-04,Instagram Ads,Tablet
+3214,2025-10-04,Facebook Ads,Desktop
+523,2025-10-04,Facebook Ads,Tablet
+2026,2025-10-04,Emailing,Mobile
+1217,2025-10-04,LinkedIn,Mobile
+510,2025-10-04,Emailing,Mobile
+3201,2025-10-04,Google Ads,Desktop
+291,2025-10-04,Facebook Ads,Mobile
+3162,2025-10-04,Instagram Ads,Tablet
+323,2025-10-05,Google Ads,Desktop
+2928,2025-10-05,LinkedIn,Tablet
+473,2025-10-05,LinkedIn,Tablet
+1668,2025-10-05,LinkedIn,Tablet
+4243,2025-10-05,Facebook Ads,Desktop
+1676,2025-10-05,Facebook Ads,Desktop
+3735,2025-10-05,Emailing,Mobile
+1542,2025-10-05,LinkedIn,Tablet
+384,2025-10-05,LinkedIn,Mobile
+3502,2025-10-05,Google Ads,Mobile
+4087,2025-10-05,Emailing,Mobile
+2351,2025-10-05,Google Ads,Desktop
+4268,2025-10-05,Emailing,Tablet
+440,2025-10-06,LinkedIn,Desktop
+4521,2025-10-06,Google Ads,Tablet
+4270,2025-10-06,Facebook Ads,Desktop
+1863,2025-10-06,Google Ads,Desktop
+2323,2025-10-06,Organic,Mobile
+138,2025-10-06,Facebook Ads,Mobile
+4489,2025-10-06,Emailing,Desktop
+1910,2025-10-06,Organic,Mobile
+4528,2025-10-06,Emailing,Mobile
+4868,2025-10-06,Facebook Ads,Tablet
+1729,2025-10-06,Facebook Ads,Tablet
+360,2025-10-06,Emailing,Tablet
+989,2025-10-07,Organic,Tablet
+1824,2025-10-07,Organic,Tablet
+2255,2025-10-07,Organic,Mobile
+1991,2025-10-07,Emailing,Desktop
+4045,2025-10-07,Instagram Ads,Tablet
+471,2025-10-07,Organic,Mobile
+534,2025-10-07,Organic,Desktop
+3624,2025-10-07,Instagram Ads,Desktop
+3299,2025-10-08,LinkedIn,Tablet
+1624,2025-10-08,Emailing,Desktop
+3898,2025-10-08,Facebook Ads,Desktop
+3134,2025-10-08,Instagram Ads,Tablet
+307,2025-10-08,LinkedIn,Mobile
+765,2025-10-08,Facebook Ads,Desktop
+4247,2025-10-08,Instagram Ads,Tablet
+3198,2025-10-08,Emailing,Tablet
+4166,2025-10-08,LinkedIn,Tablet
+3046,2025-10-08,Facebook Ads,Desktop
+2955,2025-10-08,LinkedIn,Tablet
+1285,2025-10-08,Organic,Tablet
+2716,2025-10-08,Google Ads,Mobile
+501,2025-10-08,Organic,Tablet
+984,2025-10-08,Google Ads,Desktop
+3886,2025-10-09,Facebook Ads,Desktop
+2371,2025-10-09,Google Ads,Desktop
+4891,2025-10-09,LinkedIn,Mobile
+4311,2025-10-09,Instagram Ads,Desktop
+3965,2025-10-09,Instagram Ads,Mobile
+1694,2025-10-09,Emailing,Desktop
+1806,2025-10-09,Instagram Ads,Mobile
+1563,2025-10-09,LinkedIn,Tablet
+2742,2025-10-09,Instagram Ads,Desktop
+3178,2025-10-09,Organic,Tablet
+1376,2025-10-09,Facebook Ads,Mobile
+3268,2025-10-09,Instagram Ads,Desktop
+3329,2025-10-09,Facebook Ads,Tablet
+4767,2025-10-09,LinkedIn,Mobile
+2187,2025-10-09,Organic,Tablet
+1083,2025-10-09,Instagram Ads,Tablet
+1398,2025-10-09,LinkedIn,Mobile
+4714,2025-10-10,Facebook Ads,Desktop
+735,2025-10-10,Organic,Desktop
+2399,2025-10-10,Facebook Ads,Desktop
+4950,2025-10-10,Facebook Ads,Desktop
+4305,2025-10-10,Emailing,Mobile
+200,2025-10-10,Organic,Mobile
+1642,2025-10-10,Organic,Tablet
+2606,2025-10-10,Instagram Ads,Tablet
+1278,2025-10-10,Emailing,Mobile
+4842,2025-10-11,Organic,Desktop
+777,2025-10-11,Google Ads,Desktop
+1859,2025-10-11,Instagram Ads,Tablet
+555,2025-10-11,Emailing,Desktop
+1168,2025-10-11,Facebook Ads,Desktop
+2295,2025-10-11,Instagram Ads,Desktop
+3281,2025-10-11,Organic,Tablet
+871,2025-10-11,Instagram Ads,Mobile
+2652,2025-10-11,Facebook Ads,Desktop
+3774,2025-10-11,Instagram Ads,Mobile
+1512,2025-10-11,Emailing,Desktop
+2302,2025-10-11,Instagram Ads,Mobile
+2779,2025-10-11,Facebook Ads,Mobile
+224,2025-10-11,Facebook Ads,Tablet
+4985,2025-10-11,Facebook Ads,Tablet
+2350,2025-10-12,Emailing,Mobile
+795,2025-10-12,LinkedIn,Desktop
+2320,2025-10-12,Instagram Ads,Desktop
+282,2025-10-12,LinkedIn,Desktop
+2137,2025-10-12,Emailing,Tablet
+910,2025-10-12,LinkedIn,Desktop
+647,2025-10-12,Organic,Tablet
+3143,2025-10-12,Google Ads,Mobile
+2435,2025-10-12,Facebook Ads,Desktop
+2144,2025-10-12,Organic,Desktop
+4774,2025-10-12,Instagram Ads,Mobile
+2409,2025-10-12,Facebook Ads,Tablet
+2527,2025-10-13,Google Ads,Tablet
+1353,2025-10-13,LinkedIn,Tablet
+4361,2025-10-13,LinkedIn,Tablet
+434,2025-10-13,Google Ads,Tablet
+1039,2025-10-13,Organic,Desktop
+851,2025-10-13,Facebook Ads,Desktop
+530,2025-10-13,Google Ads,Mobile
+3870,2025-10-13,Facebook Ads,Mobile
+1769,2025-10-13,Facebook Ads,Desktop
+3352,2025-10-13,Instagram Ads,Tablet
+561,2025-10-13,Facebook Ads,Desktop
+3316,2025-10-13,Facebook Ads,Tablet
+3952,2025-10-13,Instagram Ads,Desktop
+3354,2025-10-13,Organic,Desktop
+180,2025-10-13,Google Ads,Tablet
+2933,2025-10-14,Facebook Ads,Mobile
+745,2025-10-14,Instagram Ads,Mobile
+4251,2025-10-14,Instagram Ads,Desktop
+2807,2025-10-14,Google Ads,Mobile
+560,2025-10-14,Instagram Ads,Desktop
+4348,2025-10-14,LinkedIn,Mobile
+191,2025-10-14,Organic,Mobile
+4831,2025-10-14,Google Ads,Tablet
+4836,2025-10-14,Google Ads,Mobile
+4731,2025-10-14,Instagram Ads,Tablet
+5097,2025-10-14,Emailing,Mobile
+481,2025-10-14,Emailing,Tablet
+233,2025-10-14,Emailing,Tablet
+2061,2025-10-14,Organic,Mobile
+1582,2025-10-14,Google Ads,Mobile
+3861,2025-10-14,Google Ads,Tablet
+3889,2025-10-14,Instagram Ads,Mobile
+4030,2025-10-14,Facebook Ads,Mobile
+3938,2025-10-14,LinkedIn,Desktop
+1518,2025-10-15,Google Ads,Tablet
+2439,2025-10-15,Emailing,Desktop
+1822,2025-10-15,Organic,Mobile
+5003,2025-10-15,Facebook Ads,Tablet
+4899,2025-10-15,Google Ads,Desktop
+2456,2025-10-15,Instagram Ads,Mobile
+2467,2025-10-15,Emailing,Tablet
+4501,2025-10-15,LinkedIn,Mobile
+705,2025-10-15,Organic,Mobile
+1134,2025-10-15,Emailing,Desktop
+141,2025-10-15,Facebook Ads,Tablet
+2681,2025-10-15,Instagram Ads,Tablet
+1922,2025-10-15,LinkedIn,Mobile
+1947,2025-10-15,Facebook Ads,Desktop
+1636,2025-10-15,Organic,Tablet
+819,2025-10-16,Google Ads,Desktop
+3689,2025-10-16,Google Ads,Mobile
+4167,2025-10-16,LinkedIn,Desktop
+5077,2025-10-16,Instagram Ads,Mobile
+4413,2025-10-16,Facebook Ads,Desktop
+2787,2025-10-16,Instagram Ads,Tablet
+2579,2025-10-16,Organic,Mobile
+3782,2025-10-16,Emailing,Desktop
+4901,2025-10-16,Instagram Ads,Mobile
+2803,2025-10-16,Emailing,Tablet
+1354,2025-10-16,Emailing,Mobile
+913,2025-10-16,Facebook Ads,Tablet
+4303,2025-10-16,Google Ads,Desktop
+873,2025-10-17,Google Ads,Mobile
+3001,2025-10-17,Google Ads,Desktop
+2268,2025-10-17,LinkedIn,Desktop
+1747,2025-10-17,LinkedIn,Desktop
+4287,2025-10-17,Organic,Desktop
+689,2025-10-17,LinkedIn,Mobile
+1937,2025-10-17,Google Ads,Desktop
+4379,2025-10-17,Google Ads,Mobile
+4500,2025-10-17,Instagram Ads,Tablet
+1693,2025-10-17,Emailing,Mobile
+756,2025-10-17,Facebook Ads,Mobile
+395,2025-10-17,Emailing,Desktop
+3512,2025-10-18,Organic,Tablet
+4187,2025-10-18,Emailing,Tablet
+2416,2025-10-18,Organic,Mobile
+1220,2025-10-18,Emailing,Mobile
+3636,2025-10-18,Organic,Desktop
+1488,2025-10-18,Facebook Ads,Mobile
+1262,2025-10-18,Emailing,Tablet
+1347,2025-10-18,Organic,Mobile
+2577,2025-10-18,Instagram Ads,Tablet
+4688,2025-10-18,Instagram Ads,Desktop
+1835,2025-10-18,Facebook Ads,Desktop
+640,2025-10-18,Organic,Tablet
+688,2025-10-18,Facebook Ads,Mobile
+1300,2025-10-18,Emailing,Desktop
+4432,2025-10-19,Organic,Mobile
+1785,2025-10-19,Instagram Ads,Tablet
+1466,2025-10-19,Organic,Tablet
+4285,2025-10-19,LinkedIn,Tablet
+2085,2025-10-19,Instagram Ads,Mobile
+4972,2025-10-19,Google Ads,Desktop
+4598,2025-10-19,Organic,Desktop
+3095,2025-10-19,Emailing,Desktop
+1969,2025-10-19,Facebook Ads,Mobile
+657,2025-10-19,LinkedIn,Desktop
+1392,2025-10-19,Google Ads,Tablet
+4744,2025-10-19,LinkedIn,Desktop
+2700,2025-10-19,Google Ads,Mobile
+4567,2025-10-19,Organic,Tablet
+1798,2025-10-20,LinkedIn,Mobile
+663,2025-10-20,Instagram Ads,Mobile
+2865,2025-10-20,Facebook Ads,Tablet
+4242,2025-10-20,Facebook Ads,Desktop
+1098,2025-10-20,Organic,Desktop
+1686,2025-10-20,Google Ads,Desktop
+804,2025-10-20,Google Ads,Desktop
+2767,2025-10-20,Instagram Ads,Tablet
+1047,2025-10-20,Emailing,Tablet
+2622,2025-10-20,Organic,Tablet
+4564,2025-10-20,Facebook Ads,Desktop
+4054,2025-10-20,Instagram Ads,Tablet
+2094,2025-10-20,Organic,Tablet
+855,2025-10-21,Facebook Ads,Mobile
+2556,2025-10-21,Instagram Ads,Mobile
+3652,2025-10-21,Emailing,Mobile
+4787,2025-10-21,Organic,Mobile
+2114,2025-10-21,LinkedIn,Desktop
+691,2025-10-21,Google Ads,Mobile
+4669,2025-10-21,Organic,Tablet
+122,2025-10-21,Facebook Ads,Mobile
+4735,2025-10-21,Emailing,Mobile
+1850,2025-10-21,Instagram Ads,Desktop
+1535,2025-10-21,LinkedIn,Tablet
+1031,2025-10-21,Organic,Desktop
+280,2025-10-21,Google Ads,Desktop
+4799,2025-10-21,Organic,Mobile
+2844,2025-10-22,Organic,Mobile
+1821,2025-10-22,Instagram Ads,Desktop
+3429,2025-10-22,Instagram Ads,Tablet
+3701,2025-10-22,LinkedIn,Desktop
+1020,2025-10-22,LinkedIn,Tablet
+2460,2025-10-22,Google Ads,Desktop
+2512,2025-10-22,Emailing,Desktop
+933,2025-10-22,Organic,Tablet
+2211,2025-10-22,Facebook Ads,Tablet
+4948,2025-10-22,Instagram Ads,Mobile
+2385,2025-10-22,Emailing,Mobile
+167,2025-10-22,Google Ads,Mobile
+363,2025-10-22,Facebook Ads,Desktop
+827,2025-10-22,Organic,Mobile
+4558,2025-10-22,Google Ads,Mobile
+2257,2025-10-22,Instagram Ads,Mobile
+2638,2025-10-23,Facebook Ads,Mobile
+4397,2025-10-23,Google Ads,Mobile
+3356,2025-10-23,Facebook Ads,Desktop
+1379,2025-10-23,Facebook Ads,Mobile
+2494,2025-10-23,Organic,Tablet
+3712,2025-10-23,Google Ads,Tablet
+531,2025-10-23,Emailing,Mobile
+4219,2025-10-23,LinkedIn,Tablet
+4508,2025-10-23,Google Ads,Desktop
+253,2025-10-23,LinkedIn,Tablet
+2695,2025-10-23,Google Ads,Desktop
+3655,2025-10-23,Facebook Ads,Mobile
+2848,2025-10-24,LinkedIn,Mobile
+2048,2025-10-24,Facebook Ads,Tablet
+3643,2025-10-24,LinkedIn,Tablet
+4957,2025-10-24,LinkedIn,Mobile
+4479,2025-10-24,Google Ads,Tablet
+4723,2025-10-24,Emailing,Mobile
+3626,2025-10-24,Instagram Ads,Desktop
+4997,2025-10-24,Instagram Ads,Desktop
+1794,2025-10-24,Instagram Ads,Tablet
+677,2025-10-24,Emailing,Tablet
+2861,2025-10-24,Facebook Ads,Mobile
+3997,2025-10-24,Organic,Desktop
+1524,2025-10-25,Organic,Mobile
+3831,2025-10-25,Instagram Ads,Desktop
+945,2025-10-25,LinkedIn,Mobile
+2010,2025-10-25,Facebook Ads,Mobile
+620,2025-10-25,Emailing,Tablet
+4968,2025-10-25,Instagram Ads,Tablet
+4105,2025-10-25,LinkedIn,Desktop
+1865,2025-10-25,Instagram Ads,Desktop
+876,2025-10-25,Google Ads,Mobile
+2584,2025-10-25,Facebook Ads,Tablet
+1891,2025-10-25,Facebook Ads,Desktop
+891,2025-10-26,Emailing,Desktop
+902,2025-10-26,Facebook Ads,Tablet
+690,2025-10-26,Emailing,Mobile
+3732,2025-10-26,Instagram Ads,Mobile
+861,2025-10-26,Google Ads,Desktop
+5086,2025-10-26,Facebook Ads,Mobile
+766,2025-10-26,LinkedIn,Desktop
+1322,2025-10-26,Emailing,Mobile
+1738,2025-10-26,LinkedIn,Desktop
+4373,2025-10-26,Instagram Ads,Mobile
+2216,2025-10-26,Organic,Desktop
+4398,2025-10-26,Instagram Ads,Tablet
+1811,2025-10-26,Google Ads,Desktop
+2138,2025-10-26,Facebook Ads,Mobile
+2995,2025-10-26,LinkedIn,Tablet
+4934,2025-10-27,Emailing,Tablet
+3581,2025-10-27,Facebook Ads,Desktop
+4104,2025-10-27,Google Ads,Desktop
+105,2025-10-27,LinkedIn,Desktop
+1210,2025-10-27,Instagram Ads,Tablet
+2497,2025-10-27,Emailing,Tablet
+2540,2025-10-27,Organic,Tablet
+3179,2025-10-27,Instagram Ads,Tablet
+976,2025-10-27,LinkedIn,Tablet
+967,2025-10-27,Emailing,Desktop
+106,2025-10-27,Google Ads,Mobile
+799,2025-10-27,Google Ads,Mobile
+3646,2025-10-27,Organic,Mobile
+4653,2025-10-27,Organic,Tablet
+3746,2025-10-27,Facebook Ads,Desktop
+4568,2025-10-28,LinkedIn,Desktop
+3562,2025-10-28,LinkedIn,Tablet
+419,2025-10-28,LinkedIn,Desktop
+4135,2025-10-28,Facebook Ads,Desktop
+3973,2025-10-28,Instagram Ads,Tablet
+4128,2025-10-28,Google Ads,Mobile
+2203,2025-10-28,LinkedIn,Tablet
+1257,2025-10-28,Emailing,Mobile
+3444,2025-10-28,LinkedIn,Tablet
+3097,2025-10-28,Emailing,Desktop
+212,2025-10-29,LinkedIn,Tablet
+4926,2025-10-29,Facebook Ads,Tablet
+3768,2025-10-29,Facebook Ads,Tablet
+2521,2025-10-29,Instagram Ads,Desktop
+2092,2025-10-29,Google Ads,Desktop
+768,2025-10-29,Organic,Desktop
+3945,2025-10-29,Organic,Tablet
+4100,2025-10-29,Google Ads,Mobile
+1985,2025-10-29,Google Ads,Desktop
+3274,2025-10-29,Instagram Ads,Desktop
+3311,2025-10-29,Facebook Ads,Tablet
+303,2025-10-29,Facebook Ads,Desktop
+310,2025-10-29,Facebook Ads,Tablet
+1422,2025-10-29,Google Ads,Desktop
+1265,2025-10-29,Google Ads,Tablet
+4038,2025-10-29,Organic,Mobile
+3322,2025-10-29,Google Ads,Mobile
+4581,2025-10-29,Facebook Ads,Mobile
+3273,2025-10-29,Organic,Mobile
+454,2025-10-30,Emailing,Tablet
+3829,2025-10-30,Organic,Desktop
+4381,2025-10-30,Organic,Desktop
+4897,2025-10-30,LinkedIn,Tablet
+606,2025-10-30,Google Ads,Tablet
+4469,2025-10-30,Instagram Ads,Mobile
+3072,2025-10-30,Emailing,Desktop
+4355,2025-10-30,Facebook Ads,Mobile
+1313,2025-10-30,Emailing,Mobile
+2231,2025-10-30,Organic,Tablet
+1481,2025-10-30,Google Ads,Tablet
+4049,2025-10-30,Google Ads,Tablet
+2914,2025-10-30,Instagram Ads,Mobile
+831,2025-10-30,Instagram Ads,Desktop
+5006,2025-10-30,Emailing,Mobile
+830,2025-10-30,LinkedIn,Tablet
+2908,2025-10-30,Organic,Desktop
+1501,2025-10-31,Facebook Ads,Tablet
+3869,2025-10-31,Instagram Ads,Tablet
+5015,2025-10-31,Instagram Ads,Mobile
+2169,2025-10-31,LinkedIn,Mobile
+1968,2025-10-31,Facebook Ads,Desktop
+1188,2025-10-31,Google Ads,Mobile
+2734,2025-10-31,Instagram Ads,Mobile
+2153,2025-10-31,Instagram Ads,Desktop
+2878,2025-10-31,Facebook Ads,Mobile
+3325,2025-10-31,LinkedIn,Tablet
+1059,2025-10-31,Emailing,Mobile
+2492,2025-10-31,LinkedIn,Desktop
+3317,2025-10-31,LinkedIn,Mobile
+2228,2025-10-31,Instagram Ads,Mobile
+355,2025-11-01,Organic,Mobile
+1502,2025-11-01,Emailing,Desktop
+1397,2025-11-01,Emailing,Tablet
+1493,2025-11-01,Organic,Mobile
+3977,2025-11-01,Instagram Ads,Desktop
+3570,2025-11-01,Instagram Ads,Tablet
+1672,2025-11-01,Google Ads,Desktop
+4830,2025-11-01,Emailing,Desktop
+3556,2025-11-01,Facebook Ads,Desktop
+4750,2025-11-01,Organic,Mobile
+701,2025-11-01,LinkedIn,Tablet
+3625,2025-11-01,LinkedIn,Desktop
+4756,2025-11-01,Facebook Ads,Tablet
+4928,2025-11-01,Google Ads,Desktop
+4911,2025-11-01,Emailing,Tablet
+3036,2025-11-01,Organic,Tablet
+783,2025-11-02,Organic,Tablet
+1035,2025-11-02,Google Ads,Tablet
+4499,2025-11-02,Organic,Mobile
+698,2025-11-02,Facebook Ads,Mobile
+3346,2025-11-02,LinkedIn,Mobile
+4641,2025-11-02,Facebook Ads,Tablet
+3433,2025-11-02,Google Ads,Mobile
+132,2025-11-02,Organic,Desktop
+3899,2025-11-02,Organic,Desktop
+4039,2025-11-02,LinkedIn,Mobile
+3754,2025-11-02,Google Ads,Mobile
+2252,2025-11-03,Instagram Ads,Tablet
+443,2025-11-03,Organic,Tablet
+276,2025-11-03,Instagram Ads,Desktop
+4611,2025-11-03,Emailing,Mobile
+2273,2025-11-03,LinkedIn,Mobile
+1909,2025-11-03,LinkedIn,Mobile
+2960,2025-11-03,Facebook Ads,Desktop
+4204,2025-11-03,Facebook Ads,Desktop
+3720,2025-11-03,Emailing,Mobile
+1725,2025-11-03,Facebook Ads,Tablet
+1779,2025-11-03,Facebook Ads,Desktop
+3777,2025-11-03,LinkedIn,Tablet
+1206,2025-11-03,Organic,Tablet
+1791,2025-11-03,Emailing,Desktop
+418,2025-11-03,LinkedIn,Mobile
+771,2025-11-03,LinkedIn,Mobile
+4416,2025-11-04,Instagram Ads,Tablet
+1053,2025-11-04,Instagram Ads,Mobile
+943,2025-11-04,Google Ads,Mobile
+488,2025-11-04,Google Ads,Tablet
+340,2025-11-04,Emailing,Mobile
+1196,2025-11-04,Instagram Ads,Tablet
+934,2025-11-04,Google Ads,Desktop
+1963,2025-11-04,Organic,Desktop
+4271,2025-11-04,Organic,Mobile
+1546,2025-11-04,Facebook Ads,Tablet
+703,2025-11-04,LinkedIn,Tablet
+3692,2025-11-04,LinkedIn,Mobile
+4520,2025-11-04,Google Ads,Tablet
+3141,2025-11-05,Facebook Ads,Mobile
+986,2025-11-05,Facebook Ads,Desktop
+4945,2025-11-05,Facebook Ads,Desktop
+3313,2025-11-05,Organic,Mobile
+4984,2025-11-05,Facebook Ads,Desktop
+4529,2025-11-05,Emailing,Tablet
+1469,2025-11-05,Facebook Ads,Desktop
+1117,2025-11-05,Emailing,Desktop
+3565,2025-11-05,Facebook Ads,Tablet
+4630,2025-11-05,Organic,Desktop
+3091,2025-11-05,Facebook Ads,Tablet
+4708,2025-11-06,Instagram Ads,Tablet
+693,2025-11-06,Instagram Ads,Desktop
+3382,2025-11-06,Facebook Ads,Mobile
+1472,2025-11-06,Organic,Desktop
+115,2025-11-06,Google Ads,Tablet
+885,2025-11-06,Instagram Ads,Desktop
+116,2025-11-06,Google Ads,Desktop
+968,2025-11-06,LinkedIn,Tablet
+3024,2025-11-06,Google Ads,Tablet
+822,2025-11-06,Instagram Ads,Mobile
+4032,2025-11-06,Emailing,Desktop
+1427,2025-11-06,Emailing,Desktop
+4547,2025-11-06,Organic,Tablet
+3972,2025-11-06,Google Ads,Desktop
+1637,2025-11-06,Google Ads,Tablet
+1639,2025-11-06,Organic,Tablet
+3706,2025-11-06,Organic,Mobile
+1003,2025-11-06,Organic,Tablet
+1101,2025-11-07,Organic,Mobile
+1340,2025-11-07,Organic,Tablet
+150,2025-11-07,Facebook Ads,Mobile
+3857,2025-11-07,Google Ads,Desktop
+3824,2025-11-07,LinkedIn,Tablet
+721,2025-11-07,Organic,Tablet
+4470,2025-11-07,LinkedIn,Tablet
+2081,2025-11-07,Organic,Desktop
+3703,2025-11-07,Organic,Tablet
+2213,2025-11-07,Emailing,Tablet
+3276,2025-11-07,Emailing,Tablet
+2980,2025-11-07,LinkedIn,Tablet
+1908,2025-11-07,Facebook Ads,Desktop
+2338,2025-11-07,Instagram Ads,Desktop
+4491,2025-11-07,Facebook Ads,Desktop
+2067,2025-11-07,LinkedIn,Tablet
+4460,2025-11-07,Google Ads,Tablet
+769,2025-11-08,Organic,Mobile
+1198,2025-11-08,Instagram Ads,Tablet
+268,2025-11-08,LinkedIn,Tablet
+2239,2025-11-08,Organic,Mobile
+4882,2025-11-08,Instagram Ads,Desktop
+3455,2025-11-08,Emailing,Desktop
+3195,2025-11-08,Organic,Tablet
+4296,2025-11-08,Instagram Ads,Desktop
+5059,2025-11-08,Google Ads,Mobile
+218,2025-11-08,Organic,Desktop
+790,2025-11-08,LinkedIn,Tablet
+594,2025-11-08,Emailing,Desktop
+1998,2025-11-08,Instagram Ads,Mobile
+3478,2025-11-08,Instagram Ads,Tablet
+2900,2025-11-09,Emailing,Mobile
+4759,2025-11-09,LinkedIn,Desktop
+4904,2025-11-09,Google Ads,Mobile
+2953,2025-11-09,Google Ads,Tablet
+4330,2025-11-09,Google Ads,Desktop
+4847,2025-11-09,LinkedIn,Desktop
+956,2025-11-09,LinkedIn,Desktop
+3856,2025-11-09,Google Ads,Mobile
+3469,2025-11-09,Instagram Ads,Tablet
+1701,2025-11-10,Organic,Mobile
+4114,2025-11-10,LinkedIn,Tablet
+4956,2025-11-10,Google Ads,Tablet
+3303,2025-11-10,Emailing,Desktop
+699,2025-11-10,Instagram Ads,Mobile
+2548,2025-11-11,Facebook Ads,Tablet
+4808,2025-11-11,Organic,Tablet
+1838,2025-11-11,Organic,Tablet
+3599,2025-11-11,Instagram Ads,Desktop
+4302,2025-11-11,Google Ads,Tablet
+469,2025-11-11,Organic,Tablet
+3690,2025-11-11,LinkedIn,Mobile
+2843,2025-11-11,Emailing,Mobile
+4973,2025-11-11,Organic,Mobile
+4619,2025-11-11,Google Ads,Mobile
+2390,2025-11-11,Organic,Mobile
+3677,2025-11-11,Facebook Ads,Mobile
+2888,2025-11-11,Facebook Ads,Tablet
+5014,2025-11-11,Instagram Ads,Mobile
+158,2025-11-11,Facebook Ads,Tablet
+3434,2025-11-11,Organic,Mobile
+1615,2025-11-11,Facebook Ads,Mobile
+3061,2025-11-11,LinkedIn,Tablet
+335,2025-11-11,Instagram Ads,Tablet
+3131,2025-11-12,Google Ads,Desktop
+4920,2025-11-12,Google Ads,Mobile
+4701,2025-11-12,Instagram Ads,Mobile
+2131,2025-11-12,LinkedIn,Desktop
+1437,2025-11-12,Facebook Ads,Tablet
+2774,2025-11-12,LinkedIn,Desktop
+1948,2025-11-12,Emailing,Tablet
+172,2025-11-12,Emailing,Tablet
+127,2025-11-12,Organic,Tablet
+3215,2025-11-12,Facebook Ads,Tablet
+4632,2025-11-12,Emailing,Tablet
+3235,2025-11-13,Instagram Ads,Desktop
+829,2025-11-13,LinkedIn,Desktop
+2605,2025-11-13,Google Ads,Tablet
+2212,2025-11-13,Instagram Ads,Desktop
+1539,2025-11-13,Facebook Ads,Desktop
+3183,2025-11-13,Instagram Ads,Tablet
+2006,2025-11-13,Organic,Desktop
+2167,2025-11-13,Emailing,Desktop
+4471,2025-11-13,Facebook Ads,Tablet
+3448,2025-11-13,LinkedIn,Mobile
+1357,2025-11-13,Organic,Mobile
+1727,2025-11-13,LinkedIn,Mobile
+2566,2025-11-13,Facebook Ads,Mobile
+4150,2025-11-13,LinkedIn,Desktop
+1396,2025-11-13,Emailing,Desktop
+3151,2025-11-14,Organic,Tablet
+996,2025-11-14,Google Ads,Tablet
+1994,2025-11-14,Facebook Ads,Tablet
+2173,2025-11-14,Google Ads,Desktop
+3390,2025-11-14,Google Ads,Desktop
+4823,2025-11-14,Google Ads,Tablet
+2978,2025-11-14,Emailing,Desktop
+2592,2025-11-14,Organic,Tablet
+4981,2025-11-14,Facebook Ads,Desktop
+3756,2025-11-14,Facebook Ads,Tablet
+955,2025-11-14,LinkedIn,Desktop
+5062,2025-11-14,Instagram Ads,Mobile
+3361,2025-11-14,LinkedIn,Mobile
+2193,2025-11-14,Emailing,Desktop
+2983,2025-11-15,Organic,Desktop
+3740,2025-11-15,Instagram Ads,Tablet
+4692,2025-11-15,LinkedIn,Mobile
+3358,2025-11-15,Google Ads,Desktop
+2393,2025-11-15,Facebook Ads,Desktop
+5008,2025-11-15,Emailing,Mobile
+5078,2025-11-15,Emailing,Mobile
+707,2025-11-15,LinkedIn,Desktop
+1001,2025-11-15,Facebook Ads,Mobile
+1921,2025-11-15,Facebook Ads,Tablet
+1511,2025-11-15,Google Ads,Desktop
+1045,2025-11-15,Emailing,Mobile
+2627,2025-11-16,Emailing,Desktop
+3641,2025-11-16,Google Ads,Tablet
+2880,2025-11-16,Facebook Ads,Mobile
+2751,2025-11-16,Emailing,Desktop
+4573,2025-11-16,Facebook Ads,Mobile
+4585,2025-11-16,Google Ads,Tablet
+3620,2025-11-16,Google Ads,Desktop
+1462,2025-11-16,Google Ads,Mobile
+4678,2025-11-16,Facebook Ads,Desktop
+1767,2025-11-16,Emailing,Mobile
+4162,2025-11-16,Instagram Ads,Desktop
+4383,2025-11-16,Organic,Tablet
+953,2025-11-16,Organic,Tablet
+722,2025-11-16,Instagram Ads,Mobile
+3925,2025-11-16,Emailing,Desktop
+3543,2025-11-17,Emailing,Desktop
+2282,2025-11-17,Emailing,Desktop
+1656,2025-11-17,Google Ads,Desktop
+114,2025-11-17,Google Ads,Tablet
+2759,2025-11-17,Organic,Desktop
+4092,2025-11-17,Emailing,Mobile
+3846,2025-11-17,Emailing,Desktop
+1333,2025-11-17,LinkedIn,Mobile
+743,2025-11-17,Facebook Ads,Tablet
+1972,2025-11-17,Instagram Ads,Tablet
+662,2025-11-17,Emailing,Tablet
+3596,2025-11-17,Emailing,Tablet
+3451,2025-11-18,Facebook Ads,Mobile
+3891,2025-11-18,Facebook Ads,Desktop
+5066,2025-11-18,Google Ads,Mobile
+1559,2025-11-18,Emailing,Desktop
+2763,2025-11-18,Instagram Ads,Mobile
+1852,2025-11-18,Emailing,Desktop
+3220,2025-11-18,Google Ads,Tablet
+1808,2025-11-18,LinkedIn,Tablet
+4440,2025-11-18,Organic,Mobile
+1074,2025-11-18,LinkedIn,Desktop
+398,2025-11-18,Google Ads,Desktop
+4643,2025-11-18,Google Ads,Tablet
+3471,2025-11-19,LinkedIn,Desktop
+3705,2025-11-19,Emailing,Desktop
+4232,2025-11-19,Google Ads,Mobile
+2508,2025-11-19,Google Ads,Tablet
+1179,2025-11-19,LinkedIn,Desktop
+3415,2025-11-19,LinkedIn,Desktop
+3723,2025-11-19,Emailing,Tablet
+1675,2025-11-19,Facebook Ads,Tablet
+4185,2025-11-19,Organic,Desktop
+2397,2025-11-19,Organic,Desktop
+1424,2025-11-20,Instagram Ads,Tablet
+1234,2025-11-20,LinkedIn,Desktop
+3722,2025-11-20,Facebook Ads,Mobile
+3930,2025-11-20,Instagram Ads,Tablet
+3984,2025-11-20,Emailing,Mobile
+4668,2025-11-20,Google Ads,Mobile
+4825,2025-11-20,Organic,Desktop
+3405,2025-11-20,LinkedIn,Tablet
+3337,2025-11-20,Instagram Ads,Mobile
+1316,2025-11-20,Organic,Desktop
+1197,2025-11-20,Instagram Ads,Mobile
+2957,2025-11-20,Facebook Ads,Mobile
+1111,2025-11-20,Instagram Ads,Tablet
+4457,2025-11-20,LinkedIn,Mobile
+2052,2025-11-20,Facebook Ads,Tablet
+931,2025-11-21,Google Ads,Desktop
+2924,2025-11-21,Google Ads,Tablet
+980,2025-11-21,Organic,Mobile
+3330,2025-11-21,Emailing,Mobile
+4034,2025-11-21,Google Ads,Tablet
+3015,2025-11-21,Organic,Desktop
+1940,2025-11-21,LinkedIn,Desktop
+232,2025-11-21,Organic,Desktop
+314,2025-11-21,Instagram Ads,Tablet
+4543,2025-11-21,LinkedIn,Desktop
+4083,2025-11-21,Organic,Tablet
+1212,2025-11-21,Organic,Mobile
+1213,2025-11-21,Facebook Ads,Mobile
+569,2025-11-21,Google Ads,Tablet
+4084,2025-11-22,Facebook Ads,Desktop
+2275,2025-11-22,Emailing,Mobile
+274,2025-11-22,Google Ads,Mobile
+2675,2025-11-22,Google Ads,Desktop
+3008,2025-11-22,Google Ads,Desktop
+3913,2025-11-22,Facebook Ads,Mobile
+4180,2025-11-22,Instagram Ads,Mobile
+2842,2025-11-22,LinkedIn,Desktop
+1593,2025-11-22,LinkedIn,Mobile
+5028,2025-11-22,Facebook Ads,Mobile
+4465,2025-11-22,Organic,Tablet
+2139,2025-11-22,Google Ads,Tablet
+1703,2025-11-22,Google Ads,Tablet
+209,2025-11-23,Facebook Ads,Mobile
+1655,2025-11-23,Instagram Ads,Mobile
+643,2025-11-23,Google Ads,Desktop
+1133,2025-11-23,Google Ads,Mobile
+225,2025-11-23,Instagram Ads,Mobile
+1433,2025-11-23,Emailing,Tablet
+2828,2025-11-23,Organic,Tablet
+877,2025-11-23,LinkedIn,Desktop
+4120,2025-11-23,Emailing,Mobile
+2922,2025-11-23,LinkedIn,Desktop
+1332,2025-11-23,Emailing,Desktop
+3537,2025-11-23,Facebook Ads,Tablet
+3315,2025-11-23,Organic,Tablet
+2571,2025-11-23,LinkedIn,Desktop
+3697,2025-11-23,Google Ads,Mobile
+3621,2025-11-23,Organic,Desktop
+1195,2025-11-24,Google Ads,Tablet
+4055,2025-11-24,Emailing,Tablet
+3980,2025-11-24,LinkedIn,Tablet
+981,2025-11-24,Instagram Ads,Desktop
+4665,2025-11-24,Emailing,Tablet
+3011,2025-11-24,Instagram Ads,Tablet
+1681,2025-11-24,Google Ads,Mobile
+3635,2025-11-24,LinkedIn,Mobile
+2667,2025-11-24,Emailing,Mobile
+4698,2025-11-24,Emailing,Desktop
+1190,2025-11-24,Organic,Tablet
+845,2025-11-24,Emailing,Tablet
+4845,2025-11-24,Facebook Ads,Desktop
+3519,2025-11-24,Facebook Ads,Desktop
+3336,2025-11-25,Emailing,Mobile
+1736,2025-11-25,Organic,Desktop
+4873,2025-11-25,Organic,Tablet
+1147,2025-11-25,Facebook Ads,Desktop
+3794,2025-11-25,Organic,Mobile
+4182,2025-11-25,LinkedIn,Desktop
+4314,2025-11-25,LinkedIn,Tablet
+4880,2025-11-25,Emailing,Mobile
+3082,2025-11-25,Instagram Ads,Desktop
+1172,2025-11-25,Facebook Ads,Desktop
+1709,2025-11-25,Facebook Ads,Tablet
+4050,2025-11-25,LinkedIn,Mobile
+764,2025-11-26,Google Ads,Tablet
+3771,2025-11-26,Google Ads,Tablet
+1591,2025-11-26,Organic,Tablet
+316,2025-11-26,Google Ads,Tablet
+3784,2025-11-26,Google Ads,Desktop
+259,2025-11-26,Organic,Desktop
+3741,2025-11-26,Emailing,Mobile
+988,2025-11-26,Instagram Ads,Mobile
+1491,2025-11-26,Facebook Ads,Desktop
+1470,2025-11-26,Instagram Ads,Tablet
+2369,2025-11-26,Facebook Ads,Mobile
+1662,2025-11-26,Instagram Ads,Mobile
+4974,2025-11-26,Google Ads,Tablet
+4527,2025-11-26,Emailing,Tablet
+4267,2025-11-27,Google Ads,Mobile
+252,2025-11-27,Instagram Ads,Tablet
+4994,2025-11-27,Google Ads,Tablet
+2340,2025-11-27,Facebook Ads,Tablet
+686,2025-11-27,LinkedIn,Tablet
+1946,2025-11-27,Organic,Desktop
+4540,2025-11-27,LinkedIn,Mobile
+2177,2025-11-27,Organic,Desktop
+2952,2025-11-27,LinkedIn,Mobile
+4122,2025-11-27,Emailing,Mobile
+1167,2025-11-27,Google Ads,Desktop
+1820,2025-11-27,Instagram Ads,Tablet
+2256,2025-11-27,LinkedIn,Desktop
+4673,2025-11-27,Facebook Ads,Mobile
+2886,2025-11-28,Organic,Tablet
+2324,2025-11-28,Instagram Ads,Mobile
+4879,2025-11-28,LinkedIn,Tablet
+794,2025-11-28,LinkedIn,Desktop
+290,2025-11-28,Emailing,Tablet
+3212,2025-11-28,Organic,Mobile
+1377,2025-11-28,LinkedIn,Mobile
+738,2025-11-28,Facebook Ads,Desktop
+3509,2025-11-28,Organic,Tablet
+1619,2025-11-28,Facebook Ads,Tablet
+2689,2025-11-28,Emailing,Desktop
+5082,2025-11-28,LinkedIn,Tablet
+256,2025-11-28,Google Ads,Mobile
+3487,2025-11-28,Instagram Ads,Tablet
+3327,2025-11-28,Google Ads,Desktop
+1854,2025-11-28,Facebook Ads,Desktop
+3450,2025-11-28,Google Ads,Desktop
+990,2025-11-28,Google Ads,Desktop
+2868,2025-11-28,Facebook Ads,Tablet
+1063,2025-11-29,Organic,Tablet
+3333,2025-11-29,Organic,Tablet
+326,2025-11-29,LinkedIn,Desktop
+1089,2025-11-29,Emailing,Desktop
+4503,2025-11-29,Instagram Ads,Mobile
+767,2025-11-29,LinkedIn,Tablet
+3219,2025-11-30,Organic,Tablet
+4782,2025-11-30,Facebook Ads,Desktop
+1498,2025-11-30,Emailing,Mobile
+2102,2025-11-30,Facebook Ads,Desktop
+4633,2025-11-30,Google Ads,Desktop
+1421,2025-11-30,Instagram Ads,Mobile
+3835,2025-11-30,Emailing,Mobile
+2911,2025-11-30,Facebook Ads,Mobile
+206,2025-11-30,Instagram Ads,Tablet
+2829,2025-11-30,Organic,Tablet
+4909,2025-11-30,Instagram Ads,Desktop
+863,2025-11-30,Facebook Ads,Tablet
+1475,2025-11-30,Facebook Ads,Mobile
+4864,2025-11-30,Organic,Mobile
+430,2025-11-30,Instagram Ads,Mobile
+3222,2025-11-30,Facebook Ads,Mobile
+1988,2025-11-30,Instagram Ads,Mobile
+638,2025-11-30,Emailing,Tablet
+3499,2025-11-30,Emailing,Desktop
+4715,2025-11-30,LinkedIn,Tablet
+3252,2025-11-30,LinkedIn,Tablet
+2713,2025-11-30,Instagram Ads,Mobile
+2140,2025-12-01,LinkedIn,Mobile
+2948,2025-12-01,Google Ads,Mobile
+4004,2025-12-01,Emailing,Desktop
+242,2025-12-01,Instagram Ads,Tablet
+3284,2025-12-01,Facebook Ads,Tablet
+3169,2025-12-01,Instagram Ads,Mobile
+3103,2025-12-01,Organic,Tablet
+2104,2025-12-01,Emailing,Tablet
+1109,2025-12-01,Facebook Ads,Mobile
+420,2025-12-01,Organic,Mobile
+3725,2025-12-01,Organic,Mobile
+4347,2025-12-01,Google Ads,Desktop
+4801,2025-12-01,Facebook Ads,Mobile
+883,2025-12-01,Instagram Ads,Desktop
+3190,2025-12-02,Organic,Desktop
+5075,2025-12-02,Organic,Tablet
+1879,2025-12-02,Emailing,Tablet
+809,2025-12-02,LinkedIn,Desktop
+4164,2025-12-02,Emailing,Desktop
+4255,2025-12-02,Google Ads,Desktop
+3371,2025-12-02,Instagram Ads,Desktop
+2381,2025-12-02,Facebook Ads,Mobile
+1956,2025-12-02,Facebook Ads,Mobile
+730,2025-12-02,Facebook Ads,Mobile
+3915,2025-12-02,Google Ads,Tablet
+4320,2025-12-02,Organic,Tablet
+4748,2025-12-02,Instagram Ads,Mobile
+1626,2025-12-03,LinkedIn,Desktop
+4667,2025-12-03,Emailing,Desktop
+5026,2025-12-03,LinkedIn,Desktop
+3637,2025-12-03,LinkedIn,Desktop
+4813,2025-12-03,Google Ads,Desktop
+3964,2025-12-03,Google Ads,Tablet
+2129,2025-12-03,Instagram Ads,Desktop
+1644,2025-12-03,Instagram Ads,Tablet
+1274,2025-12-04,Instagram Ads,Desktop
+2431,2025-12-04,Instagram Ads,Desktop
+145,2025-12-04,Organic,Mobile
+3272,2025-12-04,Facebook Ads,Desktop
+4116,2025-12-04,Google Ads,Mobile
+1230,2025-12-04,Facebook Ads,Mobile
+2168,2025-12-04,Organic,Mobile
+3205,2025-12-04,Emailing,Desktop
+1441,2025-12-04,Facebook Ads,Desktop
+2547,2025-12-04,Instagram Ads,Tablet
+1030,2025-12-04,Organic,Desktop
+4199,2025-12-04,Facebook Ads,Desktop
+1009,2025-12-04,Organic,Mobile
+3905,2025-12-04,Emailing,Mobile
+2077,2025-12-04,Emailing,Desktop
+285,2025-12-04,Organic,Tablet
+680,2025-12-04,LinkedIn,Desktop
+1484,2025-12-04,Instagram Ads,Mobile
+2894,2025-12-04,Instagram Ads,Mobile
+1848,2025-12-04,Google Ads,Mobile
+3484,2025-12-04,LinkedIn,Mobile
+782,2025-12-04,Instagram Ads,Tablet
+2853,2025-12-04,Facebook Ads,Tablet
+2126,2025-12-04,Instagram Ads,Mobile
+2291,2025-12-05,Organic,Mobile
+1076,2025-12-05,LinkedIn,Mobile
+4599,2025-12-05,Organic,Tablet
+3820,2025-12-05,Organic,Mobile
+2101,2025-12-05,Organic,Tablet
+4591,2025-12-05,Google Ads,Tablet
+325,2025-12-06,Google Ads,Mobile
+3800,2025-12-06,Google Ads,Mobile
+1753,2025-12-06,Google Ads,Desktop
+1219,2025-12-06,Organic,Tablet
+3464,2025-12-06,Instagram Ads,Desktop
+2808,2025-12-06,LinkedIn,Desktop
+3726,2025-12-06,Organic,Desktop
+1913,2025-12-06,Facebook Ads,Desktop
+3473,2025-12-06,Organic,Desktop
+3041,2025-12-06,Organic,Mobile
+3150,2025-12-06,Emailing,Desktop
+1012,2025-12-07,Google Ads,Desktop
+3166,2025-12-07,Emailing,Tablet
+2781,2025-12-07,Facebook Ads,Desktop
+4024,2025-12-07,Facebook Ads,Desktop
+4106,2025-12-07,Emailing,Mobile
+1245,2025-12-07,LinkedIn,Tablet
+3221,2025-12-08,LinkedIn,Tablet
+3153,2025-12-08,Emailing,Mobile
+2037,2025-12-08,LinkedIn,Mobile
+1513,2025-12-08,LinkedIn,Tablet
+2551,2025-12-08,LinkedIn,Desktop
+4631,2025-12-08,Instagram Ads,Desktop
+3174,2025-12-08,LinkedIn,Mobile
+3468,2025-12-08,Instagram Ads,Mobile
+2718,2025-12-08,Google Ads,Tablet
+972,2025-12-08,Emailing,Mobile
+410,2025-12-08,Facebook Ads,Tablet
+739,2025-12-08,Facebook Ads,Tablet
+1361,2025-12-08,Google Ads,Mobile
+4700,2025-12-08,Organic,Tablet
+3447,2025-12-08,Google Ads,Desktop
+4132,2025-12-08,LinkedIn,Tablet
+4781,2025-12-08,Facebook Ads,Tablet
+3623,2025-12-08,Facebook Ads,Desktop
+1027,2025-12-08,Facebook Ads,Desktop
+3245,2025-12-08,LinkedIn,Mobile
+628,2025-12-09,Google Ads,Tablet
+1093,2025-12-09,Emailing,Mobile
+3657,2025-12-09,Google Ads,Tablet
+1309,2025-12-09,Google Ads,Tablet
+1634,2025-12-09,LinkedIn,Tablet
+4231,2025-12-09,Instagram Ads,Tablet
+3462,2025-12-09,Emailing,Mobile
+3855,2025-12-09,LinkedIn,Desktop
+2073,2025-12-09,LinkedIn,Desktop
+2105,2025-12-09,Emailing,Desktop
+4012,2025-12-09,Organic,Desktop
+4075,2025-12-09,Google Ads,Desktop
+2697,2025-12-09,Facebook Ads,Desktop
+1320,2025-12-09,LinkedIn,Desktop
+1036,2025-12-09,Organic,Tablet
+162,2025-12-09,Instagram Ads,Desktop
+1328,2025-12-10,Organic,Mobile
+2476,2025-12-10,LinkedIn,Mobile
+4940,2025-12-10,Google Ads,Mobile
+3136,2025-12-10,LinkedIn,Tablet
+2417,2025-12-10,Emailing,Desktop
+1697,2025-12-10,Facebook Ads,Mobile
+2581,2025-12-10,Facebook Ads,Mobile
+4073,2025-12-10,Organic,Tablet
+2872,2025-12-10,LinkedIn,Tablet
+2708,2025-12-10,LinkedIn,Desktop
+3561,2025-12-10,Instagram Ads,Mobile
+3059,2025-12-10,LinkedIn,Desktop
+1664,2025-12-10,Facebook Ads,Tablet
+4178,2025-12-10,LinkedIn,Desktop
+1041,2025-12-10,Instagram Ads,Mobile
+2386,2025-12-11,Google Ads,Tablet
+1459,2025-12-11,Facebook Ads,Mobile
+3583,2025-12-11,Emailing,Desktop
+3704,2025-12-11,LinkedIn,Mobile
+3808,2025-12-11,LinkedIn,Mobile
+250,2025-12-11,Google Ads,Tablet
+3135,2025-12-11,Google Ads,Mobile
+2277,2025-12-11,Organic,Tablet
+702,2025-12-11,Emailing,Mobile
+2626,2025-12-11,Organic,Mobile
+4411,2025-12-11,LinkedIn,Desktop
+2209,2025-12-11,Organic,Desktop
+593,2025-12-11,LinkedIn,Desktop
+718,2025-12-11,Facebook Ads,Tablet
+3631,2025-12-11,Organic,Desktop
+3809,2025-12-12,Emailing,Tablet
+2100,2025-12-12,Emailing,Desktop
+3776,2025-12-12,LinkedIn,Tablet
+337,2025-12-12,Instagram Ads,Tablet
+2307,2025-12-12,LinkedIn,Mobile
+424,2025-12-12,Organic,Tablet
+588,2025-12-12,LinkedIn,Desktop
+4431,2025-12-12,Facebook Ads,Tablet
+2392,2025-12-12,Google Ads,Mobile
+2668,2025-12-12,Emailing,Desktop
+480,2025-12-12,Instagram Ads,Tablet
+788,2025-12-12,LinkedIn,Tablet
+487,2025-12-12,Organic,Tablet
+4536,2025-12-12,LinkedIn,Desktop
+2318,2025-12-12,Organic,Mobile
+165,2025-12-12,Facebook Ads,Desktop
+4921,2025-12-13,LinkedIn,Mobile
+245,2025-12-13,Emailing,Mobile
+2998,2025-12-13,Organic,Tablet
+757,2025-12-13,LinkedIn,Desktop
+4644,2025-12-13,Facebook Ads,Mobile
+1627,2025-12-13,Google Ads,Desktop
+2969,2025-12-13,Google Ads,Mobile
+2962,2025-12-13,Organic,Desktop
+2699,2025-12-13,Organic,Desktop
+4298,2025-12-13,Organic,Tablet
+1951,2025-12-14,Instagram Ads,Mobile
+2776,2025-12-14,Facebook Ads,Desktop
+2195,2025-12-14,LinkedIn,Desktop
+1170,2025-12-14,Instagram Ads,Tablet
+3708,2025-12-14,Organic,Tablet
+4606,2025-12-14,Facebook Ads,Desktop
+567,2025-12-14,Facebook Ads,Tablet
+770,2025-12-14,Facebook Ads,Desktop
+4662,2025-12-14,Facebook Ads,Mobile
+1270,2025-12-14,Organic,Tablet
+3601,2025-12-14,Organic,Tablet
+2591,2025-12-14,Facebook Ads,Tablet
+3154,2025-12-14,Facebook Ads,Mobile
+3121,2025-12-14,LinkedIn,Tablet
+389,2025-12-14,Emailing,Mobile
+3112,2025-12-14,Organic,Mobile
+4603,2025-12-15,Facebook Ads,Tablet
+3864,2025-12-15,Instagram Ads,Desktop
+4142,2025-12-15,LinkedIn,Tablet
+797,2025-12-15,Instagram Ads,Tablet
+3282,2025-12-15,Google Ads,Mobile
+2534,2025-12-15,Emailing,Desktop
+2934,2025-12-15,Instagram Ads,Mobile
+1065,2025-12-15,Google Ads,Tablet
+3099,2025-12-15,Emailing,Desktop
+211,2025-12-15,Emailing,Desktop
+2525,2025-12-15,Emailing,Tablet
+4922,2025-12-15,Organic,Desktop
+2856,2025-12-16,Facebook Ads,Tablet
+1370,2025-12-16,Facebook Ads,Desktop
+2309,2025-12-16,LinkedIn,Mobile
+3260,2025-12-16,Facebook Ads,Desktop
+5063,2025-12-16,Instagram Ads,Mobile
+997,2025-12-16,Emailing,Desktop
+1930,2025-12-16,LinkedIn,Mobile
+3739,2025-12-16,Google Ads,Mobile
+120,2025-12-16,Organic,Desktop
+4884,2025-12-16,Facebook Ads,Mobile
+123,2025-12-16,Google Ads,Desktop
+351,2025-12-17,Emailing,Desktop
+4161,2025-12-17,LinkedIn,Tablet
+2404,2025-12-17,Google Ads,Tablet
+4221,2025-12-17,Facebook Ads,Mobile
+4229,2025-12-17,Instagram Ads,Mobile
+2666,2025-12-17,Organic,Desktop
+2633,2025-12-17,Google Ads,Desktop
+1917,2025-12-17,LinkedIn,Mobile
+2810,2025-12-17,Emailing,Mobile
+2766,2025-12-17,Facebook Ads,Mobile
+1017,2025-12-17,LinkedIn,Mobile
+370,2025-12-17,Organic,Mobile
+517,2025-12-17,Google Ads,Tablet
+2463,2025-12-17,Instagram Ads,Mobile
+3043,2025-12-18,Google Ads,Desktop
+2741,2025-12-18,Emailing,Mobile
+3161,2025-12-18,Organic,Tablet
+4895,2025-12-18,Emailing,Mobile
+4396,2025-12-18,Facebook Ads,Mobile
+4784,2025-12-18,Facebook Ads,Desktop
+1068,2025-12-18,Emailing,Desktop
+1122,2025-12-18,Instagram Ads,Desktop
+4894,2025-12-18,Emailing,Tablet
+4998,2025-12-18,Instagram Ads,Tablet
+3901,2025-12-18,Facebook Ads,Tablet
+4205,2025-12-18,Instagram Ads,Desktop
+4497,2025-12-18,Emailing,Desktop
+1171,2025-12-18,Instagram Ads,Tablet
+1904,2025-12-18,LinkedIn,Desktop
+1979,2025-12-18,LinkedIn,Tablet
+2329,2025-12-18,Google Ads,Mobile
+4119,2025-12-18,Organic,Mobile
+3634,2025-12-19,Google Ads,Desktop
+3866,2025-12-19,Google Ads,Mobile
+2816,2025-12-19,Facebook Ads,Desktop
+3263,2025-12-19,Google Ads,Desktop
+2623,2025-12-19,Facebook Ads,Mobile
+2075,2025-12-19,Facebook Ads,Mobile
+1289,2025-12-19,Facebook Ads,Tablet
+2327,2025-12-19,LinkedIn,Mobile
+2658,2025-12-19,Facebook Ads,Desktop
+2330,2025-12-19,LinkedIn,Mobile
+4975,2025-12-19,LinkedIn,Desktop
+244,2025-12-19,Google Ads,Tablet
+1752,2025-12-20,Instagram Ads,Desktop
+2826,2025-12-20,Facebook Ads,Desktop
+4682,2025-12-20,Instagram Ads,Mobile
+2546,2025-12-20,Organic,Desktop
+2284,2025-12-20,Organic,Mobile
+3936,2025-12-20,Emailing,Mobile
+4719,2025-12-20,Facebook Ads,Mobile
+3010,2025-12-20,Instagram Ads,Tablet
+1823,2025-12-20,Facebook Ads,Mobile
+842,2025-12-20,Google Ads,Desktop
+3649,2025-12-20,Instagram Ads,Tablet
+3020,2025-12-20,LinkedIn,Mobile
+3009,2025-12-21,Emailing,Tablet
+1776,2025-12-21,Emailing,Mobile
+2281,2025-12-21,Facebook Ads,Desktop
+117,2025-12-21,Emailing,Desktop
+3661,2025-12-21,Instagram Ads,Desktop
+1831,2025-12-21,LinkedIn,Desktop
+4280,2025-12-21,Google Ads,Desktop
+2477,2025-12-21,Emailing,Tablet
+137,2025-12-21,Organic,Desktop
+1758,2025-12-21,Organic,Tablet
+2316,2025-12-21,LinkedIn,Desktop
+4067,2025-12-21,Google Ads,Tablet
+4634,2025-12-21,Instagram Ads,Mobile
+2011,2025-12-21,LinkedIn,Tablet
+3113,2025-12-21,Instagram Ads,Tablet
+4878,2025-12-22,Google Ads,Tablet
+603,2025-12-22,Google Ads,Tablet
+1537,2025-12-22,Emailing,Desktop
+3291,2025-12-22,Emailing,Desktop
+4035,2025-12-22,Emailing,Tablet
+1628,2025-12-22,Google Ads,Mobile
+4008,2025-12-22,LinkedIn,Desktop
+2424,2025-12-22,Facebook Ads,Mobile
+4321,2025-12-22,Emailing,Tablet
+5004,2025-12-22,Instagram Ads,Tablet
+3283,2025-12-23,LinkedIn,Tablet
+147,2025-12-23,Emailing,Tablet
+2504,2025-12-23,Google Ads,Tablet
+4732,2025-12-23,Facebook Ads,Mobile
+4694,2025-12-23,Emailing,Mobile
+4929,2025-12-23,Facebook Ads,Desktop
+862,2025-12-23,Google Ads,Mobile
+1803,2025-12-23,LinkedIn,Mobile
+3098,2025-12-23,Facebook Ads,Tablet
+2798,2025-12-23,Facebook Ads,Mobile
+185,2025-12-23,Instagram Ads,Tablet
+1631,2025-12-23,Emailing,Desktop
+3816,2025-12-23,Organic,Mobile
+1363,2025-12-23,Facebook Ads,Mobile
+4676,2025-12-24,Emailing,Desktop
+3671,2025-12-24,Google Ads,Mobile
+3853,2025-12-24,Emailing,Desktop
+2529,2025-12-24,Emailing,Mobile
+2244,2025-12-24,Emailing,Tablet
+3173,2025-12-24,Instagram Ads,Mobile
+4742,2025-12-24,Emailing,Mobile
+203,2025-12-24,Google Ads,Tablet
+3449,2025-12-24,Instagram Ads,Mobile
+4965,2025-12-24,Organic,Tablet
+3517,2025-12-24,Instagram Ads,Mobile
+2720,2025-12-24,Facebook Ads,Mobile
+4269,2025-12-24,Emailing,Mobile
+4525,2025-12-25,Emailing,Mobile
+2715,2025-12-25,Emailing,Mobile
+4284,2025-12-25,Facebook Ads,Tablet
+4716,2025-12-25,Emailing,Tablet
+4991,2025-12-25,LinkedIn,Mobile
+3803,2025-12-25,Facebook Ads,Mobile
+4336,2025-12-25,Instagram Ads,Desktop
+1876,2025-12-25,Emailing,Tablet
+2359,2025-12-25,Instagram Ads,Mobile
+2770,2025-12-25,Instagram Ads,Desktop
+2704,2025-12-25,Organic,Mobile
+2206,2025-12-25,Google Ads,Mobile
+1140,2025-12-25,Emailing,Desktop
+1521,2025-12-25,Google Ads,Mobile
+354,2025-12-25,LinkedIn,Tablet
+4896,2025-12-26,LinkedIn,Desktop
+505,2025-12-26,Instagram Ads,Mobile
+511,2025-12-26,Instagram Ads,Tablet
+223,2025-12-26,LinkedIn,Desktop
+1143,2025-12-26,Emailing,Desktop
+1129,2025-12-26,Organic,Tablet
+2485,2025-12-26,Emailing,Desktop
+476,2025-12-26,Organic,Mobile
+3491,2025-12-27,LinkedIn,Tablet
+236,2025-12-27,Facebook Ads,Tablet
+2925,2025-12-27,Google Ads,Mobile
+742,2025-12-27,Instagram Ads,Tablet
+408,2025-12-27,Emailing,Tablet
+3404,2025-12-27,LinkedIn,Desktop
+2673,2025-12-27,Instagram Ads,Mobile
+267,2025-12-27,Emailing,Tablet
+4816,2025-12-27,Facebook Ads,Mobile
+807,2025-12-27,Organic,Desktop
+317,2025-12-28,Facebook Ads,Mobile
+186,2025-12-28,Google Ads,Tablet
+4010,2025-12-28,Emailing,Tablet
+160,2025-12-28,LinkedIn,Mobile
+791,2025-12-28,Google Ads,Desktop
+1304,2025-12-28,Instagram Ads,Mobile
+1585,2025-12-28,LinkedIn,Desktop
+2270,2025-12-28,Google Ads,Mobile
+1866,2025-12-28,Instagram Ads,Mobile
+1486,2025-12-28,Emailing,Tablet
+3467,2025-12-28,LinkedIn,Tablet
+3494,2025-12-28,Organic,Mobile
+4171,2025-12-28,Emailing,Desktop
+1702,2025-12-28,LinkedIn,Mobile
+4238,2025-12-28,Emailing,Desktop
+3021,2025-12-28,LinkedIn,Desktop
+1714,2025-12-28,Emailing,Mobile
+1575,2025-12-29,Instagram Ads,Tablet
+684,2025-12-29,Facebook Ads,Desktop
+2009,2025-12-29,Emailing,Desktop
+5098,2025-12-29,LinkedIn,Mobile
+3633,2025-12-29,Emailing,Mobile
+2049,2025-12-29,Facebook Ads,Desktop
+744,2025-12-29,Emailing,Desktop
+3882,2025-12-29,Emailing,Tablet
+3504,2025-12-29,Emailing,Desktop
+518,2025-12-29,Facebook Ads,Desktop
+3686,2025-12-29,LinkedIn,Mobile
+3924,2025-12-29,LinkedIn,Tablet
+4279,2025-12-29,Emailing,Tablet
+5017,2025-12-29,Facebook Ads,Tablet
+3294,2025-12-29,Instagram Ads,Desktop
+1385,2025-12-29,Instagram Ads,Desktop
+2388,2025-12-30,Instagram Ads,Desktop
+2170,2025-12-30,Emailing,Desktop
+4737,2025-12-30,Emailing,Mobile
+4890,2025-12-30,Emailing,Tablet
+4340,2025-12-30,Emailing,Desktop
+183,2025-12-30,Google Ads,Desktop
+4147,2025-12-30,Google Ads,Tablet
+923,2025-12-31,Google Ads,Desktop
+4727,2025-12-31,Emailing,Mobile
+4549,2025-12-31,Facebook Ads,Desktop
+3379,2025-12-31,Google Ads,Tablet
+3124,2025-12-31,LinkedIn,Desktop
+3116,2025-12-31,Facebook Ads,Mobile
+2042,2025-12-31,Emailing,Tablet
+2991,2025-12-31,Organic,Desktop
+2981,2025-12-31,Emailing,Tablet
+1715,2025-12-31,LinkedIn,Mobile
+1081,2025-12-31,Facebook Ads,Mobile
+4195,2025-12-31,Google Ads,Tablet
+4097,2026-01-01,Instagram Ads,Tablet
+2069,2026-01-01,Organic,Mobile
+4964,2026-01-01,LinkedIn,Mobile
+854,2026-01-01,Google Ads,Mobile
+1426,2026-01-01,Google Ads,Mobile
+1263,2026-01-01,Organic,Tablet
+4519,2026-01-01,Google Ads,Mobile
+920,2026-01-01,Google Ads,Desktop
+3611,2026-01-01,Facebook Ads,Desktop
+3063,2026-01-01,Emailing,Tablet
+803,2026-01-01,Emailing,Tablet
+2251,2026-01-01,Emailing,Mobile
+382,2026-01-02,Facebook Ads,Mobile
+1409,2026-01-02,LinkedIn,Desktop
+234,2026-01-02,Instagram Ads,Mobile
+4353,2026-01-02,LinkedIn,Desktop
+1495,2026-01-02,Facebook Ads,Tablet
+4378,2026-01-02,LinkedIn,Mobile
+4089,2026-01-02,Google Ads,Mobile
+2785,2026-01-02,Emailing,Mobile
+4875,2026-01-02,LinkedIn,Desktop
+295,2026-01-02,Organic,Desktop
+3355,2026-01-02,Facebook Ads,Mobile
+1938,2026-01-02,Google Ads,Mobile
+5020,2026-01-02,Google Ads,Desktop
+4711,2026-01-02,Google Ads,Mobile
+2400,2026-01-02,Emailing,Desktop
+4216,2026-01-03,Instagram Ads,Desktop
+5093,2026-01-03,LinkedIn,Tablet
+3858,2026-01-03,Emailing,Desktop
+495,2026-01-03,Google Ads,Tablet
+2538,2026-01-03,Organic,Tablet
+3541,2026-01-03,Emailing,Mobile
+2501,2026-01-03,Instagram Ads,Tablet
+1008,2026-01-03,Facebook Ads,Tablet
+1282,2026-01-03,LinkedIn,Desktop
+2550,2026-01-03,Organic,Tablet
+3817,2026-01-03,LinkedIn,Desktop
+4851,2026-01-03,LinkedIn,Mobile
+281,2026-01-03,Organic,Desktop
+4192,2026-01-03,Organic,Mobile
+5041,2026-01-03,LinkedIn,Desktop
+3757,2026-01-03,Instagram Ads,Desktop
+5032,2026-01-03,Facebook Ads,Mobile
+1137,2026-01-03,Instagram Ads,Tablet
+1604,2026-01-03,Google Ads,Desktop
+869,2026-01-03,Facebook Ads,Desktop
+3821,2026-01-04,Organic,Desktop
+3795,2026-01-04,LinkedIn,Desktop
+4793,2026-01-04,Instagram Ads,Desktop
+4821,2026-01-04,Google Ads,Tablet
+4987,2026-01-04,Google Ads,Tablet
+4241,2026-01-04,Google Ads,Desktop
+4954,2026-01-04,Organic,Tablet
+3873,2026-01-04,Google Ads,Desktop
+3644,2026-01-04,LinkedIn,Mobile
+2854,2026-01-04,Facebook Ads,Tablet
+2469,2026-01-04,Organic,Tablet
+1781,2026-01-05,Organic,Desktop
+1293,2026-01-05,Facebook Ads,Mobile
+3908,2026-01-05,LinkedIn,Desktop
+4018,2026-01-05,Facebook Ads,Desktop
+884,2026-01-05,Emailing,Mobile
+2117,2026-01-05,Instagram Ads,Desktop
+3148,2026-01-05,LinkedIn,Mobile
+1242,2026-01-05,Google Ads,Desktop
+2258,2026-01-05,Google Ads,Mobile
+1732,2026-01-05,Organic,Mobile
+2554,2026-01-05,Facebook Ads,Tablet
+2410,2026-01-05,Organic,Tablet
+4870,2026-01-05,Emailing,Desktop
+3062,2026-01-05,Organic,Tablet
+694,2026-01-05,Organic,Tablet
+2496,2026-01-05,LinkedIn,Desktop
+928,2026-01-05,LinkedIn,Tablet
+4389,2026-01-05,Google Ads,Tablet
+1447,2026-01-05,Organic,Desktop
+927,2026-01-05,Google Ads,Desktop
+2813,2026-01-06,Organic,Mobile
+670,2026-01-06,Google Ads,Desktop
+2136,2026-01-06,LinkedIn,Mobile
+4537,2026-01-06,Google Ads,Tablet
+3406,2026-01-06,Emailing,Desktop
+1388,2026-01-06,LinkedIn,Tablet
+296,2026-01-06,Organic,Tablet
+2651,2026-01-06,Facebook Ads,Desktop
+815,2026-01-06,Emailing,Tablet
+1905,2026-01-06,Facebook Ads,Desktop
+1200,2026-01-06,Instagram Ads,Mobile
+4838,2026-01-06,Google Ads,Desktop
+665,2026-01-06,Google Ads,Desktop
+3734,2026-01-07,Facebook Ads,Desktop
+1661,2026-01-07,Organic,Desktop
+3114,2026-01-07,Facebook Ads,Mobile
+3921,2026-01-07,Google Ads,Tablet
+2970,2026-01-07,LinkedIn,Tablet
+1903,2026-01-07,Organic,Tablet
+1623,2026-01-07,LinkedIn,Tablet
+2263,2026-01-07,Organic,Mobile
+5036,2026-01-07,Google Ads,Mobile
+596,2026-01-07,Organic,Mobile
+4943,2026-01-07,Emailing,Mobile
+1156,2026-01-07,Facebook Ads,Desktop
+529,2026-01-07,LinkedIn,Tablet
+4446,2026-01-07,Instagram Ads,Tablet
+4588,2026-01-08,LinkedIn,Tablet
+1169,2026-01-08,Emailing,Desktop
+4574,2026-01-08,LinkedIn,Tablet
+1066,2026-01-08,Emailing,Mobile
+3288,2026-01-08,Google Ads,Tablet
+761,2026-01-08,Organic,Mobile
+1704,2026-01-08,Google Ads,Desktop
+1999,2026-01-08,Google Ads,Tablet
+2444,2026-01-08,Facebook Ads,Desktop
+4967,2026-01-08,Organic,Mobile
+3587,2026-01-08,Facebook Ads,Desktop
+4359,2026-01-08,Organic,Mobile
+3638,2026-01-08,Emailing,Tablet
+2024,2026-01-08,Facebook Ads,Mobile
+431,2026-01-08,Facebook Ads,Tablet
+3295,2026-01-08,Google Ads,Desktop
+3328,2026-01-08,Instagram Ads,Mobile
+3966,2026-01-08,Organic,Desktop
+3957,2026-01-08,Instagram Ads,Desktop
+646,2026-01-09,LinkedIn,Desktop
+4333,2026-01-09,Instagram Ads,Mobile
+835,2026-01-09,Instagram Ads,Mobile
+4578,2026-01-09,Emailing,Mobile
+4504,2026-01-09,LinkedIn,Tablet
+4254,2026-01-09,Facebook Ads,Mobile
+2624,2026-01-09,Facebook Ads,Mobile
+3287,2026-01-09,Instagram Ads,Mobile
+4792,2026-01-09,Organic,Mobile
+2950,2026-01-09,LinkedIn,Mobile
+5057,2026-01-09,Instagram Ads,Tablet
+2679,2026-01-09,Organic,Desktop
+2946,2026-01-09,Organic,Tablet
+164,2026-01-09,Facebook Ads,Mobile
+2920,2026-01-09,Instagram Ads,Tablet
+179,2026-01-09,Facebook Ads,Desktop
+2248,2026-01-09,Organic,Desktop
+394,2026-01-10,LinkedIn,Mobile
+3683,2026-01-10,Google Ads,Desktop
+4107,2026-01-10,Emailing,Desktop
+3514,2026-01-10,Google Ads,Desktop
+3917,2026-01-10,Facebook Ads,Tablet
+4130,2026-01-10,Google Ads,Mobile
+369,2026-01-10,Google Ads,Mobile
+1479,2026-01-10,Emailing,Tablet
+1095,2026-01-10,Facebook Ads,Mobile
+2746,2026-01-10,Organic,Desktop
+2717,2026-01-10,Facebook Ads,Desktop
+1754,2026-01-10,Google Ads,Tablet
+2068,2026-01-11,Emailing,Desktop
+3922,2026-01-11,Facebook Ads,Desktop
+2382,2026-01-11,Google Ads,Tablet
+708,2026-01-11,Facebook Ads,Desktop
+239,2026-01-11,LinkedIn,Tablet
+758,2026-01-11,Organic,Mobile
+4771,2026-01-11,Organic,Tablet
+4979,2026-01-11,Instagram Ads,Mobile
+2448,2026-01-11,Google Ads,Tablet
+5044,2026-01-11,LinkedIn,Mobile
+938,2026-01-11,Facebook Ads,Tablet
+1586,2026-01-12,LinkedIn,Desktop
+2841,2026-01-12,Emailing,Mobile
+4327,2026-01-12,Facebook Ads,Tablet
+2507,2026-01-12,Emailing,Mobile
+124,2026-01-12,Google Ads,Desktop
+3481,2026-01-13,Google Ads,Mobile
+1795,2026-01-13,Organic,Tablet
+4791,2026-01-13,Organic,Tablet
+2008,2026-01-13,Google Ads,Desktop
+3049,2026-01-13,Instagram Ads,Desktop
+3409,2026-01-13,Emailing,Mobile
+261,2026-01-13,Google Ads,Mobile
+3715,2026-01-13,Emailing,Mobile
+2777,2026-01-13,Google Ads,Tablet
+2014,2026-01-13,Organic,Tablet
+726,2026-01-13,Emailing,Mobile
+2438,2026-01-13,LinkedIn,Mobile
+3246,2026-01-13,Google Ads,Tablet
+2753,2026-01-13,LinkedIn,Tablet
+2752,2026-01-13,Emailing,Mobile
+1336,2026-01-13,LinkedIn,Desktop
+1839,2026-01-13,Organic,Mobile
+324,2026-01-13,Google Ads,Desktop
+3825,2026-01-14,Organic,Desktop
+493,2026-01-14,Emailing,Tablet
+2814,2026-01-14,LinkedIn,Mobile
+2940,2026-01-14,Instagram Ads,Tablet
+3676,2026-01-14,LinkedIn,Mobile
+3699,2026-01-14,Facebook Ads,Mobile
+3025,2026-01-14,Facebook Ads,Mobile
+3241,2026-01-14,Google Ads,Mobile
+544,2026-01-14,Organic,Mobile
+3407,2026-01-14,Facebook Ads,Desktop
+2487,2026-01-14,Google Ads,Desktop
+723,2026-01-14,Google Ads,Tablet
+1448,2026-01-14,Facebook Ads,Mobile
+5018,2026-01-14,Instagram Ads,Tablet
+4704,2026-01-14,Organic,Mobile
+344,2026-01-14,Facebook Ads,Mobile
+1941,2026-01-14,Instagram Ads,Desktop
+449,2026-01-15,Organic,Tablet
+3713,2026-01-15,LinkedIn,Tablet
+3963,2026-01-15,LinkedIn,Desktop
+1229,2026-01-15,Facebook Ads,Tablet
+3554,2026-01-15,Emailing,Tablet
+1592,2026-01-15,Google Ads,Mobile
+4077,2026-01-15,LinkedIn,Tablet
+2491,2026-01-15,Google Ads,Desktop
+3126,2026-01-15,Google Ads,Desktop
+971,2026-01-15,Emailing,Mobile
+543,2026-01-15,Emailing,Desktop
+4839,2026-01-15,LinkedIn,Tablet
+566,2026-01-15,Emailing,Desktop
+2590,2026-01-15,LinkedIn,Tablet
+101,2026-01-15,LinkedIn,Tablet
+740,2026-01-16,Facebook Ads,Mobile
+4710,2026-01-16,LinkedIn,Desktop
+840,2026-01-16,Google Ads,Tablet
+2725,2026-01-16,Instagram Ads,Desktop
+4351,2026-01-16,Emailing,Mobile
+4937,2026-01-16,Facebook Ads,Tablet
+4923,2026-01-16,LinkedIn,Desktop
+4886,2026-01-16,Instagram Ads,Mobile
+549,2026-01-16,LinkedIn,Tablet
+3399,2026-01-16,Emailing,Mobile
+1869,2026-01-16,Emailing,Desktop
+383,2026-01-16,Organic,Mobile
+617,2026-01-16,Facebook Ads,Tablet
+4264,2026-01-17,Google Ads,Mobile
+2300,2026-01-17,Facebook Ads,Tablet
+2190,2026-01-17,Facebook Ads,Mobile
+2784,2026-01-17,Google Ads,Mobile
+3778,2026-01-17,Google Ads,Tablet
+1599,2026-01-17,Emailing,Mobile
+1771,2026-01-17,Organic,Mobile
+4002,2026-01-17,Emailing,Desktop
+1010,2026-01-17,Instagram Ads,Tablet
+1605,2026-01-17,Facebook Ads,Tablet
+3071,2026-01-17,Organic,Desktop
+4477,2026-01-18,Emailing,Desktop
+4952,2026-01-18,Facebook Ads,Mobile
+622,2026-01-18,LinkedIn,Desktop
+3931,2026-01-18,Facebook Ads,Desktop
+4439,2026-01-18,Instagram Ads,Mobile
+4509,2026-01-18,Emailing,Desktop
+1056,2026-01-18,Organic,Desktop
+1920,2026-01-18,Google Ads,Mobile
+3458,2026-01-18,Emailing,Desktop
+4435,2026-01-18,Instagram Ads,Tablet
+4971,2026-01-18,Google Ads,Tablet
+4755,2026-01-18,Organic,Mobile
+3934,2026-01-19,Emailing,Desktop
+2436,2026-01-19,Emailing,Desktop
+2372,2026-01-19,Organic,Desktop
+2517,2026-01-19,LinkedIn,Desktop
+2064,2026-01-19,Organic,Tablet
+3075,2026-01-19,Instagram Ads,Desktop
+352,2026-01-19,LinkedIn,Mobile
+466,2026-01-19,Google Ads,Tablet
+2537,2026-01-19,LinkedIn,Tablet
+3618,2026-01-19,LinkedIn,Mobile
+1177,2026-01-19,Emailing,Mobile
+847,2026-01-19,Google Ads,Tablet
+461,2026-01-20,Facebook Ads,Tablet
+2520,2026-01-20,Instagram Ads,Mobile
+278,2026-01-20,LinkedIn,Desktop
+2594,2026-01-20,Facebook Ads,Desktop
+2730,2026-01-20,Emailing,Tablet
+2851,2026-01-20,Organic,Tablet
+4472,2026-01-20,Emailing,Tablet
+3387,2026-01-20,Emailing,Tablet
+4266,2026-01-20,Instagram Ads,Desktop
+1589,2026-01-20,Emailing,Tablet
+161,2026-01-20,Facebook Ads,Mobile
+4364,2026-01-20,LinkedIn,Desktop
+4995,2026-01-20,LinkedIn,Desktop
+3788,2026-01-20,Instagram Ads,Desktop
+1064,2026-01-21,Organic,Mobile
+507,2026-01-21,LinkedIn,Mobile
+3335,2026-01-21,Google Ads,Mobile
+2536,2026-01-21,Facebook Ads,Desktop
+3393,2026-01-21,Google Ads,Tablet
+1682,2026-01-21,Instagram Ads,Tablet
+3536,2026-01-21,Emailing,Mobile
+1482,2026-01-21,LinkedIn,Desktop
+4380,2026-01-21,Organic,Desktop
+2019,2026-01-21,Google Ads,Tablet
+3780,2026-01-22,Google Ads,Mobile
+328,2026-01-22,Instagram Ads,Tablet
+4687,2026-01-22,Emailing,Tablet
+4786,2026-01-22,Facebook Ads,Mobile
+1870,2026-01-22,LinkedIn,Tablet
+4062,2026-01-22,Instagram Ads,Tablet
+4849,2026-01-22,Emailing,Tablet
+2941,2026-01-22,LinkedIn,Desktop
+4044,2026-01-22,LinkedIn,Mobile
+837,2026-01-22,Emailing,Desktop
+4946,2026-01-22,LinkedIn,Tablet
+3030,2026-01-22,Organic,Mobile
+667,2026-01-22,Organic,Desktop
+4924,2026-01-22,LinkedIn,Desktop
+3359,2026-01-22,LinkedIn,Tablet
+4112,2026-01-22,Google Ads,Tablet
+1561,2026-01-22,LinkedIn,Mobile
+3300,2026-01-22,Facebook Ads,Desktop
+4526,2026-01-22,Emailing,Desktop
+1367,2026-01-22,Organic,Desktop
+3094,2026-01-23,Emailing,Desktop
+1391,2026-01-23,LinkedIn,Desktop
+1587,2026-01-23,Emailing,Desktop
+1759,2026-01-23,Emailing,Mobile
+2772,2026-01-23,Organic,Tablet
+5051,2026-01-23,Google Ads,Desktop
+2200,2026-01-23,Instagram Ads,Desktop
+2418,2026-01-23,Emailing,Mobile
+2567,2026-01-23,Instagram Ads,Mobile
+4016,2026-01-23,Facebook Ads,Desktop
+2406,2026-01-23,Facebook Ads,Desktop
+994,2026-01-23,Instagram Ads,Desktop
+3971,2026-01-23,Emailing,Tablet
+4127,2026-01-23,Google Ads,Mobile
+673,2026-01-23,Emailing,Tablet
+1207,2026-01-23,Facebook Ads,Tablet
+4395,2026-01-23,Organic,Tablet
+4098,2026-01-23,Facebook Ads,Tablet
+4566,2026-01-23,LinkedIn,Tablet
+4342,2026-01-23,LinkedIn,Mobile
+4474,2026-01-24,LinkedIn,Tablet
+918,2026-01-24,Google Ads,Tablet
+1606,2026-01-24,Google Ads,Tablet
+3149,2026-01-24,Instagram Ads,Desktop
+4070,2026-01-24,Google Ads,Desktop
+2935,2026-01-24,Google Ads,Mobile
+1793,2026-01-24,LinkedIn,Desktop
+2825,2026-01-24,LinkedIn,Tablet
+1737,2026-01-24,Instagram Ads,Desktop
+778,2026-01-24,Facebook Ads,Desktop
+874,2026-01-24,LinkedIn,Tablet
+3193,2026-01-24,Instagram Ads,Tablet
+924,2026-01-24,LinkedIn,Mobile
+1327,2026-01-24,Facebook Ads,Tablet
+3752,2026-01-24,Instagram Ads,Desktop
+4544,2026-01-24,Organic,Tablet
+445,2026-01-24,Organic,Tablet
+3881,2026-01-24,Emailing,Tablet
+4248,2026-01-25,Emailing,Tablet
+3580,2026-01-25,Emailing,Mobile
+5053,2026-01-25,Google Ads,Desktop
+4281,2026-01-25,Google Ads,Tablet
+4645,2026-01-25,Facebook Ads,Desktop
+1992,2026-01-25,LinkedIn,Tablet
+2560,2026-01-25,Facebook Ads,Desktop
+3849,2026-01-25,LinkedIn,Mobile
+888,2026-01-25,Google Ads,Desktop
+4360,2026-01-25,Google Ads,Mobile
+1158,2026-01-25,Emailing,Desktop
+4022,2026-01-25,Google Ads,Mobile
+965,2026-01-25,Facebook Ads,Desktop
+4561,2026-01-25,Google Ads,Desktop
+4377,2026-01-25,Emailing,Tablet
+3144,2026-01-26,Emailing,Tablet
+2790,2026-01-26,Facebook Ads,Desktop
+1778,2026-01-26,Instagram Ads,Tablet
+3118,2026-01-26,Facebook Ads,Tablet
+3959,2026-01-26,Google Ads,Desktop
+1688,2026-01-26,Organic,Mobile
+4872,2026-01-26,Emailing,Mobile
+4699,2026-01-26,LinkedIn,Mobile
+656,2026-01-26,Organic,Desktop
+4419,2026-01-26,Instagram Ads,Mobile
+2671,2026-01-26,Google Ads,Tablet
+1574,2026-01-26,Instagram Ads,Tablet
+3990,2026-01-26,Google Ads,Desktop
+2665,2026-01-26,Facebook Ads,Mobile
+2648,2026-01-27,Instagram Ads,Desktop
+2649,2026-01-27,Facebook Ads,Desktop
+3685,2026-01-27,Emailing,Mobile
+4616,2026-01-27,Facebook Ads,Desktop
+4775,2026-01-27,Instagram Ads,Tablet
+4218,2026-01-27,Instagram Ads,Mobile
+3944,2026-01-27,Google Ads,Tablet
+3187,2026-01-27,Emailing,Desktop
+2600,2026-01-27,LinkedIn,Desktop
+1568,2026-01-27,Google Ads,Tablet
+4108,2026-01-28,Instagram Ads,Desktop
+775,2026-01-28,Google Ads,Tablet
+1228,2026-01-28,LinkedIn,Mobile
+2062,2026-01-28,Facebook Ads,Desktop
+417,2026-01-28,Facebook Ads,Desktop
+4545,2026-01-28,Facebook Ads,Tablet
+4515,2026-01-28,Instagram Ads,Desktop
+1330,2026-01-28,Organic,Mobile
+4677,2026-01-28,Emailing,Desktop
+3270,2026-01-28,Organic,Desktop
+974,2026-01-28,Organic,Tablet
+2503,2026-01-28,Instagram Ads,Mobile
+1014,2026-01-28,LinkedIn,Tablet
+2988,2026-01-28,Instagram Ads,Mobile
+207,2026-01-28,Facebook Ads,Tablet
+814,2026-01-29,LinkedIn,Mobile
+3848,2026-01-29,LinkedIn,Mobile
+1635,2026-01-29,Instagram Ads,Desktop
+2116,2026-01-29,Organic,Desktop
+4938,2026-01-29,Instagram Ads,Desktop
+4145,2026-01-29,LinkedIn,Mobile
+3511,2026-01-29,Google Ads,Tablet
+2788,2026-01-29,Google Ads,Tablet
+3348,2026-01-29,Organic,Desktop
+4121,2026-01-29,Organic,Mobile
+1658,2026-01-29,Facebook Ads,Tablet
+3967,2026-01-29,Facebook Ads,Tablet
+492,2026-01-29,Google Ads,Mobile
+2420,2026-01-29,Emailing,Desktop
+4345,2026-01-29,Emailing,Desktop
+2020,2026-01-29,LinkedIn,Tablet
+2158,2026-01-29,Facebook Ads,Mobile
+4517,2026-01-30,Emailing,Tablet
+4559,2026-01-30,Organic,Mobile
+4805,2026-01-30,Emailing,Mobile
+946,2026-01-30,Instagram Ads,Tablet
+4363,2026-01-30,Instagram Ads,Mobile
+1840,2026-01-30,Facebook Ads,Tablet
+627,2026-01-30,Emailing,Tablet
+3341,2026-01-30,Google Ads,Tablet
+4453,2026-01-30,Google Ads,Tablet
+1845,2026-01-30,Instagram Ads,Tablet
+4811,2026-01-31,Facebook Ads,Desktop
+2224,2026-01-31,Instagram Ads,Tablet
+3004,2026-01-31,Instagram Ads,Tablet
+4600,2026-01-31,Google Ads,Tablet
+3664,2026-01-31,Instagram Ads,Desktop
+1164,2026-01-31,Emailing,Desktop
+4824,2026-01-31,Instagram Ads,Desktop
+612,2026-01-31,Facebook Ads,Tablet
+4885,2026-01-31,LinkedIn,Tablet
+231,2026-01-31,Facebook Ads,Tablet
+3132,2026-01-31,Instagram Ads,Desktop
+2756,2026-01-31,Google Ads,Tablet
+4040,2026-01-31,Google Ads,Tablet
+1055,2026-01-31,Google Ads,Mobile
+936,2026-01-31,Facebook Ads,Tablet
+3951,2026-01-31,Organic,Tablet
+1183,2026-01-31,Emailing,Desktop
+4037,2026-01-31,Emailing,Tablet
+2125,2026-01-31,Organic,Tablet
+2440,2026-01-31,Organic,Tablet
+4577,2026-01-31,Emailing,Mobile
+3363,2026-02-01,LinkedIn,Mobile
+1005,2026-02-01,Google Ads,Tablet
+429,2026-02-01,Facebook Ads,Tablet
+4058,2026-02-01,Emailing,Tablet
+3976,2026-02-01,Organic,Tablet
+1325,2026-02-01,Emailing,Mobile
+1458,2026-02-01,Instagram Ads,Desktop
+1165,2026-02-01,Facebook Ads,Mobile
+4551,2026-02-01,Instagram Ads,Desktop
+2419,2026-02-01,Emailing,Mobile
+2058,2026-02-01,LinkedIn,Mobile
+2974,2026-02-01,Instagram Ads,Desktop
+553,2026-02-02,Google Ads,Mobile
+2303,2026-02-02,Facebook Ads,Tablet
+1666,2026-02-02,Google Ads,Tablet
+3590,2026-02-02,Instagram Ads,Desktop
+4806,2026-02-02,Instagram Ads,Mobile
+905,2026-02-02,Instagram Ads,Tablet
+2462,2026-02-02,Facebook Ads,Mobile
+5031,2026-02-02,Instagram Ads,Desktop
+3019,2026-02-02,Facebook Ads,Desktop
+3147,2026-02-02,LinkedIn,Desktop
+4637,2026-02-03,Organic,Mobile
+1311,2026-02-03,Emailing,Desktop
+3452,2026-02-03,Organic,Tablet
+1834,2026-02-03,Google Ads,Desktop
+1446,2026-02-03,Emailing,Mobile
+2999,2026-02-03,Instagram Ads,Mobile
+4080,2026-02-03,Google Ads,Desktop
+1025,2026-02-03,Organic,Mobile
+226,2026-02-03,Emailing,Desktop
+5070,2026-02-03,Emailing,Desktop
+792,2026-02-03,Organic,Mobile
+4202,2026-02-03,Google Ads,Tablet
+1176,2026-02-04,Google Ads,Tablet
+2929,2026-02-04,Emailing,Mobile
+3342,2026-02-04,Organic,Desktop
+3748,2026-02-04,Instagram Ads,Tablet
+4177,2026-02-04,Organic,Tablet
+2078,2026-02-04,Emailing,Tablet
+4695,2026-02-04,Instagram Ads,Desktop
+3994,2026-02-04,Emailing,Desktop
+3254,2026-02-04,Emailing,Tablet
+4626,2026-02-04,Facebook Ads,Desktop
+198,2026-02-04,Emailing,Desktop
+2230,2026-02-04,Facebook Ads,Desktop
+4146,2026-02-04,LinkedIn,Desktop
+1689,2026-02-04,Emailing,Mobile
+2474,2026-02-04,LinkedIn,Desktop
+347,2026-02-04,Google Ads,Mobile
+498,2026-02-04,Organic,Desktop
+3859,2026-02-04,Facebook Ads,Desktop
+1323,2026-02-05,Google Ads,Mobile
+1942,2026-02-05,Google Ads,Desktop
+4399,2026-02-05,Emailing,Mobile
+3137,2026-02-05,Emailing,Tablet
+2493,2026-02-05,Emailing,Tablet
+1497,2026-02-05,Organic,Desktop
+119,2026-02-05,Google Ads,Mobile
+2358,2026-02-05,LinkedIn,Desktop
+755,2026-02-05,Google Ads,Mobile
+2876,2026-02-05,Instagram Ads,Desktop
+3122,2026-02-05,Emailing,Tablet
+2484,2026-02-05,Organic,Mobile
+3482,2026-02-05,Organic,Mobile
+3907,2026-02-05,Instagram Ads,Tablet
+4001,2026-02-05,LinkedIn,Desktop
+4835,2026-02-05,Facebook Ads,Tablet
+1356,2026-02-05,Google Ads,Tablet
+1802,2026-02-05,LinkedIn,Tablet
+2749,2026-02-05,Instagram Ads,Mobile
+3200,2026-02-06,Google Ads,Mobile
+3868,2026-02-06,Organic,Tablet
+4819,2026-02-06,Facebook Ads,Tablet
+2723,2026-02-06,LinkedIn,Desktop
+3401,2026-02-06,Emailing,Desktop
+3204,2026-02-06,LinkedIn,Desktop
+1580,2026-02-06,Google Ads,Mobile
+2050,2026-02-06,Emailing,Desktop
+3206,2026-02-06,Organic,Desktop
+5042,2026-02-06,Organic,Tablet
+1088,2026-02-06,Facebook Ads,Mobile
+444,2026-02-06,Facebook Ads,Tablet
+2360,2026-02-06,Instagram Ads,Desktop
+2895,2026-02-07,Facebook Ads,Desktop
+2965,2026-02-07,Facebook Ads,Tablet
+1016,2026-02-07,Google Ads,Desktop
+1878,2026-02-07,Emailing,Tablet
+3081,2026-02-07,Organic,Desktop
+668,2026-02-07,LinkedIn,Mobile
+3766,2026-02-07,Facebook Ads,Desktop
+2089,2026-02-07,Google Ads,Mobile
+3630,2026-02-08,Instagram Ads,Desktop
+4795,2026-02-08,Facebook Ads,Tablet
+2217,2026-02-08,Google Ads,Desktop
+1805,2026-02-08,Emailing,Tablet
+4433,2026-02-08,Google Ads,Mobile
+839,2026-02-08,Google Ads,Mobile
+140,2026-02-08,Facebook Ads,Tablet
+964,2026-02-08,LinkedIn,Desktop
+2545,2026-02-08,Instagram Ads,Tablet
+2608,2026-02-08,Organic,Mobile
+1943,2026-02-08,Emailing,Desktop
+3309,2026-02-08,LinkedIn,Desktop
+2047,2026-02-08,Emailing,Desktop
+411,2026-02-08,Instagram Ads,Mobile
+1453,2026-02-08,Organic,Mobile
+2364,2026-02-09,LinkedIn,Tablet
+4366,2026-02-09,Google Ads,Tablet
+4441,2026-02-09,Organic,Mobile
+1544,2026-02-09,Google Ads,Mobile
+3255,2026-02-09,Instagram Ads,Tablet
+3534,2026-02-09,Emailing,Mobile
+4299,2026-02-09,LinkedIn,Mobile
+4096,2026-02-09,Emailing,Desktop
+3819,2026-02-09,Emailing,Tablet
+527,2026-02-09,LinkedIn,Mobile
+4468,2026-02-09,Google Ads,Mobile
+2879,2026-02-10,Emailing,Desktop
+4852,2026-02-10,Facebook Ads,Desktop
+2557,2026-02-10,Instagram Ads,Desktop
+2479,2026-02-10,Organic,Desktop
+3261,2026-02-10,Google Ads,Desktop
+4273,2026-02-10,Emailing,Desktop
+1477,2026-02-10,Google Ads,Tablet
+1100,2026-02-10,LinkedIn,Mobile
+1308,2026-02-10,Organic,Desktop
+5034,2026-02-10,Emailing,Desktop
+2864,2026-02-11,Instagram Ads,Tablet
+1590,2026-02-11,Organic,Mobile
+5076,2026-02-11,Google Ads,Desktop
+2613,2026-02-11,Organic,Mobile
+3833,2026-02-11,Organic,Mobile
+736,2026-02-11,Instagram Ads,Desktop
+2296,2026-02-11,Instagram Ads,Desktop
+516,2026-02-11,Facebook Ads,Desktop
+2015,2026-02-11,Organic,Tablet
+1760,2026-02-11,Emailing,Tablet
+3770,2026-02-11,LinkedIn,Mobile
+1730,2026-02-12,Google Ads,Desktop
+909,2026-02-12,Organic,Tablet
+1312,2026-02-12,Facebook Ads,Mobile
+2259,2026-02-12,Emailing,Desktop
+2178,2026-02-12,Google Ads,Desktop
+1837,2026-02-12,Facebook Ads,Desktop
+4358,2026-02-12,Facebook Ads,Tablet
+2107,2026-02-12,LinkedIn,Tablet
+1670,2026-02-12,Instagram Ads,Desktop
+4088,2026-02-12,Facebook Ads,Tablet
+639,2026-02-12,Google Ads,Tablet
+3191,2026-02-12,Emailing,Desktop
+2684,2026-02-12,Emailing,Tablet
+5055,2026-02-12,Instagram Ads,Tablet
+3381,2026-02-12,Organic,Tablet
+4344,2026-02-13,Facebook Ads,Mobile
+962,2026-02-13,LinkedIn,Desktop
+2510,2026-02-13,Instagram Ads,Desktop
+583,2026-02-13,Google Ads,Mobile
+930,2026-02-13,Facebook Ads,Desktop
+1531,2026-02-13,Organic,Mobile
+1415,2026-02-13,Emailing,Tablet
+3687,2026-02-13,Organic,Mobile
+3250,2026-02-13,Facebook Ads,Mobile
+1519,2026-02-13,Emailing,Desktop
+1861,2026-02-13,Instagram Ads,Desktop
+1490,2026-02-13,Facebook Ads,Desktop
+932,2026-02-13,LinkedIn,Mobile
+3551,2026-02-13,Organic,Mobile
+591,2026-02-14,LinkedIn,Tablet
+1364,2026-02-14,Emailing,Mobile
+2437,2026-02-14,Organic,Tablet
+125,2026-02-14,Emailing,Mobile
+3567,2026-02-14,Emailing,Tablet
+4655,2026-02-15,Google Ads,Tablet
+2247,2026-02-15,Instagram Ads,Tablet
+3224,2026-02-15,LinkedIn,Mobile
+2083,2026-02-15,Emailing,Desktop
+681,2026-02-15,Organic,Desktop
+4812,2026-02-15,Emailing,Desktop
+2151,2026-02-15,Instagram Ads,Desktop
+2524,2026-02-15,Facebook Ads,Tablet
+1871,2026-02-15,LinkedIn,Desktop
+1814,2026-02-15,Facebook Ads,Mobile
+2824,2026-02-15,Google Ads,Desktop
+3733,2026-02-15,LinkedIn,Desktop
+2164,2026-02-15,Facebook Ads,Tablet
+2750,2026-02-15,Google Ads,Tablet
+3935,2026-02-15,Emailing,Tablet
+3665,2026-02-15,LinkedIn,Mobile
+3660,2026-02-15,Facebook Ads,Mobile
+3912,2026-02-15,LinkedIn,Mobile
+2874,2026-02-15,LinkedIn,Desktop
+463,2026-02-15,Instagram Ads,Mobile
+1986,2026-02-16,Facebook Ads,Tablet
+1442,2026-02-16,Google Ads,Tablet
+2297,2026-02-16,Organic,Tablet
+1958,2026-02-16,Instagram Ads,Desktop
+4763,2026-02-16,Instagram Ads,Tablet
+889,2026-02-16,Emailing,Desktop
+4859,2026-02-16,Facebook Ads,Desktop
+2585,2026-02-16,Instagram Ads,Desktop
+727,2026-02-16,Emailing,Tablet
+1883,2026-02-16,Organic,Mobile
+706,2026-02-16,LinkedIn,Tablet
+3054,2026-02-16,Organic,Mobile
+2157,2026-02-16,Google Ads,Desktop
+841,2026-02-16,Instagram Ads,Tablet
+1598,2026-02-17,Facebook Ads,Mobile
+3888,2026-02-17,Emailing,Mobile
+5027,2026-02-17,Google Ads,Tablet
+3410,2026-02-17,Google Ads,Mobile
+387,2026-02-17,Instagram Ads,Tablet
+2794,2026-02-17,Organic,Mobile
+3608,2026-02-17,Organic,Tablet
+595,2026-02-17,Google Ads,Desktop
+4196,2026-02-17,LinkedIn,Tablet
+2183,2026-02-17,LinkedIn,Mobile
+1721,2026-02-17,Instagram Ads,Desktop
+2133,2026-02-17,Instagram Ads,Tablet
+3927,2026-02-18,LinkedIn,Tablet
+4143,2026-02-18,LinkedIn,Mobile
+4329,2026-02-18,Instagram Ads,Desktop
+1186,2026-02-18,LinkedIn,Tablet
+3743,2026-02-18,LinkedIn,Desktop
+3744,2026-02-18,Google Ads,Mobile
+3385,2026-02-18,Facebook Ads,Mobile
+626,2026-02-19,LinkedIn,Tablet
+3622,2026-02-19,Google Ads,Mobile
+2857,2026-02-19,Facebook Ads,Tablet
+4982,2026-02-19,LinkedIn,Tablet
+2326,2026-02-19,LinkedIn,Desktop
+558,2026-02-19,LinkedIn,Desktop
+2245,2026-02-19,Organic,Tablet
+3836,2026-02-19,Google Ads,Tablet
+696,2026-02-20,Facebook Ads,Desktop
+2383,2026-02-20,Google Ads,Desktop
+2265,2026-02-20,Organic,Mobile
+190,2026-02-20,Google Ads,Desktop
+3445,2026-02-20,Emailing,Mobile
+4612,2026-02-20,Facebook Ads,Desktop
+4582,2026-02-20,Google Ads,Mobile
+958,2026-02-20,Google Ads,Mobile
+813,2026-02-20,Emailing,Desktop
+2832,2026-02-20,Instagram Ads,Tablet
+2761,2026-02-20,Facebook Ads,Desktop
+1338,2026-02-20,Facebook Ads,Desktop
+442,2026-02-20,LinkedIn,Desktop
+1506,2026-02-21,LinkedIn,Desktop
+5071,2026-02-21,Google Ads,Desktop
+3943,2026-02-21,Facebook Ads,Desktop
+2674,2026-02-21,Instagram Ads,Mobile
+1126,2026-02-21,LinkedIn,Tablet
+4533,2026-02-21,Instagram Ads,Mobile
+1868,2026-02-21,Emailing,Mobile
+439,2026-02-21,Emailing,Desktop
+2569,2026-02-21,Organic,Tablet
+1070,2026-02-21,LinkedIn,Tablet
+4753,2026-02-21,Organic,Tablet
+2976,2026-02-21,Emailing,Mobile
+3367,2026-02-21,Facebook Ads,Desktop
+1602,2026-02-22,Facebook Ads,Tablet
+3920,2026-02-22,Emailing,Mobile
+2618,2026-02-22,LinkedIn,Mobile
+4407,2026-02-22,Facebook Ads,Tablet
+2909,2026-02-22,Emailing,Mobile
+4306,2026-02-22,LinkedIn,Tablet
+4193,2026-02-22,Organic,Desktop
+4374,2026-02-22,Organic,Desktop
+800,2026-02-23,Organic,Desktop
+1846,2026-02-23,Instagram Ads,Mobile
+1159,2026-02-23,Facebook Ads,Desktop
+1239,2026-02-23,Facebook Ads,Tablet
+2931,2026-02-23,Organic,Desktop
+1368,2026-02-23,LinkedIn,Desktop
+1375,2026-02-23,Instagram Ads,Mobile
+2028,2026-02-23,Facebook Ads,Mobile
+2389,2026-02-23,LinkedIn,Desktop
+1352,2026-02-23,Facebook Ads,Desktop
+3928,2026-02-23,Emailing,Desktop
+4424,2026-02-23,Instagram Ads,Tablet
+4576,2026-02-24,Emailing,Desktop
+5065,2026-02-24,LinkedIn,Mobile
+3152,2026-02-24,Instagram Ads,Mobile
+1646,2026-02-24,Instagram Ads,Mobile
+4861,2026-02-24,Instagram Ads,Tablet
+4006,2026-02-24,Facebook Ads,Tablet
+2152,2026-02-24,Emailing,Desktop
+3417,2026-02-24,Facebook Ads,Desktop
+3681,2026-02-24,Organic,Mobile
+5002,2026-02-24,Facebook Ads,Desktop
+3648,2026-02-24,LinkedIn,Desktop
+2084,2026-02-24,Emailing,Desktop
+724,2026-02-24,Organic,Mobile
+2587,2026-02-24,Facebook Ads,Desktop
+4476,2026-02-24,Instagram Ads,Desktop
+2830,2026-02-24,Emailing,Desktop
+1625,2026-02-25,Emailing,Tablet
+4713,2026-02-25,Emailing,Mobile
+2110,2026-02-25,Emailing,Mobile
+2646,2026-02-25,Facebook Ads,Tablet
+2373,2026-02-25,Google Ads,Desktop
+2513,2026-02-25,Emailing,Mobile
+1788,2026-02-25,Facebook Ads,Tablet
+3378,2026-02-25,Facebook Ads,Tablet
+1022,2026-02-25,Facebook Ads,Tablet
+1455,2026-02-25,Facebook Ads,Desktop
+3736,2026-02-25,Emailing,Tablet
+3747,2026-02-25,LinkedIn,Desktop
+2464,2026-02-25,Emailing,Tablet
+1533,2026-02-26,Facebook Ads,Mobile
+2559,2026-02-26,Google Ads,Mobile
+4516,2026-02-26,Organic,Mobile
+5035,2026-02-26,Emailing,Mobile
+1305,2026-02-26,Facebook Ads,Desktop
+3678,2026-02-26,Facebook Ads,Mobile
+3579,2026-02-26,LinkedIn,Mobile
+4597,2026-02-26,Emailing,Desktop
+254,2026-02-26,LinkedIn,Mobile
+3695,2026-02-26,Organic,Tablet
+1864,2026-02-26,Google Ads,Mobile
+1858,2026-02-26,Google Ads,Tablet
+3658,2026-02-26,Facebook Ads,Mobile
+1110,2026-02-26,Facebook Ads,Mobile
+4889,2026-02-27,Emailing,Mobile
+1358,2026-02-27,Organic,Desktop
+1474,2026-02-27,LinkedIn,Tablet
+3266,2026-02-27,Emailing,Mobile
+2596,2026-02-27,LinkedIn,Mobile
+556,2026-02-27,Organic,Tablet
+334,2026-02-27,Facebook Ads,Mobile
+679,2026-02-27,LinkedIn,Desktop
+4095,2026-02-27,Emailing,Mobile
+2789,2026-02-27,Instagram Ads,Mobile
+3865,2026-02-27,Organic,Desktop
+683,2026-02-27,Organic,Tablet
+3680,2026-02-27,LinkedIn,Desktop
+441,2026-02-27,LinkedIn,Tablet
+1086,2026-02-28,Facebook Ads,Mobile
+2413,2026-02-28,Google Ads,Desktop
+196,2026-02-28,Instagram Ads,Desktop
+2249,2026-02-28,LinkedIn,Desktop
+1232,2026-02-28,Instagram Ads,Mobile
+1238,2026-02-28,Google Ads,Mobile
+2729,2026-02-28,Facebook Ads,Tablet
+524,2026-02-28,Facebook Ads,Mobile
+142,2026-02-28,Emailing,Desktop
+1764,2026-03-01,Facebook Ads,Desktop
+2977,2026-03-01,Instagram Ads,Desktop
+1079,2026-03-01,Google Ads,Mobile
+1430,2026-03-01,Organic,Tablet
+1684,2026-03-01,Facebook Ads,Mobile
+935,2026-03-01,Instagram Ads,Desktop
+3070,2026-03-01,Organic,Desktop
+2698,2026-03-01,Organic,Desktop
+1551,2026-03-01,LinkedIn,Tablet
+2088,2026-03-01,Google Ads,Desktop
+4605,2026-03-01,Emailing,Tablet
+2186,2026-03-01,LinkedIn,Desktop
+2039,2026-03-01,Emailing,Desktop
+750,2026-03-01,LinkedIn,Tablet
+243,2026-03-01,Organic,Mobile
+4318,2026-03-01,Instagram Ads,Tablet
+4212,2026-03-02,LinkedIn,Mobile
+3557,2026-03-02,Facebook Ads,Mobile
+2660,2026-03-02,Organic,Mobile
+4293,2026-03-02,Organic,Tablet
+2748,2026-03-02,Emailing,Tablet
+4671,2026-03-02,Facebook Ads,Mobile
+3347,2026-03-02,Organic,Desktop
+4728,2026-03-02,Organic,Desktop
+1380,2026-03-02,Facebook Ads,Tablet
+2869,2026-03-02,LinkedIn,Mobile
+3762,2026-03-02,Instagram Ads,Tablet
+2917,2026-03-02,Facebook Ads,Desktop
+844,2026-03-03,Emailing,Desktop
+332,2026-03-03,Organic,Mobile
+3981,2026-03-03,Instagram Ads,Tablet
+3302,2026-03-03,Organic,Tablet
+949,2026-03-03,Google Ads,Mobile
+3834,2026-03-03,Emailing,Desktop
+1792,2026-03-03,Instagram Ads,Mobile
+2683,2026-03-03,LinkedIn,Desktop
+248,2026-03-03,Facebook Ads,Tablet
+376,2026-03-03,Facebook Ads,Desktop
+3264,2026-03-03,Facebook Ads,Tablet
+4930,2026-03-03,Google Ads,Tablet
+451,2026-03-03,Instagram Ads,Mobile
+709,2026-03-03,Google Ads,Mobile
+3088,2026-03-04,Organic,Desktop
+2515,2026-03-04,Facebook Ads,Desktop
+4797,2026-03-04,Instagram Ads,Mobile
+4354,2026-03-04,LinkedIn,Desktop
+503,2026-03-04,Instagram Ads,Tablet
+1973,2026-03-04,LinkedIn,Desktop
+4480,2026-03-04,Emailing,Desktop
+2378,2026-03-04,Instagram Ads,Mobile
+893,2026-03-04,Facebook Ads,Tablet
+3296,2026-03-04,Google Ads,Tablet
+3654,2026-03-04,LinkedIn,Tablet
+2222,2026-03-04,Instagram Ads,Mobile
+1804,2026-03-04,LinkedIn,Desktop
+2956,2026-03-04,Google Ads,Tablet
+4693,2026-03-04,Emailing,Desktop
+2411,2026-03-05,Emailing,Mobile
+3362,2026-03-05,Google Ads,Desktop
+3454,2026-03-05,Google Ads,Desktop
+4798,2026-03-05,LinkedIn,Desktop
+4854,2026-03-05,Instagram Ads,Mobile
+2987,2026-03-05,LinkedIn,Mobile
+793,2026-03-05,Instagram Ads,Mobile
+1978,2026-03-05,Facebook Ads,Desktop
+204,2026-03-05,Instagram Ads,Mobile
+3048,2026-03-05,LinkedIn,Tablet
+1827,2026-03-05,LinkedIn,Desktop
+1522,2026-03-05,Google Ads,Tablet
+1268,2026-03-05,Organic,Tablet
+4475,2026-03-06,Google Ads,Desktop
+2706,2026-03-06,Instagram Ads,Mobile
+3761,2026-03-06,Google Ads,Desktop
+375,2026-03-06,Google Ads,Tablet
+733,2026-03-06,Facebook Ads,Desktop
+1893,2026-03-06,Emailing,Mobile
+4730,2026-03-06,Facebook Ads,Mobile
+4761,2026-03-06,Facebook Ads,Tablet
+2595,2026-03-06,Google Ads,Mobile
+273,2026-03-06,Emailing,Mobile
+4914,2026-03-06,Facebook Ads,Tablet
+2614,2026-03-06,Emailing,Mobile
+3758,2026-03-06,Google Ads,Tablet
+230,2026-03-06,LinkedIn,Desktop
+2162,2026-03-07,Emailing,Mobile
+128,2026-03-07,Facebook Ads,Mobile
+1478,2026-03-07,Google Ads,Mobile
+3047,2026-03-07,Emailing,Desktop
+2403,2026-03-07,LinkedIn,Mobile
+3321,2026-03-07,Emailing,Tablet
+4837,2026-03-07,Facebook Ads,Mobile
+2280,2026-03-07,Facebook Ads,Mobile
+4815,2026-03-07,LinkedIn,Desktop
+1194,2026-03-07,Google Ads,Mobile
+2370,2026-03-07,LinkedIn,Mobile
+3285,2026-03-07,LinkedIn,Mobile
+4007,2026-03-07,Google Ads,Mobile
+4602,2026-03-07,LinkedIn,Tablet
+671,2026-03-07,Instagram Ads,Mobile
+4261,2026-03-07,Organic,Desktop
+4420,2026-03-08,Instagram Ads,Desktop
+2046,2026-03-08,Organic,Desktop
+2967,2026-03-08,Organic,Desktop
+2394,2026-03-08,Emailing,Tablet
+407,2026-03-08,Instagram Ads,Mobile
+1386,2026-03-08,Organic,Tablet
+1762,2026-03-08,Organic,Mobile
+2780,2026-03-08,Facebook Ads,Mobile
+1532,2026-03-08,Instagram Ads,Tablet
+2357,2026-03-08,Instagram Ads,Tablet
+4562,2026-03-09,Facebook Ads,Desktop
+2796,2026-03-09,Facebook Ads,Mobile
+1057,2026-03-09,Google Ads,Desktop
+1706,2026-03-09,Organic,Desktop
+4642,2026-03-09,Instagram Ads,Desktop
+2812,2026-03-09,Google Ads,Tablet
+651,2026-03-09,Emailing,Mobile
+364,2026-03-09,Google Ads,Mobile
+3428,2026-03-09,LinkedIn,Mobile
+4794,2026-03-09,LinkedIn,Mobile
+3331,2026-03-09,LinkedIn,Mobile
+1601,2026-03-09,LinkedIn,Desktop
+237,2026-03-09,Facebook Ads,Tablet
+1890,2026-03-09,Facebook Ads,Desktop
+148,2026-03-09,Instagram Ads,Mobile
+1494,2026-03-09,LinkedIn,Tablet
+3140,2026-03-09,Facebook Ads,Mobile
+4502,2026-03-09,Emailing,Mobile
+2074,2026-03-09,Instagram Ads,Desktop
+2172,2026-03-09,Google Ads,Mobile
+649,2026-03-09,Facebook Ads,Tablet
+916,2026-03-09,Emailing,Tablet
+2694,2026-03-09,Google Ads,Tablet
+580,2026-03-10,Facebook Ads,Mobile
+3005,2026-03-10,Instagram Ads,Tablet
+2801,2026-03-10,Emailing,Tablet
+1743,2026-03-10,Instagram Ads,Desktop
+2657,2026-03-10,Facebook Ads,Mobile
+834,2026-03-10,Google Ads,Tablet
+396,2026-03-10,Organic,Tablet
+3239,2026-03-10,Emailing,Mobile
+197,2026-03-10,Emailing,Tablet
+2905,2026-03-10,Emailing,Tablet
+2346,2026-03-10,Google Ads,Tablet
+4617,2026-03-10,Facebook Ads,Mobile
+3792,2026-03-11,LinkedIn,Tablet
+118,2026-03-11,LinkedIn,Desktop
+4464,2026-03-11,Google Ads,Tablet
+1034,2026-03-11,Emailing,Tablet
+5073,2026-03-11,Emailing,Tablet
+2143,2026-03-11,Facebook Ads,Mobile
+1640,2026-03-11,Google Ads,Desktop
+4222,2026-03-11,Facebook Ads,Tablet
+963,2026-03-11,Instagram Ads,Tablet
+774,2026-03-11,Instagram Ads,Desktop
+2194,2026-03-11,Instagram Ads,Tablet
+3542,2026-03-12,Google Ads,Desktop
+2234,2026-03-12,LinkedIn,Desktop
+575,2026-03-12,Organic,Tablet
+1417,2026-03-12,Google Ads,Tablet
+1833,2026-03-12,LinkedIn,Tablet
+2791,2026-03-13,Emailing,Mobile
+1926,2026-03-13,Instagram Ads,Desktop
+3992,2026-03-13,LinkedIn,Tablet
+289,2026-03-13,Google Ads,Tablet
+1152,2026-03-13,LinkedIn,Desktop
+4099,2026-03-13,Facebook Ads,Tablet
+3863,2026-03-13,Google Ads,Tablet
+1515,2026-03-13,Google Ads,Mobile
+402,2026-03-13,Facebook Ads,Tablet
+2867,2026-03-13,Google Ads,Mobile
+858,2026-03-14,Facebook Ads,Mobile
+737,2026-03-14,Instagram Ads,Tablet
+2575,2026-03-14,Google Ads,Tablet
+2115,2026-03-14,Organic,Desktop
+2202,2026-03-14,Organic,Desktop
+3897,2026-03-14,Facebook Ads,Mobile
+801,2026-03-14,LinkedIn,Mobile
+734,2026-03-14,Facebook Ads,Tablet
+1608,2026-03-14,Google Ads,Desktop
+3351,2026-03-14,Google Ads,Desktop
+1713,2026-03-14,Organic,Tablet
+4274,2026-03-14,Google Ads,Tablet
+3941,2026-03-14,Facebook Ads,Desktop
+2459,2026-03-14,Organic,Tablet
+3374,2026-03-15,Google Ads,Mobile
+602,2026-03-15,Facebook Ads,Desktop
+264,2026-03-15,Google Ads,Mobile
+1728,2026-03-15,LinkedIn,Mobile
+1851,2026-03-15,LinkedIn,Mobile
+3286,2026-03-15,Google Ads,Desktop
+5013,2026-03-15,Facebook Ads,Desktop
+3578,2026-03-15,LinkedIn,Desktop
+1214,2026-03-15,Google Ads,Mobile
+2185,2026-03-16,Organic,Tablet
+752,2026-03-16,Organic,Mobile
+1630,2026-03-16,Instagram Ads,Tablet
+3672,2026-03-16,Emailing,Desktop
+1141,2026-03-16,LinkedIn,Desktop
+3244,2026-03-16,Instagram Ads,Mobile
+4865,2026-03-16,LinkedIn,Tablet
+925,2026-03-16,Organic,Mobile
+2997,2026-03-16,Organic,Desktop
+220,2026-03-16,Emailing,Mobile
+1280,2026-03-17,LinkedIn,Mobile
+4391,2026-03-17,LinkedIn,Mobile
+403,2026-03-17,Instagram Ads,Mobile
+1976,2026-03-17,Organic,Mobile
+1741,2026-03-17,Facebook Ads,Desktop
+3343,2026-03-17,Facebook Ads,Tablet
+2242,2026-03-17,Google Ads,Mobile
+2322,2026-03-17,Emailing,Tablet
+1404,2026-03-17,LinkedIn,Desktop
+1102,2026-03-17,Google Ads,Mobile
+1276,2026-03-17,Facebook Ads,Tablet
+2542,2026-03-17,LinkedIn,Desktop
+3394,2026-03-17,Instagram Ads,Tablet
+3999,2026-03-17,Emailing,Desktop
+4257,2026-03-17,Organic,Tablet
+2539,2026-03-17,Google Ads,Tablet
+4492,2026-03-17,Google Ads,Mobile
+4308,2026-03-17,Google Ads,Desktop
+4455,2026-03-17,Emailing,Mobile
+1028,2026-03-17,Organic,Desktop
+1710,2026-03-17,Emailing,Mobile
+2570,2026-03-18,LinkedIn,Tablet
+3234,2026-03-18,Emailing,Desktop
+2149,2026-03-18,Google Ads,Desktop
+3034,2026-03-18,Emailing,Desktop
+882,2026-03-18,Organic,Tablet
+4313,2026-03-18,LinkedIn,Tablet
+2838,2026-03-18,Instagram Ads,Tablet
+166,2026-03-18,Organic,Desktop
+388,2026-03-18,Google Ads,Mobile
+1964,2026-03-18,Instagram Ads,Mobile
+1583,2026-03-18,LinkedIn,Mobile
+848,2026-03-18,LinkedIn,Tablet
+4789,2026-03-18,Facebook Ads,Mobile
+4906,2026-03-18,Facebook Ads,Tablet
+4925,2026-03-18,Emailing,Desktop
+4072,2026-03-18,Facebook Ads,Mobile
+3085,2026-03-19,Organic,Mobile
+149,2026-03-19,Instagram Ads,Desktop
+3871,2026-03-19,Google Ads,Tablet
+2160,2026-03-19,Instagram Ads,Mobile
+464,2026-03-19,Facebook Ads,Desktop
+4935,2026-03-19,Emailing,Desktop
+2875,2026-03-19,Instagram Ads,Mobile
+1413,2026-03-19,Instagram Ads,Tablet
+5061,2026-03-19,Google Ads,Mobile
+2299,2026-03-19,LinkedIn,Mobile
+4532,2026-03-19,Organic,Tablet
+4036,2026-03-19,Organic,Mobile
+5010,2026-03-19,Google Ads,Mobile
+1680,2026-03-19,Facebook Ads,Tablet
+4078,2026-03-20,Organic,Desktop
+4203,2026-03-20,LinkedIn,Tablet
+4615,2026-03-20,Organic,Desktop
+421,2026-03-20,Emailing,Mobile
+4758,2026-03-20,Google Ads,Tablet
+1648,2026-03-20,Organic,Tablet
+3958,2026-03-20,Emailing,Mobile
+3111,2026-03-20,Organic,Desktop
+311,2026-03-20,Google Ads,Tablet
+5085,2026-03-20,LinkedIn,Mobile
+1860,2026-03-20,Instagram Ads,Tablet
+1800,2026-03-20,Google Ads,Desktop
+4560,2026-03-20,Organic,Desktop
+4263,2026-03-20,Instagram Ads,Tablet
+526,2026-03-20,Organic,Desktop
+3421,2026-03-20,Organic,Desktop
+1015,2026-03-21,Emailing,Mobile
+4385,2026-03-21,Emailing,Tablet
+3698,2026-03-21,Facebook Ads,Mobile
+2693,2026-03-21,Organic,Tablet
+3765,2026-03-21,LinkedIn,Tablet
+3093,2026-03-21,Instagram Ads,Desktop
+3301,2026-03-21,Facebook Ads,Tablet
+653,2026-03-21,Instagram Ads,Mobile
+1226,2026-03-21,LinkedIn,Mobile
+1431,2026-03-22,Google Ads,Tablet
+427,2026-03-22,Emailing,Tablet
+634,2026-03-22,Instagram Ads,Mobile
+288,2026-03-22,Facebook Ads,Tablet
+4883,2026-03-22,Facebook Ads,Tablet
+5012,2026-03-22,LinkedIn,Mobile
+4635,2026-03-22,LinkedIn,Mobile
+4510,2026-03-22,Instagram Ads,Desktop
+2541,2026-03-22,Organic,Tablet
+4448,2026-03-22,Google Ads,Tablet
+578,2026-03-22,Google Ads,Mobile
+1042,2026-03-22,Facebook Ads,Mobile
+1757,2026-03-22,Instagram Ads,Mobile
+4583,2026-03-22,Organic,Desktop
+1995,2026-03-22,Instagram Ads,Desktop
+2001,2026-03-22,Organic,Tablet
+4154,2026-03-23,Organic,Mobile
+4486,2026-03-23,Emailing,Desktop
+552,2026-03-23,Emailing,Desktop
+3340,2026-03-23,Instagram Ads,Desktop
+4240,2026-03-23,Instagram Ads,Mobile
+1719,2026-03-23,Google Ads,Tablet
+2553,2026-03-23,Facebook Ads,Mobile
+3488,2026-03-23,Google Ads,Desktop
+356,2026-03-23,Google Ads,Mobile
+4332,2026-03-23,Instagram Ads,Tablet
+2468,2026-03-23,Google Ads,Desktop
+786,2026-03-23,Facebook Ads,Desktop
+3979,2026-03-23,Facebook Ads,Mobile
+3717,2026-03-23,Facebook Ads,Desktop
+2294,2026-03-24,Emailing,Mobile
+654,2026-03-24,Facebook Ads,Desktop
+2142,2026-03-24,LinkedIn,Tablet
+3368,2026-03-24,Google Ads,Mobile
+2233,2026-03-24,Instagram Ads,Tablet
+3403,2026-03-24,Facebook Ads,Tablet
+966,2026-03-24,LinkedIn,Desktop
+1383,2026-03-24,Instagram Ads,Mobile
+2032,2026-03-24,Instagram Ads,Tablet
+2033,2026-03-24,Emailing,Mobile
+194,2026-03-24,Facebook Ads,Tablet
+2122,2026-03-24,Organic,Mobile
+3527,2026-03-25,Emailing,Mobile
+4148,2026-03-25,Organic,Mobile
+4590,2026-03-25,Facebook Ads,Tablet
+3650,2026-03-25,Google Ads,Tablet
+3068,2026-03-25,Instagram Ads,Tablet
+2949,2026-03-25,Emailing,Tablet
+1723,2026-03-25,Instagram Ads,Mobile
+3948,2026-03-25,Emailing,Tablet
+4211,2026-03-25,Organic,Tablet
+959,2026-03-26,Organic,Desktop
+898,2026-03-26,Google Ads,Mobile
+2132,2026-03-26,Instagram Ads,Tablet
+4656,2026-03-26,Instagram Ads,Tablet
+1069,2026-03-26,Emailing,Tablet
+4393,2026-03-26,Google Ads,Tablet
+1244,2026-03-26,Instagram Ads,Tablet
+3516,2026-03-26,Facebook Ads,Mobile
+3786,2026-03-26,Facebook Ads,Desktop
+2915,2026-03-26,Google Ads,Tablet
+4484,2026-03-26,LinkedIn,Desktop
+3878,2026-03-26,Instagram Ads,Tablet
+4260,2026-03-26,Facebook Ads,Tablet
+1571,2026-03-26,Facebook Ads,Desktop
+1980,2026-03-26,Facebook Ads,Mobile
+4593,2026-03-27,LinkedIn,Tablet
+1643,2026-03-27,LinkedIn,Mobile
+2564,2026-03-27,Google Ads,Mobile
+1118,2026-03-27,Emailing,Tablet
+3693,2026-03-27,Google Ads,Mobile
+5038,2026-03-27,Facebook Ads,Mobile
+1393,2026-03-27,Instagram Ads,Tablet
+2893,2026-03-27,Organic,Mobile
+322,2026-03-27,Emailing,Desktop
+3900,2026-03-27,Instagram Ads,Tablet
+1554,2026-03-28,Facebook Ads,Tablet
+4459,2026-03-28,Instagram Ads,Desktop
+787,2026-03-28,Emailing,Tablet
+359,2026-03-28,Facebook Ads,Tablet
+3702,2026-03-28,Emailing,Desktop
+4584,2026-03-28,Google Ads,Mobile
+4101,2026-03-28,LinkedIn,Tablet
+4629,2026-03-28,Emailing,Desktop
+3105,2026-03-28,Instagram Ads,Mobile
+866,2026-03-28,Instagram Ads,Desktop
+2065,2026-03-28,LinkedIn,Mobile
+2402,2026-03-28,Organic,Desktop
+3711,2026-03-28,Instagram Ads,Desktop
+2356,2026-03-28,Emailing,Tablet
+760,2026-03-28,Instagram Ads,Tablet
+2603,2026-03-29,Instagram Ads,Tablet
+4061,2026-03-29,Facebook Ads,Tablet
+4483,2026-03-29,Organic,Desktop
+4009,2026-03-29,Emailing,Tablet
+3667,2026-03-29,Facebook Ads,Desktop
+4691,2026-03-29,Emailing,Tablet
+514,2026-03-29,LinkedIn,Mobile
+825,2026-03-29,LinkedIn,Tablet
+3582,2026-03-29,Instagram Ads,Desktop
+5092,2026-03-29,Facebook Ads,Mobile
+1040,2026-03-30,Google Ads,Mobile
+3887,2026-03-30,Facebook Ads,Desktop
+2465,2026-03-30,Organic,Mobile
+4210,2026-03-30,Facebook Ads,Tablet
+3840,2026-03-30,Organic,Mobile
+2197,2026-03-30,Organic,Mobile
+3500,2026-03-30,Instagram Ads,Tablet
+460,2026-03-30,LinkedIn,Tablet
+2945,2026-03-30,Organic,Tablet
+2597,2026-03-30,Emailing,Desktop
+333,2026-03-30,Facebook Ads,Mobile
+4176,2026-03-30,Google Ads,Mobile
+4622,2026-03-30,Emailing,Tablet
+4140,2026-03-30,Google Ads,Mobile
+4580,2026-03-30,Emailing,Desktop
+3916,2026-03-30,LinkedIn,Tablet
+4388,2026-03-30,Facebook Ads,Mobile
+903,2026-03-30,Facebook Ads,Tablet
+1607,2026-03-31,Instagram Ads,Mobile
+2847,2026-03-31,Facebook Ads,Tablet
+1696,2026-03-31,Emailing,Mobile
+3653,2026-03-31,Instagram Ads,Mobile
+4421,2026-03-31,Facebook Ads,Tablet
+1216,2026-03-31,Instagram Ads,Desktop
+3694,2026-03-31,Organic,Tablet
+939,2026-03-31,LinkedIn,Mobile
+3442,2026-03-31,Emailing,Desktop
+385,2026-03-31,Facebook Ads,Desktop
+1452,2026-03-31,Facebook Ads,Desktop
+2031,2026-03-31,Organic,Desktop
+2555,2026-03-31,LinkedIn,Desktop
+2966,2026-03-31,Facebook Ads,Mobile
+4288,2026-03-31,LinkedIn,Mobile
+4552,2026-03-31,Google Ads,Desktop
+1933,2026-04-01,Facebook Ads,Desktop
+1292,2026-04-01,Instagram Ads,Desktop
+564,2026-04-01,Organic,Desktop
+2964,2026-04-01,Facebook Ads,Desktop
+2486,2026-04-01,LinkedIn,Desktop
+4376,2026-04-01,Google Ads,Tablet
+887,2026-04-01,Google Ads,Tablet
+4277,2026-04-01,Google Ads,Mobile
+2343,2026-04-01,Emailing,Mobile
+1004,2026-04-01,Facebook Ads,Mobile
+3585,2026-04-01,Google Ads,Mobile
+3531,2026-04-01,Google Ads,Tablet
+4064,2026-04-01,Emailing,Tablet
+1360,2026-04-01,LinkedIn,Tablet
+798,2026-04-01,Emailing,Desktop
+4325,2026-04-01,Google Ads,Desktop
+3189,2026-04-01,Facebook Ads,Mobile
+3424,2026-04-02,Emailing,Tablet
+892,2026-04-02,Organic,Desktop
+4349,2026-04-02,Instagram Ads,Mobile
+597,2026-04-02,Google Ads,Mobile
+4312,2026-04-02,Facebook Ads,Mobile
+3038,2026-04-02,Instagram Ads,Tablet
+585,2026-04-02,Emailing,Mobile
+458,2026-04-02,Organic,Mobile
+1509,2026-04-02,Organic,Mobile
+3243,2026-04-02,Facebook Ads,Mobile
+4609,2026-04-02,LinkedIn,Mobile
+4307,2026-04-02,LinkedIn,Tablet
+2685,2026-04-02,Organic,Tablet
+2589,2026-04-03,Facebook Ads,Desktop
+3184,2026-04-03,Google Ads,Desktop
+4404,2026-04-03,LinkedIn,Tablet
+4069,2026-04-03,Instagram Ads,Mobile
+4636,2026-04-03,Instagram Ads,Mobile
+1671,2026-04-03,Emailing,Tablet
+753,2026-04-03,Facebook Ads,Mobile
+3530,2026-04-03,Instagram Ads,Tablet
+2066,2026-04-03,LinkedIn,Desktop
+2027,2026-04-03,Facebook Ads,Tablet
+4445,2026-04-03,Emailing,Desktop
+1977,2026-04-04,Facebook Ads,Desktop
+917,2026-04-04,LinkedIn,Tablet
+1011,2026-04-04,Facebook Ads,Tablet
+2367,2026-04-04,Emailing,Mobile
+390,2026-04-04,Emailing,Tablet
+2979,2026-04-04,Organic,Desktop
+3209,2026-04-04,Emailing,Desktop
+270,2026-04-04,Facebook Ads,Desktop
+1094,2026-04-04,Facebook Ads,Mobile
+3031,2026-04-04,Organic,Mobile
+666,2026-04-04,LinkedIn,Desktop
+4173,2026-04-05,Google Ads,Tablet
+2018,2026-04-05,Instagram Ads,Mobile
+1480,2026-04-05,Facebook Ads,Tablet
+129,2026-04-05,Google Ads,Desktop
+4235,2026-04-05,Facebook Ads,Tablet
+1215,2026-04-05,Emailing,Tablet
+3586,2026-04-05,Organic,Desktop
+3549,2026-04-05,Instagram Ads,Desktop
+621,2026-04-05,Emailing,Desktop
+2449,2026-04-05,Emailing,Tablet
+1240,2026-04-05,Instagram Ads,Tablet
+747,2026-04-05,Emailing,Tablet
+4579,2026-04-05,Google Ads,Mobile
+2896,2026-04-05,Emailing,Mobile
+1460,2026-04-05,Emailing,Mobile
+1683,2026-04-05,LinkedIn,Desktop
+2336,2026-04-05,Emailing,Desktop
+2792,2026-04-06,Facebook Ads,Desktop
+3830,2026-04-06,Emailing,Tablet
+1077,2026-04-06,Instagram Ads,Tablet
+1080,2026-04-06,Google Ads,Tablet
+3867,2026-04-06,Google Ads,Mobile
+3893,2026-04-06,Emailing,Tablet
+950,2026-04-06,Instagram Ads,Desktop
+4400,2026-04-06,Organic,Tablet
+4624,2026-04-06,Instagram Ads,Desktop
+3472,2026-04-06,Organic,Tablet
+1132,2026-04-06,Facebook Ads,Tablet
+4969,2026-04-06,Google Ads,Desktop
+4386,2026-04-06,Organic,Desktop
+4817,2026-04-06,Emailing,Desktop
+4804,2026-04-06,LinkedIn,Desktop
+3538,2026-04-06,Google Ads,Tablet
+3749,2026-04-06,LinkedIn,Desktop
+3439,2026-04-06,LinkedIn,Tablet
+812,2026-04-06,Instagram Ads,Mobile
+4437,2026-04-07,Instagram Ads,Tablet
+104,2026-04-07,Instagram Ads,Mobile
+4452,2026-04-07,Facebook Ads,Tablet
+3163,2026-04-07,Emailing,Desktop
+1050,2026-04-07,Facebook Ads,Tablet
+5023,2026-04-07,Organic,Tablet
+4523,2026-04-07,Facebook Ads,Desktop
+3175,2026-04-07,Instagram Ads,Mobile
+4601,2026-04-07,Instagram Ads,Desktop
+155,2026-04-07,Organic,Mobile
+3564,2026-04-07,Facebook Ads,Mobile
+5100,2026-04-07,Instagram Ads,Mobile
+2328,2026-04-07,Facebook Ads,Desktop
+2349,2026-04-07,Facebook Ads,Tablet
+2053,2026-04-07,Google Ads,Tablet
+2362,2026-04-08,Emailing,Tablet
+1652,2026-04-08,Instagram Ads,Tablet
+3042,2026-04-08,Organic,Mobile
+4375,2026-04-08,Organic,Desktop
+2488,2026-04-08,Emailing,Desktop
+2376,2026-04-08,LinkedIn,Mobile
+1761,2026-04-08,Google Ads,Mobile
+4048,2026-04-08,Emailing,Tablet
+5088,2026-04-08,Facebook Ads,Mobile
+4977,2026-04-08,Google Ads,Mobile
+1369,2026-04-08,Instagram Ads,Mobile
+1932,2026-04-08,Organic,Tablet
+4215,2026-04-08,LinkedIn,Tablet
+1051,2026-04-08,Google Ads,Tablet
+109,2026-04-08,LinkedIn,Desktop
+4456,2026-04-09,Emailing,Desktop
+3157,2026-04-09,Google Ads,Tablet
+2034,2026-04-09,Organic,Tablet
+2531,2026-04-09,Facebook Ads,Tablet
+4027,2026-04-09,Google Ads,Tablet
+4174,2026-04-09,Emailing,Tablet
+1062,2026-04-09,Instagram Ads,Mobile
+2678,2026-04-09,Emailing,Desktop
+2433,2026-04-09,Instagram Ads,Desktop
+4762,2026-04-09,Google Ads,Desktop
+4462,2026-04-09,LinkedIn,Mobile
+1595,2026-04-09,Instagram Ads,Desktop
+4188,2026-04-10,Google Ads,Mobile
+2423,2026-04-10,Facebook Ads,Mobile
+131,2026-04-10,Organic,Mobile
+1679,2026-04-10,Instagram Ads,Tablet
+763,2026-04-10,Facebook Ads,Tablet
+305,2026-04-10,Instagram Ads,Desktop
+4265,2026-04-10,LinkedIn,Desktop
+2506,2026-04-10,Emailing,Desktop
+2765,2026-04-10,Google Ads,Desktop
+3226,2026-04-10,LinkedIn,Mobile
+3592,2026-04-10,Google Ads,Desktop
+2365,2026-04-10,Facebook Ads,Desktop
+1789,2026-04-10,Google Ads,Mobile
+904,2026-04-10,LinkedIn,Mobile
+642,2026-04-10,Instagram Ads,Desktop
+3353,2026-04-10,Facebook Ads,Mobile
+3332,2026-04-10,Organic,Tablet
+1609,2026-04-10,Google Ads,Mobile
+1193,2026-04-10,Instagram Ads,Desktop
+3172,2026-04-11,Google Ads,Mobile
+4993,2026-04-11,Google Ads,Desktop
+4596,2026-04-11,Google Ads,Tablet
+3573,2026-04-11,Emailing,Mobile
+3775,2026-04-11,Emailing,Desktop
+2135,2026-04-11,Google Ads,Tablet
+2391,2026-04-11,Google Ads,Tablet
+796,2026-04-11,LinkedIn,Desktop
+247,2026-04-11,Facebook Ads,Desktop
+1632,2026-04-11,Emailing,Tablet
+2093,2026-04-11,Facebook Ads,Mobile
+3310,2026-04-11,Facebook Ads,Mobile
+3210,2026-04-12,Facebook Ads,Tablet
+611,2026-04-12,Google Ads,Desktop
+1657,2026-04-12,Google Ads,Desktop
+428,2026-04-12,Google Ads,Desktop
+1944,2026-04-12,Emailing,Tablet
+2453,2026-04-12,Instagram Ads,Mobile
+4322,2026-04-12,Instagram Ads,Mobile
+1187,2026-04-12,Emailing,Tablet
+3801,2026-04-12,LinkedIn,Tablet
+2644,2026-04-12,Facebook Ads,Tablet
+3962,2026-04-12,Emailing,Tablet
+3953,2026-04-12,LinkedIn,Mobile
+894,2026-04-12,Google Ads,Desktop
+121,2026-04-12,Emailing,Mobile
+4638,2026-04-13,Facebook Ads,Desktop
+1923,2026-04-13,Organic,Desktop
+1888,2026-04-13,Instagram Ads,Tablet
+3759,2026-04-13,Instagram Ads,Tablet
+3914,2026-04-13,Organic,Mobile
+446,2026-04-13,Facebook Ads,Mobile
+361,2026-04-13,Instagram Ads,Desktop
+3339,2026-04-13,Emailing,Mobile
+1830,2026-04-13,Facebook Ads,Desktop
+1997,2026-04-13,LinkedIn,Mobile
+2218,2026-04-13,Google Ads,Mobile
+1146,2026-04-13,Emailing,Mobile
+1255,2026-04-14,Facebook Ads,Mobile
+533,2026-04-14,Emailing,Desktop
+2408,2026-04-14,Instagram Ads,Tablet
+3236,2026-04-14,Emailing,Desktop
+1350,2026-04-14,Facebook Ads,Desktop
+1381,2026-04-14,Google Ads,Tablet
+1271,2026-04-14,Facebook Ads,Desktop
+725,2026-04-14,Instagram Ads,Tablet
+1552,2026-04-14,Organic,Tablet
+1499,2026-04-14,LinkedIn,Mobile
+4295,2026-04-14,Emailing,Desktop
+4300,2026-04-14,Organic,Mobile
+645,2026-04-14,Instagram Ads,Desktop
+4144,2026-04-15,Instagram Ads,Desktop
+660,2026-04-15,Emailing,Tablet
+2023,2026-04-15,Emailing,Desktop
+592,2026-04-15,Emailing,Desktop
+1294,2026-04-15,Emailing,Tablet
+3526,2026-04-15,Facebook Ads,Tablet
+857,2026-04-15,Instagram Ads,Desktop
+1809,2026-04-15,Instagram Ads,Mobile
+1597,2026-04-15,Emailing,Tablet
+3115,2026-04-15,Emailing,Desktop
+3431,2026-04-15,Facebook Ads,Desktop
+2565,2026-04-15,Emailing,Desktop
+4840,2026-04-15,Facebook Ads,Mobile
+2262,2026-04-15,Google Ads,Tablet
+1013,2026-04-16,Organic,Mobile
+3814,2026-04-16,Instagram Ads,Tablet
+3606,2026-04-16,LinkedIn,Desktop
+182,2026-04-16,Instagram Ads,Desktop
+4033,2026-04-16,Facebook Ads,Mobile
+1832,2026-04-16,Google Ads,Tablet
+850,2026-04-16,Google Ads,Mobile
+3656,2026-04-16,Emailing,Tablet
+399,2026-04-16,LinkedIn,Mobile
+3164,2026-04-16,Instagram Ads,Tablet
+2845,2026-04-16,Instagram Ads,Desktop
+2898,2026-04-16,Google Ads,Tablet
+1463,2026-04-16,Facebook Ads,Tablet
+3522,2026-04-16,Instagram Ads,Mobile
+3528,2026-04-16,Organic,Tablet
+1669,2026-04-16,Facebook Ads,Mobile
+2563,2026-04-16,Emailing,Desktop
+5047,2026-04-16,Instagram Ads,Mobile
+674,2026-04-16,Google Ads,Tablet
+1744,2026-04-16,Emailing,Mobile
+2615,2026-04-17,Organic,Mobile
+3730,2026-04-17,Instagram Ads,Mobile
+2686,2026-04-17,LinkedIn,Tablet
+4458,2026-04-17,LinkedIn,Desktop
+4961,2026-04-17,Emailing,Tablet
+3104,2026-04-17,Google Ads,Mobile
+450,2026-04-17,Organic,Mobile
+4183,2026-04-17,Organic,Mobile
+2558,2026-04-17,Emailing,Tablet
+1919,2026-04-17,Instagram Ads,Tablet
+1144,2026-04-17,Facebook Ads,Tablet
+4614,2026-04-17,Emailing,Desktop
+1346,2026-04-17,Google Ads,Mobile
+1160,2026-04-18,Facebook Ads,Desktop
+2701,2026-04-18,Google Ads,Desktop
+3369,2026-04-18,Google Ads,Tablet
+3989,2026-04-18,Instagram Ads,Desktop
+581,2026-04-18,Organic,Mobile
+4408,2026-04-18,Facebook Ads,Desktop
+713,2026-04-18,Instagram Ads,Tablet
+853,2026-04-18,Organic,Mobile
+4955,2026-04-18,Facebook Ads,Desktop
+483,2026-04-18,Google Ads,Tablet
+584,2026-04-18,LinkedIn,Desktop
+330,2026-04-19,Emailing,Mobile
+4450,2026-04-19,LinkedIn,Tablet
+515,2026-04-19,Facebook Ads,Tablet
+4201,2026-04-19,Google Ads,Desktop
+3443,2026-04-19,Instagram Ads,Desktop
+1273,2026-04-19,Google Ads,Desktop
+1283,2026-04-19,LinkedIn,Tablet
+3350,2026-04-19,Emailing,Tablet
+4780,2026-04-19,Instagram Ads,Tablet
+4286,2026-04-19,Google Ads,Mobile
+2863,2026-04-19,Google Ads,Tablet
+2731,2026-04-19,Facebook Ads,Desktop
+2366,2026-04-19,Google Ads,Mobile
+940,2026-04-19,Emailing,Tablet
+3130,2026-04-19,LinkedIn,Tablet
+1464,2026-04-19,Organic,Tablet
+3251,2026-04-19,Emailing,Mobile
+262,2026-04-19,Organic,Mobile
+294,2026-04-20,Facebook Ads,Mobile
+2227,2026-04-20,Facebook Ads,Tablet
+5058,2026-04-20,Instagram Ads,Tablet
+447,2026-04-20,Emailing,Mobile
+215,2026-04-20,LinkedIn,Mobile
+3988,2026-04-20,LinkedIn,Desktop
+1650,2026-04-20,Facebook Ads,Tablet
+1029,2026-04-20,LinkedIn,Mobile
+263,2026-04-20,Instagram Ads,Desktop
+4900,2026-04-20,Facebook Ads,Tablet
+4234,2026-04-20,LinkedIn,Mobile
+2198,2026-04-20,Emailing,Mobile
+2379,2026-04-20,LinkedIn,Tablet
+2923,2026-04-20,Emailing,Mobile
+1275,2026-04-20,Facebook Ads,Mobile
+685,2026-04-20,Organic,Tablet
+2267,2026-04-20,Instagram Ads,Mobile
+404,2026-04-21,Organic,Mobile
+1887,2026-04-21,Instagram Ads,Tablet
+1399,2026-04-21,Instagram Ads,Mobile
+4315,2026-04-21,Instagram Ads,Desktop
+2850,2026-04-21,Organic,Mobile
+2500,2026-04-21,Organic,Mobile
+188,2026-04-21,Organic,Tablet
+1884,2026-04-21,Organic,Tablet
+3563,2026-04-21,Google Ads,Mobile
+1983,2026-04-21,Facebook Ads,Mobile
+2059,2026-04-21,Instagram Ads,Mobile
+202,2026-04-21,Organic,Desktop
+2429,2026-04-21,Google Ads,Desktop
+2451,2026-04-21,Organic,Mobile
+3211,2026-04-21,Organic,Tablet
+3466,2026-04-21,Emailing,Desktop
+4966,2026-04-21,LinkedIn,Mobile
+1783,2026-04-22,Emailing,Tablet
+1807,2026-04-22,Organic,Tablet
+4328,2026-04-22,Google Ads,Tablet
+1326,2026-04-22,Facebook Ads,Desktop
+692,2026-04-22,Facebook Ads,Mobile
+1529,2026-04-22,Google Ads,Tablet
+2676,2026-04-22,Instagram Ads,Desktop
+2912,2026-04-22,Facebook Ads,Desktop
+462,2026-04-23,Emailing,Mobile
+2029,2026-04-23,Instagram Ads,Desktop
+301,2026-04-23,Facebook Ads,Tablet
+456,2026-04-23,Facebook Ads,Mobile
+3128,2026-04-23,Emailing,Desktop
+4115,2026-04-23,Organic,Mobile
+2278,2026-04-23,Instagram Ads,Mobile
+1416,2026-04-23,LinkedIn,Desktop
+4976,2026-04-23,Organic,Desktop
+2057,2026-04-23,Emailing,Mobile
+1678,2026-04-23,Facebook Ads,Tablet
+880,2026-04-23,Organic,Mobile
+4514,2026-04-23,Google Ads,Mobile
+4434,2026-04-24,Facebook Ads,Mobile
+2499,2026-04-24,LinkedIn,Desktop
+4493,2026-04-24,LinkedIn,Mobile
+1925,2026-04-24,LinkedIn,Tablet
+4680,2026-04-24,Facebook Ads,Mobile
+4696,2026-04-24,Google Ads,Tablet
+2817,2026-04-24,LinkedIn,Desktop
+4729,2026-04-24,Facebook Ads,Tablet
+3696,2026-04-24,Facebook Ads,Mobile
+1950,2026-04-24,Facebook Ads,Desktop
+759,2026-04-24,Facebook Ads,Mobile
+4933,2026-04-24,Emailing,Mobile
+2744,2026-04-24,LinkedIn,Tablet
+973,2026-04-24,LinkedIn,Mobile
+339,2026-04-24,Organic,Tablet
+2771,2026-04-24,Organic,Desktop
+275,2026-04-24,Emailing,Mobile
+2680,2026-04-25,Facebook Ads,Tablet
+3560,2026-04-25,LinkedIn,Tablet
+1617,2026-04-25,Facebook Ads,Tablet
+5094,2026-04-25,Facebook Ads,Desktop
+562,2026-04-25,Instagram Ads,Mobile
+4810,2026-04-25,LinkedIn,Tablet
+4367,2026-04-25,Instagram Ads,Mobile
+3165,2026-04-25,LinkedIn,Desktop
+3397,2026-04-25,LinkedIn,Desktop
+4371,2026-04-25,Instagram Ads,Mobile
+2768,2026-04-26,Google Ads,Mobile
+2159,2026-04-26,Instagram Ads,Desktop
+1192,2026-04-26,Google Ads,Desktop
+1335,2026-04-26,Instagram Ads,Desktop
+3256,2026-04-26,Instagram Ads,Tablet
+1562,2026-04-26,Facebook Ads,Desktop
+378,2026-04-26,Facebook Ads,Tablet
+1712,2026-04-26,Google Ads,Desktop
+4246,2026-04-26,Emailing,Desktop
+4648,2026-04-26,Facebook Ads,Mobile
+319,2026-04-26,Instagram Ads,Mobile
+1436,2026-04-26,LinkedIn,Desktop
+1043,2026-04-26,Organic,Mobile
+313,2026-04-26,Organic,Tablet
+3546,2026-04-26,Emailing,Desktop
+1810,2026-04-26,LinkedIn,Mobile
+2261,2026-04-26,LinkedIn,Mobile
+3518,2026-04-27,Organic,Desktop
+2471,2026-04-27,Instagram Ads,Tablet
+2130,2026-04-27,Organic,Mobile
+2994,2026-04-27,Instagram Ads,Tablet
+987,2026-04-27,Facebook Ads,Desktop
+2374,2026-04-27,Facebook Ads,Tablet
+3440,2026-04-27,Google Ads,Tablet
+2215,2026-04-27,Organic,Tablet
+1319,2026-04-27,Google Ads,Desktop
+2285,2026-04-27,Organic,Mobile
+1485,2026-04-28,Facebook Ads,Tablet
+2760,2026-04-28,Google Ads,Desktop
+2096,2026-04-28,Emailing,Tablet
+3155,2026-04-28,LinkedIn,Desktop
+3271,2026-04-28,Instagram Ads,Tablet
+1936,2026-04-28,Organic,Tablet
+2951,2026-04-28,Facebook Ads,Mobile
+2188,2026-04-28,Google Ads,Tablet
+3879,2026-04-28,Facebook Ads,Desktop
+3412,2026-04-28,Instagram Ads,Tablet
+1225,2026-04-28,Organic,Mobile
+1962,2026-04-28,Emailing,Desktop
+3946,2026-04-28,Emailing,Mobile
+3969,2026-04-29,LinkedIn,Desktop
+321,2026-04-29,Instagram Ads,Mobile
+423,2026-04-29,Emailing,Desktop
+4365,2026-04-29,LinkedIn,Desktop
+1248,2026-04-29,Facebook Ads,Tablet
+3896,2026-04-29,Google Ads,Mobile
+453,2026-04-29,LinkedIn,Tablet
+286,2026-04-29,Emailing,Tablet
+4028,2026-04-29,LinkedIn,Desktop
+3460,2026-04-29,Facebook Ads,Mobile
+3595,2026-04-29,Facebook Ads,Mobile
+978,2026-04-29,Facebook Ads,Mobile
+1429,2026-04-29,Google Ads,Tablet
+4139,2026-04-29,Google Ads,Desktop
+4356,2026-04-29,Emailing,Tablet
+1106,2026-04-29,Facebook Ads,Mobile
+1560,2026-04-29,Google Ads,Desktop
+3875,2026-04-29,Instagram Ads,Tablet
+1885,2026-04-29,LinkedIn,Tablet
+1564,2026-04-29,Organic,Tablet
+2641,2026-04-29,LinkedIn,Tablet
+2932,2026-04-30,Organic,Desktop
+3474,2026-04-30,Facebook Ads,Tablet
+1911,2026-04-30,Organic,Mobile
+4738,2026-04-30,Instagram Ads,Desktop
+146,2026-04-30,LinkedIn,Desktop
+3032,2026-04-30,Google Ads,Mobile
+3700,2026-04-30,Facebook Ads,Desktop
+4047,2026-04-30,Instagram Ads,Desktop
+3416,2026-04-30,Organic,Desktop
+1907,2026-04-30,Organic,Desktop
+1718,2026-04-30,LinkedIn,Mobile
+3955,2026-04-30,Facebook Ads,Desktop
+3837,2026-04-30,Google Ads,Mobile
+4233,2026-04-30,Facebook Ads,Tablet
+4657,2026-05-01,Google Ads,Mobile
+942,2026-05-01,Organic,Desktop
+4239,2026-05-01,Instagram Ads,Mobile
+3016,2026-05-01,Facebook Ads,Desktop
+1733,2026-05-01,Emailing,Desktop
+5083,2026-05-01,LinkedIn,Mobile
+2290,2026-05-01,LinkedIn,Desktop
+4803,2026-05-01,Google Ads,Desktop
+1052,2026-05-01,Organic,Mobile
+2120,2026-05-01,Organic,Mobile
+1071,2026-05-01,Google Ads,Tablet
+1505,2026-05-01,Google Ads,Mobile
+833,2026-05-01,Instagram Ads,Desktop
+4206,2026-05-01,LinkedIn,Tablet
+308,2026-05-01,Instagram Ads,Desktop
+3277,2026-05-01,Facebook Ads,Mobile
+3847,2026-05-01,Google Ads,Mobile
+3798,2026-05-02,Instagram Ads,Desktop
+2736,2026-05-02,Emailing,Tablet
+3568,2026-05-02,Instagram Ads,Tablet
+1667,2026-05-02,Instagram Ads,Desktop
+2913,2026-05-02,Emailing,Mobile
+3248,2026-05-02,LinkedIn,Mobile
+4466,2026-05-02,Emailing,Tablet
+697,2026-05-02,Instagram Ads,Tablet
+3490,2026-05-02,Emailing,Desktop
+995,2026-05-02,Organic,Desktop
+1576,2026-05-02,Facebook Ads,Mobile
+1596,2026-05-02,LinkedIn,Tablet
+1534,2026-05-02,Emailing,Tablet
+2335,2026-05-02,LinkedIn,Tablet
+3668,2026-05-02,Emailing,Tablet
+2226,2026-05-02,Emailing,Mobile
+4575,2026-05-03,Google Ads,Tablet
+784,2026-05-03,LinkedIn,Tablet
+2293,2026-05-03,Facebook Ads,Tablet
+1716,2026-05-03,LinkedIn,Desktop
+4649,2026-05-03,Google Ads,Desktop
+4513,2026-05-03,Google Ads,Desktop
+2156,2026-05-03,Google Ads,Desktop
+4769,2026-05-03,Facebook Ads,Mobile
+4019,2026-05-03,Emailing,Desktop
+2446,2026-05-03,Emailing,Desktop
+2353,2026-05-03,Emailing,Mobile
+3430,2026-05-03,Facebook Ads,Mobile
+648,2026-05-04,Google Ads,Mobile
+4131,2026-05-04,Organic,Desktop
+3721,2026-05-04,Emailing,Tablet
+4125,2026-05-04,Facebook Ads,Mobile
+4282,2026-05-04,Facebook Ads,Tablet
+3129,2026-05-04,Google Ads,Mobile
+4169,2026-05-04,Facebook Ads,Mobile
+4123,2026-05-04,LinkedIn,Desktop
+1540,2026-05-04,Facebook Ads,Desktop
+5054,2026-05-04,Facebook Ads,Desktop
+3196,2026-05-04,Emailing,Desktop
+644,2026-05-04,Emailing,Tablet
+1543,2026-05-04,Facebook Ads,Tablet
+3101,2026-05-04,Google Ads,Tablet
+519,2026-05-04,Facebook Ads,Desktop
+4423,2026-05-04,Facebook Ads,Mobile
+982,2026-05-04,Google Ads,Tablet
+2475,2026-05-04,Emailing,Mobile
+3312,2026-05-04,Facebook Ads,Desktop
+4689,2026-05-04,LinkedIn,Mobile
+257,2026-05-04,Organic,Mobile
+3227,2026-05-04,Emailing,Desktop
+3109,2026-05-05,LinkedIn,Mobile
+4341,2026-05-05,Emailing,Tablet
+4672,2026-05-05,Organic,Tablet
+3170,2026-05-05,Organic,Tablet
+4853,2026-05-05,Google Ads,Desktop
+1558,2026-05-05,Emailing,Tablet
+4565,2026-05-05,Google Ads,Tablet
+4172,2026-05-05,Instagram Ads,Mobile
+4226,2026-05-05,Facebook Ads,Mobile
+3552,2026-05-05,Emailing,Tablet
+2035,2026-05-05,Instagram Ads,Desktop
+3968,2026-05-05,Organic,Tablet
+3639,2026-05-05,Organic,Desktop
+2269,2026-05-05,Organic,Mobile
+2852,2026-05-05,Organic,Tablet
+2505,2026-05-06,LinkedIn,Mobile
+3802,2026-05-06,Google Ads,Tablet
+4531,2026-05-06,Google Ads,Mobile
+3785,2026-05-06,Google Ads,Tablet
+2797,2026-05-06,Google Ads,Tablet
+3993,2026-05-06,Instagram Ads,Mobile
+2447,2026-05-06,Organic,Mobile
+2764,2026-05-06,Instagram Ads,Tablet
+3305,2026-05-06,Emailing,Mobile
+271,2026-05-06,Facebook Ads,Tablet
+4779,2026-05-06,Facebook Ads,Tablet
+1243,2026-05-06,Organic,Desktop
+2631,2026-05-06,LinkedIn,Tablet
+748,2026-05-06,LinkedIn,Mobile
+4747,2026-05-06,Facebook Ads,Tablet
+4658,2026-05-06,Google Ads,Mobile
+3553,2026-05-06,Emailing,Mobile
+2870,2026-05-07,Organic,Desktop
+3186,2026-05-07,LinkedIn,Desktop
+1318,2026-05-07,Instagram Ads,Mobile
+4109,2026-05-07,Instagram Ads,Desktop
+810,2026-05-07,Organic,Desktop
+1178,2026-05-07,Instagram Ads,Mobile
+4227,2026-05-07,LinkedIn,Mobile
+1438,2026-05-07,Facebook Ads,Tablet
+1638,2026-05-07,Facebook Ads,Desktop
+1894,2026-05-07,Organic,Tablet
+1254,2026-05-07,Google Ads,Desktop
+4283,2026-05-07,LinkedIn,Mobile
+3940,2026-05-08,Instagram Ads,Tablet
+1307,2026-05-08,Google Ads,Mobile
+4506,2026-05-08,Facebook Ads,Desktop
+139,2026-05-08,Emailing,Mobile
+2688,2026-05-08,Google Ads,Mobile
+1235,2026-05-08,Emailing,Tablet
+4175,2026-05-08,Google Ads,Tablet
+4726,2026-05-08,Google Ads,Tablet
+4988,2026-05-08,Organic,Tablet
+605,2026-05-08,LinkedIn,Desktop
+1550,2026-05-08,Google Ads,Mobile
+474,2026-05-08,Organic,Mobile
+2728,2026-05-09,Google Ads,Mobile
+3123,2026-05-09,LinkedIn,Desktop
+1355,2026-05-09,Facebook Ads,Mobile
+2434,2026-05-09,LinkedIn,Mobile
+2271,2026-05-09,Facebook Ads,Desktop
+3280,2026-05-09,Instagram Ads,Tablet
+4029,2026-05-10,Facebook Ads,Mobile
+1087,2026-05-10,Organic,Mobile
+4990,2026-05-10,Google Ads,Tablet
+2619,2026-05-10,Instagram Ads,Mobile
+710,2026-05-10,Organic,Tablet
+2511,2026-05-10,LinkedIn,Desktop
+4152,2026-05-10,Emailing,Mobile
+4724,2026-05-10,Facebook Ads,Desktop
+1877,2026-05-10,LinkedIn,Mobile
+1981,2026-05-10,Emailing,Mobile
+2490,2026-05-10,Facebook Ads,Tablet
+1287,2026-05-10,Organic,Mobile
+3370,2026-05-10,LinkedIn,Mobile
+4319,2026-05-10,Organic,Desktop
+1557,2026-05-10,Google Ads,Desktop
+1726,2026-05-10,Google Ads,Tablet
+1394,2026-05-10,Organic,Tablet
+1825,2026-05-11,LinkedIn,Desktop
+3558,2026-05-11,LinkedIn,Desktop
+3911,2026-05-11,Facebook Ads,Tablet
+277,2026-05-11,Facebook Ads,Mobile
+2473,2026-05-11,Instagram Ads,Desktop
+4685,2026-05-11,Google Ads,Mobile
+2621,2026-05-11,Google Ads,Tablet
+1547,2026-05-11,Organic,Mobile
+4927,2026-05-11,Google Ads,Desktop
+312,2026-05-11,Google Ads,Tablet
+3854,2026-05-11,Instagram Ads,Tablet
+3463,2026-05-11,Google Ads,Mobile
+3357,2026-05-11,Instagram Ads,Mobile
+4181,2026-05-11,Instagram Ads,Tablet
+1691,2026-05-11,Emailing,Tablet
+1107,2026-05-11,Facebook Ads,Desktop
+4557,2026-05-11,Google Ads,Mobile
+881,2026-05-12,Facebook Ads,Tablet
+1588,2026-05-12,Facebook Ads,Desktop
+1780,2026-05-12,Google Ads,Mobile
+1687,2026-05-12,Google Ads,Desktop
+582,2026-05-12,Emailing,Mobile
+3470,2026-05-12,Emailing,Desktop
+3314,2026-05-12,Organic,Mobile
+1371,2026-05-12,Emailing,Mobile
+2021,2026-05-12,Organic,Tablet
+4289,2026-05-12,Google Ads,Mobile
+4592,2026-05-12,Google Ads,Tablet
+1092,2026-05-12,LinkedIn,Tablet
+2992,2026-05-12,LinkedIn,Desktop
+2279,2026-05-12,Facebook Ads,Desktop
+1315,2026-05-12,LinkedIn,Desktop
+1818,2026-05-12,Facebook Ads,Desktop
+3056,2026-05-12,Google Ads,Desktop
+899,2026-05-13,Google Ads,Mobile
+601,2026-05-13,Google Ads,Mobile
+1209,2026-05-13,Instagram Ads,Tablet
+1121,2026-05-13,Google Ads,Desktop
+1136,2026-05-13,LinkedIn,Desktop
+2204,2026-05-13,Instagram Ads,Tablet
+416,2026-05-13,Google Ads,Mobile
+1253,2026-05-13,Google Ads,Mobile
+4113,2026-05-13,Emailing,Desktop
+3457,2026-05-13,Instagram Ads,Mobile
+3344,2026-05-13,Organic,Desktop
+358,2026-05-13,Google Ads,Tablet
+4770,2026-05-13,Instagram Ads,Mobile
+3052,2026-05-13,Instagram Ads,Mobile
+4223,2026-05-13,Organic,Mobile
+3559,2026-05-13,Emailing,Tablet
+482,2026-05-13,Instagram Ads,Mobile
+4978,2026-05-13,Organic,Desktop
+367,2026-05-13,Emailing,Desktop
+3066,2026-05-14,Instagram Ads,Desktop
+3574,2026-05-14,Instagram Ads,Mobile
+4290,2026-05-14,Google Ads,Tablet
+536,2026-05-14,Organic,Desktop
+3185,2026-05-14,Emailing,Tablet
+3480,2026-05-14,LinkedIn,Mobile
+3345,2026-05-15,LinkedIn,Tablet
+238,2026-05-15,Emailing,Tablet
+2321,2026-05-15,Google Ads,Tablet
+4339,2026-05-15,Facebook Ads,Mobile
+1382,2026-05-15,Instagram Ads,Desktop
+2414,2026-05-15,Google Ads,Tablet
+2368,2026-05-15,Instagram Ads,Mobile
+3079,2026-05-15,Organic,Desktop
+379,2026-05-15,Google Ads,Desktop
+2732,2026-05-15,Google Ads,Mobile
+438,2026-05-15,Facebook Ads,Tablet
+4331,2026-05-15,Google Ads,Desktop
+661,2026-05-15,Instagram Ads,Tablet
+2740,2026-05-15,Organic,Tablet
+368,2026-05-15,Instagram Ads,Mobile
+539,2026-05-16,Emailing,Desktop
+4745,2026-05-16,Emailing,Desktop
+3253,2026-05-16,Instagram Ads,Desktop
+2489,2026-05-16,Google Ads,Mobile
+3083,2026-05-16,LinkedIn,Tablet
+4869,2026-05-16,Emailing,Mobile
+1500,2026-05-16,LinkedIn,Mobile
+1538,2026-05-16,LinkedIn,Desktop
+3813,2026-05-16,Emailing,Mobile
+3146,2026-05-16,Instagram Ads,Mobile
+1400,2026-05-16,Emailing,Desktop
+3171,2026-05-16,Emailing,Tablet
+1115,2026-05-16,Instagram Ads,Desktop
+3566,2026-05-16,Emailing,Tablet
+175,2026-05-17,LinkedIn,Tablet
+3035,2026-05-17,Emailing,Mobile
+2709,2026-05-17,Emailing,Mobile
+1641,2026-05-17,Emailing,Mobile
+2044,2026-05-17,Google Ads,Tablet
+3413,2026-05-17,Emailing,Tablet
+1405,2026-05-17,LinkedIn,Tablet
+2859,2026-05-17,Emailing,Tablet
+3535,2026-05-17,Organic,Tablet
+2148,2026-05-17,Facebook Ads,Desktop
+5074,2026-05-17,Organic,Mobile
+1251,2026-05-17,LinkedIn,Mobile
+4074,2026-05-17,LinkedIn,Tablet
+1750,2026-05-17,Facebook Ads,Desktop
+1290,2026-05-17,Facebook Ads,Desktop
+2662,2026-05-17,LinkedIn,Tablet
+901,2026-05-17,LinkedIn,Desktop
+110,2026-05-17,Google Ads,Mobile
+4766,2026-05-17,Instagram Ads,Tablet
+4253,2026-05-18,Emailing,Tablet
+2253,2026-05-18,Google Ads,Mobile
+2891,2026-05-18,Google Ads,Mobile
+2243,2026-05-18,Facebook Ads,Mobile
+315,2026-05-18,Facebook Ads,Desktop
+4220,2026-05-19,Emailing,Desktop
+731,2026-05-19,Google Ads,Desktop
+422,2026-05-19,Facebook Ads,Desktop
+3022,2026-05-19,Emailing,Tablet
+2422,2026-05-19,Organic,Mobile
+2773,2026-05-19,Instagram Ads,Tablet
+3044,2026-05-19,Organic,Desktop
+2735,2026-05-19,LinkedIn,Mobile
+2690,2026-05-19,LinkedIn,Desktop
+3949,2026-05-19,Organic,Tablet
+3213,2026-05-19,Emailing,Desktop
+192,2026-05-19,Google Ads,Mobile
+1407,2026-05-19,LinkedIn,Desktop
+3053,2026-05-19,Instagram Ads,Tablet
+1897,2026-05-20,Instagram Ads,Desktop
+1467,2026-05-20,Organic,Mobile
+3812,2026-05-20,LinkedIn,Desktop
+3548,2026-05-20,Emailing,Mobile
+5068,2026-05-20,Facebook Ads,Desktop
+977,2026-05-20,LinkedIn,Tablet
+4752,2026-05-20,Instagram Ads,Desktop
+3446,2026-05-20,Organic,Tablet
+1633,2026-05-20,LinkedIn,Mobile
+1690,2026-05-20,Emailing,Mobile
+3319,2026-05-21,Google Ads,Mobile
+3089,2026-05-21,Emailing,Mobile
+4661,2026-05-21,Instagram Ads,Desktop
+4841,2026-05-21,Organic,Tablet
+4760,2026-05-21,Instagram Ads,Desktop
+2910,2026-05-21,LinkedIn,Tablet
+1432,2026-05-21,Instagram Ads,Desktop
+2235,2026-05-21,Instagram Ads,Mobile
+879,2026-05-21,Organic,Tablet
+1067,2026-05-21,Emailing,Mobile
+1612,2026-05-21,Google Ads,Tablet
+2574,2026-05-22,LinkedIn,Tablet
+4417,2026-05-22,Emailing,Tablet
+336,2026-05-22,LinkedIn,Mobile
+3411,2026-05-22,LinkedIn,Mobile
+878,2026-05-22,Organic,Desktop
+2146,2026-05-22,Emailing,Desktop
+2620,2026-05-22,Google Ads,Desktop
+2016,2026-05-22,LinkedIn,Mobile
+991,2026-05-22,Facebook Ads,Tablet
+297,2026-05-23,Google Ads,Mobile
+3773,2026-05-23,LinkedIn,Desktop
+3373,2026-05-23,LinkedIn,Mobile
+1231,2026-05-23,LinkedIn,Desktop
+1454,2026-05-23,Facebook Ads,Desktop
+2455,2026-05-23,Organic,Mobile
+4773,2026-05-23,LinkedIn,Mobile
+3207,2026-05-23,Organic,Tablet
+610,2026-05-23,Emailing,Desktop
+3666,2026-05-23,Google Ads,Tablet
+4833,2026-05-23,LinkedIn,Tablet
+1970,2026-05-23,Instagram Ads,Desktop
+1695,2026-05-23,LinkedIn,Mobile
+1138,2026-05-23,Instagram Ads,Mobile
+405,2026-05-24,Instagram Ads,Tablet
+1444,2026-05-24,Facebook Ads,Tablet
+1085,2026-05-24,LinkedIn,Mobile
+4017,2026-05-24,Emailing,Desktop
+260,2026-05-24,Organic,Tablet
+3067,2026-05-24,Facebook Ads,Desktop
+5087,2026-05-24,LinkedIn,Tablet
+2087,2026-05-24,Google Ads,Mobile
+1989,2026-05-24,Organic,Mobile
+4524,2026-05-24,Organic,Tablet
+1960,2026-05-24,Facebook Ads,Desktop
+2315,2026-05-24,Organic,Tablet
+2127,2026-05-25,LinkedIn,Tablet
+820,2026-05-25,Instagram Ads,Mobile
+3057,2026-05-25,Emailing,Desktop
+3995,2026-05-25,LinkedIn,Tablet
+2090,2026-05-25,Facebook Ads,Tablet
+3982,2026-05-25,Instagram Ads,Mobile
+2927,2026-05-25,Facebook Ads,Mobile
+5089,2026-05-25,Facebook Ads,Desktop
+4550,2026-05-25,Organic,Desktop
+2238,2026-05-25,Organic,Desktop
+4326,2026-05-25,Emailing,Desktop
+4690,2026-05-25,Organic,Tablet
+176,2026-05-25,Instagram Ads,Desktop
+4294,2026-05-25,Instagram Ads,Desktop
+4249,2026-05-25,Instagram Ads,Desktop
+2470,2026-05-25,Organic,Tablet
+4237,2026-05-25,Facebook Ads,Mobile
+3013,2026-05-25,Google Ads,Tablet
+187,2026-05-25,Organic,Tablet
+1720,2026-05-25,Facebook Ads,Mobile
+1842,2026-05-26,Emailing,Mobile
+1104,2026-05-26,Organic,Mobile
+1975,2026-05-26,Google Ads,Desktop
+1418,2026-05-26,LinkedIn,Tablet
+3874,2026-05-26,Emailing,Mobile
+3225,2026-05-26,Facebook Ads,Tablet
+3320,2026-05-26,Emailing,Desktop
+103,2026-05-26,Organic,Tablet
+4191,2026-05-26,Instagram Ads,Mobile
+3117,2026-05-26,LinkedIn,Tablet
+1073,2026-05-26,Google Ads,Tablet
+1996,2026-05-26,LinkedIn,Mobile
+1465,2026-05-26,Organic,Tablet
+3074,2026-05-27,Organic,Mobile
+4382,2026-05-27,Emailing,Desktop
+1504,2026-05-27,Instagram Ads,Desktop
+4595,2026-05-27,Organic,Desktop
+485,2026-05-27,Instagram Ads,Mobile
+4607,2026-05-27,Facebook Ads,Mobile
+906,2026-05-27,Facebook Ads,Desktop
+2054,2026-05-27,Organic,Mobile
+3862,2026-05-27,LinkedIn,Mobile
+3181,2026-05-27,Instagram Ads,Desktop
+1673,2026-05-27,Organic,Mobile
+4129,2026-05-28,Google Ads,Mobile
+1892,2026-05-28,Google Ads,Tablet
+2635,2026-05-28,Emailing,Tablet
+3217,2026-05-28,Facebook Ads,Desktop
+2769,2026-05-28,Instagram Ads,Mobile
+1902,2026-05-28,LinkedIn,Tablet
+1867,2026-05-28,Organic,Mobile
+5022,2026-05-28,Instagram Ads,Tablet
+1572,2026-05-28,Instagram Ads,Desktop
+1060,2026-05-28,Google Ads,Mobile
+929,2026-05-28,Facebook Ads,Desktop
+3807,2026-05-28,Organic,Desktop
+3600,2026-05-28,Emailing,Desktop
+1166,2026-05-28,Emailing,Desktop
+426,2026-05-28,Google Ads,Desktop
+4932,2026-05-28,Organic,Tablet
+3238,2026-05-28,Facebook Ads,Desktop
+3894,2026-05-28,Instagram Ads,Desktop
+3145,2026-05-28,Google Ads,Mobile
+2305,2026-05-29,Instagram Ads,Desktop
+4586,2026-05-29,LinkedIn,Tablet
+366,2026-05-29,Instagram Ads,Tablet
+4829,2026-05-29,Google Ads,Mobile
+5048,2026-05-29,Google Ads,Tablet
+5009,2026-05-29,Emailing,Mobile
+2714,2026-05-29,Google Ads,Mobile
+3432,2026-05-29,Emailing,Mobile
+824,2026-05-29,LinkedIn,Tablet
+4746,2026-05-29,Organic,Mobile
+3017,2026-05-29,Google Ads,Desktop
+2637,2026-05-29,Organic,Desktop
+3679,2026-05-29,Instagram Ads,Desktop
+864,2026-05-30,Organic,Desktop
+5029,2026-05-30,Google Ads,Desktop
+3237,2026-05-30,Emailing,Desktop
+1264,2026-05-30,Emailing,Mobile
+1445,2026-05-30,Emailing,Tablet
+2331,2026-05-30,LinkedIn,Tablet
+2377,2026-05-30,Facebook Ads,Desktop
+728,2026-05-31,Emailing,Tablet
+563,2026-05-31,Facebook Ads,Mobile
+4184,2026-05-31,Instagram Ads,Tablet
+843,2026-05-31,Facebook Ads,Desktop
+4697,2026-05-31,Instagram Ads,Desktop
+754,2026-05-31,Organic,Mobile
+2831,2026-05-31,LinkedIn,Mobile
+2005,2026-05-31,Organic,Mobile
+318,2026-05-31,Facebook Ads,Desktop
+1934,2026-06-01,Instagram Ads,Mobile
+952,2026-06-01,Emailing,Desktop
+5064,2026-06-01,Facebook Ads,Tablet
+720,2026-06-01,Organic,Mobile
+2703,2026-06-01,Facebook Ads,Desktop
+3308,2026-06-01,Facebook Ads,Tablet
+3436,2026-06-01,Emailing,Mobile
+2260,2026-06-01,Facebook Ads,Mobile
+5056,2026-06-01,Facebook Ads,Mobile
+1299,2026-06-01,Organic,Tablet
+4627,2026-06-01,LinkedIn,Tablet
+3202,2026-06-01,Emailing,Tablet
+489,2026-06-01,Instagram Ads,Desktop
+5060,2026-06-01,Google Ads,Desktop
+3505,2026-06-01,LinkedIn,Mobile
+3731,2026-06-01,LinkedIn,Tablet
+548,2026-06-02,LinkedIn,Mobile
+4705,2026-06-02,Instagram Ads,Mobile
+2441,2026-06-02,Google Ads,Desktop
+3991,2026-06-02,LinkedIn,Mobile
+4739,2026-06-02,Emailing,Tablet
+3426,2026-06-02,Organic,Desktop
+2095,2026-06-02,LinkedIn,Mobile
+520,2026-06-02,Emailing,Mobile
+499,2026-06-02,Google Ads,Tablet
+4093,2026-06-02,Organic,Tablet
+4814,2026-06-02,Instagram Ads,Desktop
+1256,2026-06-02,Emailing,Mobile
+3781,2026-06-02,Emailing,Mobile
+3133,2026-06-02,Organic,Mobile
+3838,2026-06-02,Organic,Mobile
+2942,2026-06-03,Organic,Desktop
+659,2026-06-03,Emailing,Desktop
+4403,2026-06-03,Instagram Ads,Tablet
+1957,2026-06-03,Organic,Mobile
+3839,2026-06-03,Emailing,Tablet
+500,2026-06-03,Facebook Ads,Mobile
+3029,2026-06-03,Facebook Ads,Mobile
+4863,2026-06-03,LinkedIn,Desktop
+208,2026-06-03,Organic,Tablet
+1746,2026-06-03,Organic,Mobile
+1731,2026-06-03,Google Ads,Mobile
+2639,2026-06-03,Instagram Ads,Tablet
+2311,2026-06-03,Instagram Ads,Desktop
+4291,2026-06-03,Facebook Ads,Tablet
+2968,2026-06-04,Emailing,Mobile
+3843,2026-06-04,Instagram Ads,Tablet
+1301,2026-06-04,Instagram Ads,Desktop
+3438,2026-06-04,LinkedIn,Desktop
+4041,2026-06-04,Emailing,Tablet
+3533,2026-06-04,Emailing,Tablet
+1208,2026-06-04,Google Ads,Desktop
+2171,2026-06-04,Google Ads,Desktop
+4674,2026-06-04,LinkedIn,Desktop
+432,2026-06-04,Instagram Ads,Mobile
+2907,2026-06-04,Facebook Ads,Tablet
+2523,2026-06-04,LinkedIn,Desktop
+4343,2026-06-04,Instagram Ads,Tablet
+2939,2026-06-05,Facebook Ads,Desktop
+532,2026-06-05,Instagram Ads,Mobile
+3045,2026-06-05,LinkedIn,Mobile
+2003,2026-06-05,Facebook Ads,Desktop
+1849,2026-06-05,Organic,Tablet
+1345,2026-06-05,Facebook Ads,Tablet
+2106,2026-06-05,LinkedIn,Tablet
+811,2026-06-05,Emailing,Mobile
+1279,2026-06-05,Instagram Ads,Desktop
+1984,2026-06-05,Emailing,Desktop
+4675,2026-06-05,Instagram Ads,Desktop
+3477,2026-06-05,Organic,Tablet
+3628,2026-06-05,LinkedIn,Tablet
+3745,2026-06-05,Instagram Ads,Desktop
+193,2026-06-05,Instagram Ads,Tablet
+4103,2026-06-05,LinkedIn,Mobile
+2738,2026-06-05,Emailing,Tablet
+5019,2026-06-05,Instagram Ads,Desktop
+258,2026-06-05,Facebook Ads,Tablet
+2543,2026-06-06,Facebook Ads,Tablet
+1912,2026-06-06,Emailing,Desktop
+3688,2026-06-06,Instagram Ads,Desktop
+4463,2026-06-06,Instagram Ads,Desktop
+3523,2026-06-06,Facebook Ads,Tablet
+5039,2026-06-06,Google Ads,Tablet
+867,2026-06-06,Emailing,Mobile
+2593,2026-06-06,Organic,Desktop
+4949,2026-06-06,Google Ads,Tablet
+3521,2026-06-06,Facebook Ads,Desktop
+1578,2026-06-06,Organic,Tablet
+1019,2026-06-06,Google Ads,Mobile
+1790,2026-06-07,Facebook Ads,Mobile
+2288,2026-06-07,Google Ads,Tablet
+1610,2026-06-07,Google Ads,Desktop
+2091,2026-06-07,Google Ads,Tablet
+4163,2026-06-07,LinkedIn,Desktop
+3002,2026-06-07,Instagram Ads,Desktop
+2602,2026-06-07,Google Ads,Tablet
+2642,2026-06-07,LinkedIn,Mobile
+3269,2026-06-07,Google Ads,Tablet
+4722,2026-06-07,Facebook Ads,Tablet
+4338,2026-06-07,LinkedIn,Mobile
+4684,2026-06-07,Organic,Tablet
+3423,2026-06-07,Emailing,Desktop
+5090,2026-06-08,Google Ads,Desktop
+1843,2026-06-08,LinkedIn,Tablet
+4179,2026-06-08,Organic,Mobile
+789,2026-06-08,Google Ads,Mobile
+635,2026-06-08,Google Ads,Tablet
+1918,2026-06-08,Instagram Ads,Desktop
+4915,2026-06-08,Organic,Tablet
+2640,2026-06-08,Google Ads,Tablet
+2755,2026-06-08,Organic,Tablet
+1157,2026-06-08,Facebook Ads,Mobile
+3751,2026-06-08,Emailing,Mobile
+1163,2026-06-08,Instagram Ads,Desktop
+397,2026-06-09,Google Ads,Desktop
+2993,2026-06-09,Instagram Ads,Desktop
+2805,2026-06-09,Emailing,Mobile
+177,2026-06-09,Google Ads,Mobile
+2916,2026-06-09,Emailing,Tablet
+195,2026-06-09,Organic,Mobile
+1343,2026-06-09,Instagram Ads,Mobile
+1306,2026-06-09,Instagram Ads,Desktop
+1082,2026-06-09,Facebook Ads,Tablet
+171,2026-06-09,Instagram Ads,Desktop
+2180,2026-06-09,Instagram Ads,Tablet
+650,2026-06-09,Facebook Ads,Desktop
+2361,2026-06-10,Instagram Ads,Desktop
+2800,2026-06-10,Instagram Ads,Desktop
+2799,2026-06-10,Organic,Tablet
+1906,2026-06-10,Google Ads,Desktop
+152,2026-06-10,Facebook Ads,Tablet
+3420,2026-06-10,Facebook Ads,Desktop
+4953,2026-06-10,Google Ads,Desktop
+2811,2026-06-10,Facebook Ads,Desktop
+3783,2026-06-10,Instagram Ads,Desktop
+3793,2026-06-10,Emailing,Mobile
+1924,2026-06-10,Facebook Ads,Desktop
+1487,2026-06-10,Google Ads,Mobile
+3669,2026-06-11,Organic,Mobile
+961,2026-06-11,Facebook Ads,Desktop
+1342,2026-06-11,Instagram Ads,Desktop
+551,2026-06-11,Facebook Ads,Desktop
+4785,2026-06-11,Organic,Desktop
+3476,2026-06-11,Facebook Ads,Tablet
+2108,2026-06-11,Instagram Ads,Mobile
+2191,2026-06-11,Organic,Tablet
+1961,2026-06-11,Instagram Ads,Tablet
+494,2026-06-11,Facebook Ads,Tablet
+4858,2026-06-11,LinkedIn,Desktop
+2696,2026-06-11,Emailing,Desktop
+4155,2026-06-12,Emailing,Tablet
+1277,2026-06-12,Emailing,Mobile
+4589,2026-06-12,Instagram Ads,Tablet
+1663,2026-06-12,Emailing,Tablet
+2975,2026-06-12,Organic,Mobile
+3572,2026-06-12,Emailing,Desktop
+1373,2026-06-12,Instagram Ads,Tablet
+3037,2026-06-12,Google Ads,Mobile
+1813,2026-06-12,Google Ads,Desktop
+4250,2026-06-12,Emailing,Desktop
+300,2026-06-12,LinkedIn,Mobile
+1199,2026-06-12,Instagram Ads,Desktop
+2823,2026-06-12,Google Ads,Tablet
+3425,2026-06-13,LinkedIn,Desktop
+2743,2026-06-13,Emailing,Desktop
+4023,2026-06-13,LinkedIn,Desktop
+4898,2026-06-13,Google Ads,Desktop
+4683,2026-06-13,Emailing,Tablet
+4702,2026-06-13,Google Ads,Mobile
+2822,2026-06-13,Facebook Ads,Desktop
+4538,2026-06-13,Facebook Ads,Mobile
+1749,2026-06-13,Emailing,Mobile
+1570,2026-06-13,LinkedIn,Desktop
+4410,2026-06-13,Emailing,Tablet
+2846,2026-06-13,Facebook Ads,Mobile
+4807,2026-06-14,Emailing,Mobile
+126,2026-06-14,LinkedIn,Tablet
+2043,2026-06-14,Organic,Desktop
+1872,2026-06-14,Google Ads,Desktop
+3120,2026-06-14,Emailing,Tablet
+2060,2026-06-14,Organic,Tablet
+3073,2026-06-14,Google Ads,Desktop
+2836,2026-06-14,Emailing,Tablet
+672,2026-06-14,Instagram Ads,Mobile
+2166,2026-06-14,Google Ads,Tablet
+3515,2026-06-14,LinkedIn,Mobile
+2000,2026-06-14,LinkedIn,Tablet
+4451,2026-06-14,LinkedIn,Desktop
+2289,2026-06-15,LinkedIn,Tablet
+2478,2026-06-15,Facebook Ads,Mobile
+2045,2026-06-15,Emailing,Mobile
+3249,2026-06-15,Organic,Desktop
+2721,2026-06-15,Emailing,Tablet
+2947,2026-06-15,Instagram Ads,Mobile
+4066,2026-06-15,Facebook Ads,Mobile
+1181,2026-06-15,Organic,Tablet
+860,2026-06-15,LinkedIn,Desktop
+1875,2026-06-15,Facebook Ads,Tablet
+1428,2026-06-16,Facebook Ads,Tablet
+3290,2026-06-16,Instagram Ads,Desktop
+3380,2026-06-16,Instagram Ads,Mobile
+1775,2026-06-16,Facebook Ads,Mobile
+2578,2026-06-16,Facebook Ads,Desktop
+1142,2026-06-16,Organic,Desktop
+521,2026-06-16,Google Ads,Desktop
+749,2026-06-16,Instagram Ads,Desktop
+522,2026-06-16,Google Ads,Tablet
+3729,2026-06-17,LinkedIn,Desktop
+856,2026-06-17,Facebook Ads,Desktop
+2580,2026-06-17,Emailing,Desktop
+4225,2026-06-17,Google Ads,Mobile
+2196,2026-06-17,Emailing,Tablet
+2884,2026-06-17,Organic,Desktop
+5045,2026-06-17,LinkedIn,Tablet
+2205,2026-06-17,Facebook Ads,Mobile
+2661,2026-06-17,Instagram Ads,Desktop
+3365,2026-06-17,Organic,Mobile
+2025,2026-06-17,Google Ads,Tablet
+4138,2026-06-17,Google Ads,Mobile
+2901,2026-06-17,Organic,Mobile
+409,2026-06-18,Instagram Ads,Mobile
+1351,2026-06-18,Instagram Ads,Mobile
+3461,2026-06-18,LinkedIn,Desktop
+828,2026-06-18,LinkedIn,Desktop
+1314,2026-06-18,Organic,Mobile
+380,2026-06-18,Facebook Ads,Tablet
+2341,2026-06-18,Organic,Mobile
+4594,2026-06-18,Google Ads,Desktop
+1734,2026-06-18,LinkedIn,Mobile
+331,2026-06-18,Google Ads,Desktop
+3102,2026-06-18,Emailing,Tablet
+3719,2026-06-18,LinkedIn,Desktop
+4931,2026-06-18,Facebook Ads,Tablet
+4530,2026-06-19,Instagram Ads,Tablet
+1024,2026-06-19,LinkedIn,Mobile
+377,2026-06-19,Organic,Tablet
+4548,2026-06-19,LinkedIn,Mobile
+3632,2026-06-19,Organic,Desktop
+875,2026-06-19,Organic,Mobile
+1247,2026-06-19,Emailing,Desktop
+4650,2026-06-19,Emailing,Desktop
+1091,2026-06-19,Google Ads,Desktop
+1362,2026-06-19,LinkedIn,Tablet
+2199,2026-06-19,Facebook Ads,Tablet
+1154,2026-06-19,Facebook Ads,Desktop
+1579,2026-06-19,Organic,Mobile
+4447,2026-06-19,LinkedIn,Mobile
+2480,2026-06-19,Instagram Ads,Mobile
+3714,2026-06-19,LinkedIn,Mobile
+1929,2026-06-19,Instagram Ads,Desktop
+712,2026-06-19,Organic,Mobile
+985,2026-06-19,Emailing,Tablet
+1708,2026-06-20,Emailing,Mobile
+1856,2026-06-20,LinkedIn,Desktop
+4983,2026-06-20,Emailing,Desktop
+3885,2026-06-20,Facebook Ads,Mobile
+168,2026-06-20,LinkedIn,Mobile
+3779,2026-06-20,LinkedIn,Tablet
+1993,2026-06-20,LinkedIn,Desktop
+3602,2026-06-20,Emailing,Mobile
+3092,2026-06-20,Organic,Mobile
+2401,2026-06-20,LinkedIn,Tablet
+2082,2026-06-20,Google Ads,Mobile
+1395,2026-06-20,Facebook Ads,Desktop
+4733,2026-06-20,Facebook Ads,Tablet
+4850,2026-06-20,LinkedIn,Mobile
+1408,2026-06-20,Organic,Mobile
+2221,2026-06-21,Facebook Ads,Mobile
+2625,2026-06-21,Organic,Desktop
+3231,2026-06-21,Google Ads,Mobile
+3427,2026-06-21,Google Ads,Tablet
+921,2026-06-21,Google Ads,Mobile
+5049,2026-06-21,Facebook Ads,Desktop
+2692,2026-06-21,LinkedIn,Tablet
+4020,2026-06-21,LinkedIn,Mobile
+3651,2026-06-21,Facebook Ads,Desktop
+2036,2026-06-21,Google Ads,Tablet
+3419,2026-06-21,Facebook Ads,Tablet
+4102,2026-06-21,Organic,Tablet
+2669,2026-06-21,Emailing,Tablet
+3400,2026-06-21,Emailing,Tablet
+1629,2026-06-21,LinkedIn,Desktop
+3547,2026-06-21,Emailing,Mobile
+3576,2026-06-21,Instagram Ads,Mobile
+486,2026-06-21,Facebook Ads,Tablet
+4390,2026-06-21,LinkedIn,Desktop
+2312,2026-06-21,Facebook Ads,Tablet
+217,2026-06-21,Google Ads,Desktop
+3388,2026-06-21,Instagram Ads,Desktop
+4554,2026-06-21,Instagram Ads,Mobile
+719,2026-06-22,LinkedIn,Desktop
+3060,2026-06-22,Emailing,Desktop
+2873,2026-06-22,Google Ads,Desktop
+1508,2026-06-22,Emailing,Desktop
+3506,2026-06-22,LinkedIn,Mobile
+490,2026-06-22,Instagram Ads,Mobile
+221,2026-06-22,Organic,Mobile
+3923,2026-06-22,Google Ads,Desktop
+214,2026-06-22,Organic,Tablet
+2806,2026-06-22,Instagram Ads,Tablet
+1774,2026-06-22,Google Ads,Mobile
+3027,2026-06-22,Google Ads,Desktop
+4082,2026-06-22,LinkedIn,Tablet
+1647,2026-06-22,Google Ads,Tablet
+1577,2026-06-22,Organic,Tablet
+2163,2026-06-22,Instagram Ads,Tablet
+1105,2026-06-22,Google Ads,Tablet
+2989,2026-06-23,LinkedIn,Desktop
+4324,2026-06-23,Emailing,Tablet
+618,2026-06-23,LinkedIn,Desktop
+2653,2026-06-23,LinkedIn,Desktop
+808,2026-06-23,Google Ads,Desktop
+4717,2026-06-23,Emailing,Desktop
+1224,2026-06-23,Organic,Mobile
+4425,2026-06-23,Emailing,Desktop
+136,2026-06-23,Instagram Ads,Tablet
+3642,2026-06-23,LinkedIn,Mobile
+372,2026-06-23,Organic,Mobile
+371,2026-06-23,Instagram Ads,Desktop
+3932,2026-06-23,Google Ads,Desktop
+4625,2026-06-23,Google Ads,Desktop
+4962,2026-06-23,Facebook Ads,Desktop
+631,2026-06-24,Organic,Tablet
+1935,2026-06-24,Facebook Ads,Tablet
+5040,2026-06-24,Emailing,Mobile
+2849,2026-06-24,Facebook Ads,Mobile
+4278,2026-06-24,Organic,Tablet
+545,2026-06-24,Instagram Ads,Mobile
+4646,2026-06-24,LinkedIn,Tablet
+1611,2026-06-24,Instagram Ads,Mobile
+4740,2026-06-24,Facebook Ads,Tablet
+5099,2026-06-25,Facebook Ads,Desktop
+1952,2026-06-25,Organic,Desktop
+3279,2026-06-25,Google Ads,Mobile
+1829,2026-06-25,Instagram Ads,Mobile
+4369,2026-06-25,Instagram Ads,Mobile
+174,2026-06-25,Facebook Ads,Mobile
+3961,2026-06-25,Emailing,Tablet
+3475,2026-06-25,Emailing,Mobile
+1410,2026-06-25,Facebook Ads,Mobile
+4970,2026-06-25,Emailing,Tablet
+1211,2026-06-25,Google Ads,Tablet
+832,2026-06-25,Facebook Ads,Desktop
+479,2026-06-25,Facebook Ads,Desktop
+604,2026-06-25,Organic,Tablet
+4430,2026-06-25,Emailing,Tablet
+3084,2026-06-26,Google Ads,Desktop
+1090,2026-06-26,Emailing,Mobile
+3614,2026-06-26,Organic,Desktop
+4085,2026-06-26,Emailing,Tablet
+1007,2026-06-26,Google Ads,Desktop
+2241,2026-06-26,Organic,Desktop
+781,2026-06-26,Emailing,Mobile
+838,2026-06-26,Emailing,Mobile
+1971,2026-06-26,LinkedIn,Mobile
+227,2026-06-26,Instagram Ads,Tablet
+1266,2026-06-26,Google Ads,Desktop
+3903,2026-06-26,Emailing,Tablet
+1414,2026-06-26,Emailing,Tablet
+4157,2026-06-26,Facebook Ads,Desktop
+287,2026-06-26,Instagram Ads,Mobile
+4874,2026-06-26,Organic,Desktop
+3023,2026-06-26,Google Ads,Tablet
+3842,2026-06-26,Google Ads,Desktop
+1581,2026-06-26,Emailing,Mobile
+1770,2026-06-26,Organic,Mobile
+4905,2026-06-27,Google Ads,Tablet
+4918,2026-06-27,Organic,Tablet
+4443,2026-06-27,LinkedIn,Mobile
+4316,2026-06-27,Emailing,Mobile
+1653,2026-06-27,Facebook Ads,Tablet
+3376,2026-06-27,Facebook Ads,Desktop
+870,2026-06-27,Emailing,Mobile
+3459,2026-06-27,Organic,Desktop
+2246,2026-06-27,Facebook Ads,Tablet
+2427,2026-06-27,Emailing,Tablet
+3877,2026-06-27,Instagram Ads,Mobile
+538,2026-06-27,Emailing,Desktop
+3919,2026-06-27,Facebook Ads,Desktop
+4809,2026-06-27,Google Ads,Tablet
+3232,2026-06-28,Facebook Ads,Tablet
+3662,2026-06-28,Emailing,Tablet
+393,2026-06-28,Facebook Ads,Mobile
+1784,2026-06-28,LinkedIn,Desktop
+3996,2026-06-28,Google Ads,Tablet
+2691,2026-06-28,Google Ads,Mobile
+4126,2026-06-28,Facebook Ads,Desktop
+3918,2026-06-28,Emailing,Mobile
+2481,2026-06-28,Facebook Ads,Mobile
+3933,2026-06-28,Emailing,Desktop
+4153,2026-06-28,Instagram Ads,Mobile
+608,2026-06-28,Emailing,Mobile
+2189,2026-06-28,Google Ads,Mobile
+2425,2026-06-28,Instagram Ads,Tablet
+1665,2026-06-28,Facebook Ads,Mobile
+4980,2026-06-28,Organic,Tablet
+2757,2026-06-28,Facebook Ads,Tablet
+2532,2026-06-29,Organic,Desktop
+3707,2026-06-29,Google Ads,Mobile
+3791,2026-06-29,Facebook Ads,Mobile
+4444,2026-06-29,Facebook Ads,Mobile
+4449,2026-06-29,Organic,Tablet
+1241,2026-06-29,Instagram Ads,Desktop
+4124,2026-06-29,Google Ads,Tablet
+3974,2026-06-29,LinkedIn,Tablet
+1748,2026-06-29,Instagram Ads,Desktop
+3884,2026-06-29,Organic,Desktop
+504,2026-06-29,Instagram Ads,Tablet
+3259,2026-06-29,Instagram Ads,Tablet
+2254,2026-06-29,Instagram Ads,Mobile
+1261,2026-06-29,Facebook Ads,Tablet
+3497,2026-06-29,LinkedIn,Desktop
+2038,2026-06-29,LinkedIn,Tablet
+4876,2026-06-30,Organic,Mobile
+2250,2026-06-30,Facebook Ads,Tablet
+3753,2026-06-30,Facebook Ads,Desktop
+3289,2026-06-30,Instagram Ads,Desktop
+1841,2026-06-30,LinkedIn,Tablet
+163,2026-06-30,Emailing,Mobile
+1496,2026-06-30,LinkedIn,Tablet
+1130,2026-06-30,Instagram Ads,Tablet
+3051,2026-06-30,Google Ads,Mobile
+4765,2026-06-30,Emailing,Mobile
+2317,2026-06-30,Emailing,Desktop
+2601,2026-06-30,Facebook Ads,Tablet
+2632,2026-06-30,LinkedIn,Desktop
+1044,2026-06-30,Facebook Ads,Mobile
+4409,2026-06-30,Google Ads,Desktop
+4405,2026-06-30,LinkedIn,Mobile
+2354,2026-06-30,Facebook Ads,Tablet
+4764,2026-06-30,Organic,Mobile
+3860,2026-07-01,Emailing,Desktop
+3106,2026-07-01,Google Ads,Desktop
+113,2026-07-01,Facebook Ads,Mobile
+4542,2026-07-01,Organic,Desktop
+1267,2026-07-01,Facebook Ads,Tablet
+2348,2026-07-01,Emailing,Desktop
+993,2026-07-01,Instagram Ads,Tablet
+2072,2026-07-01,Google Ads,Tablet
+4244,2026-07-01,Emailing,Mobile
+4081,2026-07-01,Google Ads,Mobile
+4553,2026-07-01,Instagram Ads,Tablet
+817,2026-07-01,Facebook Ads,Tablet
+2544,2026-07-02,Emailing,Mobile
+266,2026-07-02,Instagram Ads,Tablet
+3960,2026-07-02,Google Ads,Mobile
+2636,2026-07-02,Facebook Ads,Tablet
+3998,2026-07-02,Emailing,Desktop
+3822,2026-07-02,Emailing,Desktop
+2782,2026-07-02,Facebook Ads,Desktop
+4052,2026-07-02,Google Ads,Desktop
+1032,2026-07-02,Emailing,Tablet
+4757,2026-07-03,LinkedIn,Mobile
+2276,2026-07-03,LinkedIn,Tablet
+3575,2026-07-03,Instagram Ads,Tablet
+2990,2026-07-03,Google Ads,Tablet
+3525,2026-07-03,Facebook Ads,Desktop
+415,2026-07-03,Google Ads,Tablet
+1252,2026-07-03,Emailing,Mobile
+625,2026-07-03,Instagram Ads,Desktop
+3682,2026-07-03,Facebook Ads,Mobile
+3375,2026-07-03,LinkedIn,Mobile
+3569,2026-07-03,Organic,Tablet
+3306,2026-07-03,Emailing,Desktop
+1548,2026-07-03,Emailing,Mobile
+3230,2026-07-04,Organic,Tablet
+5084,2026-07-04,LinkedIn,Desktop
+3194,2026-07-04,Emailing,Tablet
+3673,2026-07-04,Google Ads,Desktop
+1974,2026-07-04,LinkedIn,Desktop
+3929,2026-07-04,Google Ads,Desktop
+2711,2026-07-04,Instagram Ads,Desktop
+912,2026-07-04,Instagram Ads,Tablet
+2063,2026-07-04,Organic,Desktop
+1880,2026-07-04,LinkedIn,Mobile
+3077,2026-07-04,Organic,Desktop
+4478,2026-07-04,LinkedIn,Desktop
+4768,2026-07-04,Facebook Ads,Desktop
+3767,2026-07-04,Facebook Ads,Mobile
+1659,2026-07-04,Emailing,Mobile
+4496,2026-07-05,Organic,Tablet
+3377,2026-07-05,LinkedIn,Tablet
+1959,2026-07-05,Facebook Ads,Desktop
+826,2026-07-05,Facebook Ads,Tablet
+2080,2026-07-05,Instagram Ads,Mobile
+2719,2026-07-05,LinkedIn,Desktop
+2882,2026-07-05,Facebook Ads,Mobile
+1742,2026-07-05,LinkedIn,Tablet
+624,2026-07-05,Organic,Tablet
+2264,2026-07-05,Organic,Mobile
+4707,2026-07-06,Instagram Ads,Mobile
+477,2026-07-06,Facebook Ads,Mobile
+3718,2026-07-06,Organic,Tablet
+4000,2026-07-06,Emailing,Desktop
+5050,2026-07-06,Facebook Ads,Mobile
+3498,2026-07-06,Organic,Desktop
+1954,2026-07-06,Organic,Mobile
+1344,2026-07-06,Facebook Ads,Tablet
+1128,2026-07-06,LinkedIn,Tablet
+872,2026-07-06,Emailing,Desktop
+4005,2026-07-06,Google Ads,Desktop
+2643,2026-07-06,Instagram Ads,Mobile
+4828,2026-07-06,Instagram Ads,Tablet
+2472,2026-07-06,Google Ads,Tablet
+1862,2026-07-06,Facebook Ads,Mobile
+1507,2026-07-06,LinkedIn,Mobile
+2609,2026-07-07,Instagram Ads,Tablet
+3804,2026-07-07,Emailing,Mobile
+1108,2026-07-07,Facebook Ads,Desktop
+4170,2026-07-07,Instagram Ads,Tablet
+3609,2026-07-07,Facebook Ads,Tablet
+5043,2026-07-07,Facebook Ads,Mobile
+2926,2026-07-07,Organic,Desktop
+320,2026-07-07,Organic,Tablet
+2819,2026-07-07,LinkedIn,Tablet
+3018,2026-07-07,Instagram Ads,Mobile
+4754,2026-07-07,Google Ads,Mobile
+4149,2026-07-08,Facebook Ads,Tablet
+353,2026-07-08,Google Ads,Mobile
+2758,2026-07-08,Emailing,Mobile
+1766,2026-07-08,Facebook Ads,Desktop
+4301,2026-07-08,Organic,Tablet
+4258,2026-07-08,Emailing,Desktop
+1249,2026-07-08,Facebook Ads,Desktop
+1237,2026-07-08,LinkedIn,Mobile
+637,2026-07-08,Organic,Mobile
+4189,2026-07-08,Google Ads,Mobile
+2155,2026-07-08,Facebook Ads,Mobile
+2141,2026-07-08,Instagram Ads,Tablet
+350,2026-07-09,Google Ads,Mobile
+1473,2026-07-09,Organic,Tablet
+4912,2026-07-09,Facebook Ads,Tablet
+2885,2026-07-09,Emailing,Tablet
+2334,2026-07-09,Instagram Ads,Tablet
+2607,2026-07-09,Instagram Ads,Mobile
+652,2026-07-09,LinkedIn,Desktop
+3615,2026-07-09,Emailing,Tablet
+4721,2026-07-10,LinkedIn,Desktop
+992,2026-07-10,Facebook Ads,Mobile
+3065,2026-07-10,LinkedIn,Desktop
+4867,2026-07-10,LinkedIn,Desktop
+452,2026-07-10,Emailing,Mobile
+437,2026-07-10,Emailing,Mobile
+2345,2026-07-10,Google Ads,Tablet
+2274,2026-07-10,Organic,Mobile
+2207,2026-07-10,Emailing,Tablet
+3383,2026-07-10,Instagram Ads,Desktop
+2982,2026-07-10,Organic,Mobile
+2145,2026-07-11,Facebook Ads,Desktop
+4720,2026-07-11,Facebook Ads,Tablet
+497,2026-07-11,LinkedIn,Tablet
+4743,2026-07-11,Instagram Ads,Desktop
+2482,2026-07-11,Facebook Ads,Mobile
+3507,2026-07-11,Organic,Desktop
+4670,2026-07-11,LinkedIn,Desktop
+4910,2026-07-11,Organic,Desktop
+3684,2026-07-11,Emailing,Tablet
+2308,2026-07-11,Organic,Desktop
+1372,2026-07-11,Facebook Ads,Desktop
+3304,2026-07-11,Organic,Desktop
+3307,2026-07-11,Organic,Tablet
+2240,2026-07-11,Emailing,Tablet
+228,2026-07-12,Instagram Ads,Mobile
+1223,2026-07-12,Instagram Ads,Mobile
+1953,2026-07-12,Instagram Ads,Tablet
+1786,2026-07-12,Facebook Ads,Mobile
+3597,2026-07-12,Emailing,Desktop
+3058,2026-07-12,Organic,Mobile
+969,2026-07-12,LinkedIn,Mobile
+1674,2026-07-12,Emailing,Tablet
+1127,2026-07-12,Organic,Tablet
+675,2026-07-12,Emailing,Desktop
+3670,2026-07-12,Google Ads,Mobile
+3090,2026-07-12,LinkedIn,Mobile
+4734,2026-07-12,Google Ads,Tablet
+4855,2026-07-12,LinkedIn,Desktop
+4621,2026-07-12,Facebook Ads,Desktop
+181,2026-07-13,Instagram Ads,Desktop
+630,2026-07-13,Google Ads,Desktop
+1600,2026-07-13,LinkedIn,Mobile
+2298,2026-07-13,Emailing,Desktop
+3529,2026-07-13,Google Ads,Desktop
+3645,2026-07-13,Google Ads,Tablet
+780,2026-07-13,Facebook Ads,Mobile
+3096,2026-07-13,Organic,Desktop
+2588,2026-07-13,Instagram Ads,Tablet
+2598,2026-07-13,Facebook Ads,Desktop
+1337,2026-07-13,Emailing,Tablet
+4165,2026-07-13,Emailing,Desktop
+1773,2026-07-14,LinkedIn,Tablet
+1510,2026-07-14,Instagram Ads,Mobile
+1250,2026-07-14,Facebook Ads,Desktop
+2961,2026-07-14,Emailing,Desktop
+4555,2026-07-14,Google Ads,Desktop
+1545,2026-07-14,LinkedIn,Desktop
+108,2026-07-14,Google Ads,Mobile
+1451,2026-07-14,Organic,Tablet
+3176,2026-07-14,Organic,Desktop
+373,2026-07-14,Instagram Ads,Mobile
+614,2026-07-14,LinkedIn,Mobile
+4856,2026-07-14,LinkedIn,Mobile
+4141,2026-07-14,Emailing,Tablet
+1443,2026-07-14,Emailing,Desktop
+4056,2026-07-14,LinkedIn,Tablet
+1530,2026-07-14,LinkedIn,Mobile
+1021,2026-07-14,Google Ads,Desktop
+3349,2026-07-15,Instagram Ads,Tablet
+568,2026-07-15,LinkedIn,Tablet
+2576,2026-07-15,Instagram Ads,Tablet
+1553,2026-07-15,Facebook Ads,Mobile
+915,2026-07-15,Google Ads,Desktop
+1569,2026-07-15,Emailing,Tablet
+2176,2026-07-15,LinkedIn,Mobile
+1476,2026-07-15,Emailing,Desktop
+1341,2026-07-15,Emailing,Mobile
+1149,2026-07-15,Instagram Ads,Desktop
+3728,2026-07-15,Google Ads,Desktop
+4090,2026-07-15,Google Ads,Mobile
+1406,2026-07-15,Facebook Ads,Tablet
+2287,2026-07-15,Emailing,Tablet
+4749,2026-07-16,Organic,Tablet
+2079,2026-07-16,Organic,Tablet
+216,2026-07-16,Facebook Ads,Mobile
+896,2026-07-16,Organic,Tablet
+1103,2026-07-16,Facebook Ads,Tablet
+1456,2026-07-16,LinkedIn,Tablet
+1296,2026-07-16,Organic,Tablet
+1161,2026-07-16,LinkedIn,Mobile
+4387,2026-07-16,LinkedIn,Desktop
+1049,2026-07-16,Facebook Ads,Desktop
+2454,2026-07-16,Instagram Ads,Mobile
+1982,2026-07-16,LinkedIn,Tablet
+4292,2026-07-16,Facebook Ads,Desktop
+1259,2026-07-16,Instagram Ads,Desktop
+4275,2026-07-16,Organic,Tablet
+715,2026-07-16,Emailing,Tablet
+3100,2026-07-16,Google Ads,Desktop
+2319,2026-07-16,Facebook Ads,Mobile
+1423,2026-07-16,Facebook Ads,Desktop
+1151,2026-07-17,Google Ads,Mobile
+3724,2026-07-17,Instagram Ads,Tablet
+2996,2026-07-17,Instagram Ads,Tablet
+2012,2026-07-17,Facebook Ads,Mobile
+3298,2026-07-17,Organic,Mobile
+4718,2026-07-17,Instagram Ads,Desktop
+4887,2026-07-17,Emailing,Desktop
+4541,2026-07-17,Facebook Ads,Mobile
+2412,2026-07-17,Emailing,Desktop
+4414,2026-07-17,Facebook Ads,Mobile
+655,2026-07-17,Emailing,Tablet
+1246,2026-07-18,Google Ads,Tablet
+2174,2026-07-18,Google Ads,Mobile
+868,2026-07-18,Facebook Ads,Mobile
+836,2026-07-18,Google Ads,Mobile
+4772,2026-07-18,Emailing,Desktop
+484,2026-07-18,Instagram Ads,Mobile
+365,2026-07-18,Emailing,Tablet
+3216,2026-07-18,Emailing,Desktop
+1184,2026-07-18,Emailing,Tablet
+1573,2026-07-18,LinkedIn,Tablet
+3978,2026-07-18,Organic,Mobile
+2582,2026-07-18,Facebook Ads,Tablet
+284,2026-07-18,LinkedIn,Desktop
+1218,2026-07-18,Emailing,Desktop
+2355,2026-07-18,LinkedIn,Desktop
+1772,2026-07-18,Facebook Ads,Desktop
+4485,2026-07-18,LinkedIn,Tablet
+3392,2026-07-18,LinkedIn,Tablet
+3486,2026-07-18,Emailing,Mobile
+3593,2026-07-19,Organic,Tablet
+3278,2026-07-19,Facebook Ads,Tablet
+2229,2026-07-19,Emailing,Tablet
+2762,2026-07-19,Organic,Desktop
+2562,2026-07-19,Facebook Ads,Mobile
+1711,2026-07-19,Emailing,Tablet
+4796,2026-07-19,Emailing,Desktop
+4663,2026-07-19,LinkedIn,Desktop
+5024,2026-07-19,Facebook Ads,Desktop
+1258,2026-07-19,Emailing,Tablet
+2175,2026-07-19,Facebook Ads,Desktop
+4570,2026-07-19,Organic,Desktop
+2612,2026-07-20,Organic,Desktop
+1654,2026-07-20,Instagram Ads,Tablet
+2220,2026-07-20,Instagram Ads,Mobile
+3182,2026-07-20,Emailing,Tablet
+4986,2026-07-20,Facebook Ads,Desktop
+3384,2026-07-20,Instagram Ads,Tablet
+1203,2026-07-20,Facebook Ads,Mobile
+3806,2026-07-20,LinkedIn,Desktop
+3850,2026-07-20,Facebook Ads,Desktop
+5011,2026-07-20,Organic,Desktop
+4362,2026-07-20,Organic,Desktop
+3594,2026-07-20,Organic,Mobile
+3598,2026-07-21,Organic,Mobile
+3985,2026-07-21,Facebook Ads,Desktop
+189,2026-07-21,Facebook Ads,Tablet
+4117,2026-07-21,Google Ads,Desktop
+1145,2026-07-21,LinkedIn,Mobile
+1836,2026-07-21,Organic,Mobile
+2017,2026-07-21,LinkedIn,Mobile
+299,2026-07-21,Google Ads,Tablet
+4776,2026-07-21,Facebook Ads,Tablet
+4654,2026-07-21,Facebook Ads,Desktop
+4960,2026-07-21,LinkedIn,Tablet
+1949,2026-07-21,Google Ads,Desktop
+2858,2026-07-22,Instagram Ads,Tablet
+2495,2026-07-22,LinkedIn,Desktop
+3441,2026-07-22,Emailing,Tablet
+3435,2026-07-22,Organic,Desktop
+590,2026-07-22,Google Ads,Tablet
+528,2026-07-22,Instagram Ads,Tablet
+381,2026-07-22,Google Ads,Mobile
+1221,2026-07-22,Google Ads,Tablet
+4209,2026-07-22,Google Ads,Desktop
+3493,2026-07-22,Organic,Desktop
+4919,2026-07-22,Google Ads,Desktop
+4159,2026-07-22,Emailing,Mobile
+2530,2026-07-22,Organic,Mobile
+3675,2026-07-22,Google Ads,Desktop
+2682,2026-07-22,Facebook Ads,Tablet
+2775,2026-07-22,Organic,Mobile
+2236,2026-07-22,LinkedIn,Tablet
+1873,2026-07-23,Google Ads,Mobile
+2722,2026-07-23,Facebook Ads,Mobile
+2973,2026-07-23,LinkedIn,Mobile
+2610,2026-07-23,Facebook Ads,Tablet
+2337,2026-07-23,Emailing,Desktop
+219,2026-07-23,Google Ads,Tablet
+329,2026-07-23,Google Ads,Tablet
+1006,2026-07-23,Google Ads,Desktop
+3326,2026-07-23,Emailing,Mobile
+746,2026-07-23,Organic,Desktop
+2363,2026-07-23,Google Ads,Mobile
+574,2026-07-23,Organic,Tablet
+4623,2026-07-23,Instagram Ads,Mobile
+4118,2026-07-24,Emailing,Tablet
+2971,2026-07-24,Instagram Ads,Desktop
+1412,2026-07-24,Google Ads,Mobile
+1023,2026-07-24,Organic,Desktop
+3247,2026-07-24,LinkedIn,Mobile
+1331,2026-07-24,Instagram Ads,Mobile
+859,2026-07-24,LinkedIn,Mobile
+3360,2026-07-24,Emailing,Desktop
+3851,2026-07-24,Instagram Ads,Tablet
+1886,2026-07-24,Instagram Ads,Mobile
+154,2026-07-24,Google Ads,Mobile
+2214,2026-07-24,LinkedIn,Desktop
+1700,2026-07-24,Instagram Ads,Mobile
+732,2026-07-24,Instagram Ads,Mobile
+506,2026-07-24,Instagram Ads,Mobile
+998,2026-07-25,Organic,Desktop
+4706,2026-07-25,Instagram Ads,Desktop
+3880,2026-07-25,Google Ads,Tablet
+1618,2026-07-25,Emailing,Tablet
+4618,2026-07-25,LinkedIn,Desktop
+304,2026-07-25,Facebook Ads,Tablet
+2821,2026-07-25,Emailing,Tablet
+4666,2026-07-25,Google Ads,Mobile
+3492,2026-07-25,Facebook Ads,Tablet
+5072,2026-07-25,Facebook Ads,Tablet
+4323,2026-07-25,Organic,Mobile
+3605,2026-07-25,Organic,Desktop
+695,2026-07-25,Organic,Mobile
+954,2026-07-25,Facebook Ads,Tablet
+298,2026-07-25,LinkedIn,Mobile
+772,2026-07-25,LinkedIn,Mobile
+292,2026-07-25,Emailing,Mobile
+5096,2026-07-25,LinkedIn,Mobile
+4042,2026-07-25,Organic,Tablet
+222,2026-07-25,Emailing,Desktop
+586,2026-07-26,Emailing,Tablet
+2526,2026-07-26,Google Ads,Desktop
+4224,2026-07-26,Google Ads,Mobile
+2118,2026-07-26,Google Ads,Tablet
+1048,2026-07-26,Organic,Desktop
+846,2026-07-26,Organic,Mobile
+293,2026-07-26,Google Ads,Tablet
+1457,2026-07-26,Emailing,Mobile
+1660,2026-07-26,Organic,Mobile
+3495,2026-07-26,LinkedIn,Desktop
+2457,2026-07-27,Google Ads,Desktop
+502,2026-07-27,Organic,Mobile
+3026,2026-07-27,Instagram Ads,Desktop
+3872,2026-07-27,Emailing,Desktop
+4438,2026-07-27,Emailing,Desktop
+2333,2026-07-27,Facebook Ads,Desktop
+1882,2026-07-27,Organic,Tablet
+3389,2026-07-27,Instagram Ads,Tablet
+4076,2026-07-28,Organic,Mobile
+3841,2026-07-28,Emailing,Mobile
+4888,2026-07-28,Organic,Tablet
+468,2026-07-28,Instagram Ads,Desktop
+669,2026-07-28,LinkedIn,Mobile
+2208,2026-07-28,LinkedIn,Mobile
+849,2026-07-28,LinkedIn,Mobile
+3107,2026-07-28,Emailing,Desktop
+2113,2026-07-28,Emailing,Tablet
+509,2026-07-28,Instagram Ads,Desktop
+2672,2026-07-28,LinkedIn,Tablet
+554,2026-07-28,Organic,Mobile
+2103,2026-07-28,Emailing,Tablet
+2902,2026-07-29,Google Ads,Mobile
+3437,2026-07-29,Instagram Ads,Mobile
+205,2026-07-29,Organic,Desktop
+1468,2026-07-29,Organic,Tablet
+251,2026-07-29,Facebook Ads,Desktop
+4917,2026-07-29,Emailing,Desktop
+4703,2026-07-29,Emailing,Tablet
+886,2026-07-29,Emailing,Tablet
+144,2026-07-29,LinkedIn,Desktop
+2292,2026-07-29,Instagram Ads,Desktop
+5037,2026-07-29,Emailing,Desktop
+3453,2026-07-29,Instagram Ads,Desktop
+4571,2026-07-29,LinkedIn,Tablet
+2184,2026-07-29,LinkedIn,Desktop
+3852,2026-07-29,Facebook Ads,Mobile
+4394,2026-07-29,LinkedIn,Desktop
+4903,2026-07-29,Emailing,Tablet
+2573,2026-07-29,LinkedIn,Desktop
+2421,2026-07-29,LinkedIn,Mobile
+3742,2026-07-29,Google Ads,Mobile
+2352,2026-07-30,Organic,Desktop
+5000,2026-07-30,Instagram Ads,Mobile
+2310,2026-07-30,Emailing,Desktop
+2724,2026-07-30,Emailing,Desktop
+4334,2026-07-30,Organic,Desktop
+607,2026-07-30,Google Ads,Tablet
+3760,2026-07-30,LinkedIn,Tablet
+3203,2026-07-31,LinkedIn,Mobile
+3292,2026-07-31,Facebook Ads,Mobile
+1038,2026-07-31,LinkedIn,Tablet
+374,2026-07-31,LinkedIn,Mobile
+937,2026-07-31,Google Ads,Tablet
+1461,2026-07-31,Organic,Desktop
+343,2026-07-31,Instagram Ads,Desktop
+4827,2026-07-31,LinkedIn,Tablet
+2452,2026-07-31,Google Ads,Mobile
+4003,2026-07-31,Instagram Ads,Tablet
+1054,2026-07-31,Instagram Ads,Tablet
+4628,2026-07-31,Facebook Ads,Mobile
+5016,2026-08-01,LinkedIn,Desktop
+1097,2026-08-01,Emailing,Desktop
+2483,2026-08-01,Organic,Tablet
+2855,2026-08-01,Organic,Desktop
+4217,2026-08-01,Organic,Desktop
+4959,2026-08-01,Facebook Ads,Mobile
+2201,2026-08-01,Organic,Desktop
+3987,2026-08-01,Instagram Ads,Desktop
+1119,2026-08-01,LinkedIn,Desktop
+2936,2026-08-02,Emailing,Desktop
+1763,2026-08-02,Google Ads,Tablet
+5030,2026-08-02,Emailing,Tablet
+2943,2026-08-02,Facebook Ads,Desktop
+1955,2026-08-02,Google Ads,Tablet
+4245,2026-08-02,Instagram Ads,Desktop
+2306,2026-08-02,LinkedIn,Tablet
+2954,2026-08-02,Emailing,Desktop
+926,2026-08-02,Facebook Ads,Mobile
+156,2026-08-03,Emailing,Mobile
+914,2026-08-03,Organic,Tablet
+3055,2026-08-03,LinkedIn,Desktop
+3737,2026-08-03,Facebook Ads,Mobile
+4820,2026-08-03,Organic,Tablet
+3584,2026-08-03,Facebook Ads,Mobile
+1787,2026-08-03,Organic,Tablet
+4534,2026-08-03,Organic,Desktop
+716,2026-08-03,Instagram Ads,Desktop
+3242,2026-08-03,Instagram Ads,Desktop
+900,2026-08-03,Organic,Tablet
+1349,2026-08-03,Facebook Ads,Tablet
+908,2026-08-04,Organic,Tablet
+1116,2026-08-04,Emailing,Tablet
+1123,2026-08-04,Google Ads,Tablet
+283,2026-08-04,Facebook Ads,Mobile
+1204,2026-08-05,Emailing,Tablet
+1735,2026-08-05,Facebook Ads,Desktop
+5005,2026-08-05,Instagram Ads,Desktop
+1620,2026-08-05,Organic,Mobile
+1740,2026-08-05,Google Ads,Tablet
+2921,2026-08-05,Google Ads,Tablet
+3539,2026-08-05,LinkedIn,Desktop
+2616,2026-08-05,Instagram Ads,Tablet
+4057,2026-08-05,LinkedIn,Tablet
+3709,2026-08-05,Organic,Tablet
+346,2026-08-05,Google Ads,Mobile
+678,2026-08-05,Facebook Ads,Mobile
+3826,2026-08-05,Instagram Ads,Desktop
+3267,2026-08-05,Organic,Tablet
+1939,2026-08-05,Instagram Ads,Tablet
+1768,2026-08-06,Organic,Mobile
+213,2026-08-06,Facebook Ads,Mobile
+816,2026-08-06,Emailing,Tablet
+496,2026-08-06,Google Ads,Tablet
+4086,2026-08-06,Google Ads,Tablet
+1556,2026-08-06,Organic,Tablet
+785,2026-08-06,Google Ads,Mobile
+3540,2026-08-06,Instagram Ads,Desktop
+2670,2026-08-06,Instagram Ads,Tablet
+3787,2026-08-06,Facebook Ads,Mobile
+4834,2026-08-06,Facebook Ads,Mobile
+4194,2026-08-06,Facebook Ads,Desktop
+3937,2026-08-07,Facebook Ads,Mobile
+1520,2026-08-07,Facebook Ads,Mobile
+3233,2026-08-07,Google Ads,Mobile
+4659,2026-08-07,Organic,Mobile
+1284,2026-08-07,Facebook Ads,Desktop
+3799,2026-08-07,Google Ads,Tablet
+3050,2026-08-07,LinkedIn,Desktop
+2405,2026-08-07,LinkedIn,Mobile
+3876,2026-08-07,Google Ads,Desktop
+4651,2026-08-07,Instagram Ads,Tablet
+2056,2026-08-07,Facebook Ads,Tablet
+3939,2026-08-07,Organic,Tablet
+897,2026-08-07,Organic,Tablet
+613,2026-08-07,LinkedIn,Desktop
+3823,2026-08-08,Emailing,Tablet
+357,2026-08-08,Instagram Ads,Tablet
+4916,2026-08-08,Facebook Ads,Tablet
+1072,2026-08-08,Facebook Ads,Desktop
+4681,2026-08-08,LinkedIn,Mobile
+1756,2026-08-08,LinkedIn,Desktop
+2123,2026-08-08,Instagram Ads,Tablet
+1402,2026-08-08,Google Ads,Tablet
+3986,2026-08-08,Organic,Desktop
+4151,2026-08-08,LinkedIn,Desktop
+1622,2026-08-08,Emailing,Mobile
+3257,2026-08-08,Emailing,Mobile
+279,2026-08-08,Facebook Ads,Mobile
+1516,2026-08-08,Facebook Ads,Mobile
+907,2026-08-08,Emailing,Mobile
+4346,2026-08-08,Emailing,Tablet
+4422,2026-08-08,Facebook Ads,Mobile
+1966,2026-08-09,LinkedIn,Desktop
+2286,2026-08-09,Organic,Desktop
+4958,2026-08-09,Emailing,Tablet
+3902,2026-08-09,Instagram Ads,Mobile
+3465,2026-08-09,Facebook Ads,Tablet
+3616,2026-08-09,LinkedIn,Tablet
+1286,2026-08-09,Facebook Ads,Mobile
+1153,2026-08-09,Google Ads,Mobile
+153,2026-08-09,Facebook Ads,Tablet
+821,2026-08-09,Facebook Ads,Mobile
+3954,2026-08-09,LinkedIn,Desktop
+4402,2026-08-09,Emailing,Tablet
+4031,2026-08-09,Google Ads,Mobile
+4610,2026-08-10,Instagram Ads,Mobile
+4783,2026-08-10,Google Ads,Tablet
+2076,2026-08-10,Instagram Ads,Mobile
+3297,2026-08-10,Instagram Ads,Mobile
+459,2026-08-10,LinkedIn,Mobile
+465,2026-08-10,Emailing,Desktop
+4412,2026-08-10,LinkedIn,Tablet
+2445,2026-08-10,Google Ads,Desktop
+852,2026-08-10,LinkedIn,Mobile
+341,2026-08-10,Instagram Ads,Mobile
+5046,2026-08-10,Google Ads,Tablet
+4370,2026-08-10,Emailing,Tablet
+3555,2026-08-10,Emailing,Desktop
+2986,2026-08-10,Google Ads,Mobile
+2835,2026-08-11,Google Ads,Tablet
+1113,2026-08-11,Google Ads,Mobile
+1324,2026-08-11,Organic,Tablet
+1125,2026-08-11,Emailing,Desktop
+2903,2026-08-11,LinkedIn,Mobile
+4725,2026-08-11,Facebook Ads,Tablet
+2583,2026-08-11,Facebook Ads,Mobile
+235,2026-08-11,Facebook Ads,Tablet
+1549,2026-08-11,Emailing,Desktop
+1945,2026-08-11,Facebook Ads,Mobile
+1191,2026-08-11,LinkedIn,Desktop
+636,2026-08-11,Instagram Ads,Mobile
+1185,2026-08-11,Facebook Ads,Tablet
+3127,2026-08-11,LinkedIn,Tablet
+3180,2026-08-11,Google Ads,Tablet
+890,2026-08-12,Instagram Ads,Desktop
+2654,2026-08-12,Emailing,Tablet
+3805,2026-08-12,Facebook Ads,Desktop
+2972,2026-08-12,LinkedIn,Tablet
+3069,2026-08-12,Organic,Desktop
+970,2026-08-12,Instagram Ads,Mobile
+4021,2026-08-12,Organic,Mobile
+3177,2026-08-12,Facebook Ads,Desktop
+4495,2026-08-12,Instagram Ads,Mobile
+546,2026-08-12,Google Ads,Mobile
+2154,2026-08-12,Emailing,Mobile
+4228,2026-08-12,LinkedIn,Mobile
+4741,2026-08-12,Instagram Ads,Mobile
+4947,2026-08-12,Facebook Ads,Mobile
+2963,2026-08-13,Facebook Ads,Tablet
+4507,2026-08-13,LinkedIn,Mobile
+589,2026-08-13,Facebook Ads,Mobile
+4426,2026-08-13,Facebook Ads,Desktop
+1018,2026-08-13,Instagram Ads,Desktop
+134,2026-08-13,Instagram Ads,Mobile
+676,2026-08-13,Google Ads,Desktop
+1099,2026-08-13,Google Ads,Mobile
+4569,2026-08-13,Google Ads,Desktop
+609,2026-08-13,Emailing,Tablet
+1180,2026-08-13,Organic,Desktop
+513,2026-08-13,Instagram Ads,Desktop
+2375,2026-08-13,Emailing,Mobile
+512,2026-08-13,Google Ads,Tablet
+2889,2026-08-14,Instagram Ads,Mobile
+2739,2026-08-14,Facebook Ads,Tablet
+3039,2026-08-14,Emailing,Mobile
+5021,2026-08-14,Emailing,Tablet
+3160,2026-08-14,Instagram Ads,Desktop
+1321,2026-08-14,Facebook Ads,Desktop
+1528,2026-08-14,Organic,Desktop
+102,2026-08-14,LinkedIn,Tablet
+2944,2026-08-14,LinkedIn,Tablet
+1651,2026-08-14,Instagram Ads,Desktop
+3691,2026-08-14,Emailing,Mobile
+4892,2026-08-14,LinkedIn,Mobile
+3293,2026-08-14,Google Ads,Desktop
+3229,2026-08-14,Instagram Ads,Tablet
+4736,2026-08-14,LinkedIn,Desktop
+425,2026-08-15,Instagram Ads,Tablet
+2426,2026-08-15,LinkedIn,Desktop
+4908,2026-08-15,Facebook Ads,Mobile
+2604,2026-08-15,Google Ads,Desktop
+342,2026-08-15,LinkedIn,Desktop
+641,2026-08-15,Instagram Ads,Mobile
+1613,2026-08-15,Organic,Desktop
+4372,2026-08-15,Facebook Ads,Mobile
+4941,2026-08-15,Instagram Ads,Tablet
+4942,2026-08-15,Instagram Ads,Mobile
+1874,2026-08-15,Facebook Ads,Mobile
+2528,2026-08-15,Organic,Tablet
+2656,2026-08-15,Facebook Ads,Mobile
+1222,2026-08-15,Facebook Ads,Desktop
+5069,2026-08-16,Facebook Ads,Desktop
+4259,2026-08-16,Google Ads,Desktop
+3192,2026-08-16,LinkedIn,Mobile
+2097,2026-08-16,Google Ads,Desktop
+3983,2026-08-16,Organic,Tablet
+4709,2026-08-16,Organic,Mobile
+2834,2026-08-16,Facebook Ads,Tablet
+4454,2026-08-16,Organic,Tablet
+2007,2026-08-16,LinkedIn,Desktop
+1901,2026-08-16,Organic,Mobile
+2866,2026-08-16,Organic,Mobile
+2747,2026-08-16,Facebook Ads,Desktop
+1724,2026-08-16,Facebook Ads,Desktop
+4522,2026-08-16,Organic,Mobile
+2628,2026-08-16,Emailing,Mobile
+467,2026-08-17,LinkedIn,Desktop
+3338,2026-08-17,LinkedIn,Desktop
+3797,2026-08-17,Emailing,Tablet
+2887,2026-08-17,LinkedIn,Desktop
+4778,2026-08-17,Emailing,Mobile
+1857,2026-08-17,Organic,Mobile
+2904,2026-08-17,Organic,Tablet
+944,2026-08-17,Facebook Ads,Tablet
+5033,2026-08-17,LinkedIn,Tablet
+3577,2026-08-17,Facebook Ads,Tablet
+4487,2026-08-17,Emailing,Desktop
+2535,2026-08-17,Google Ads,Mobile
+2726,2026-08-18,LinkedIn,Tablet
+241,2026-08-18,Emailing,Tablet
+1799,2026-08-18,Organic,Tablet
+414,2026-08-18,Emailing,Desktop
+2839,2026-08-18,Organic,Mobile
+4304,2026-08-18,Google Ads,Tablet
+2516,2026-08-18,Facebook Ads,Tablet
+3810,2026-08-18,Google Ads,Tablet
+570,2026-08-18,Instagram Ads,Tablet
+349,2026-08-18,Google Ads,Tablet
+1645,2026-08-18,Google Ads,Tablet
+1281,2026-08-18,Organic,Tablet
+2572,2026-08-18,Organic,Mobile
+2121,2026-08-18,Emailing,Desktop
+2795,2026-08-18,Emailing,Mobile
+565,2026-08-18,Emailing,Mobile
+2314,2026-08-18,Organic,Mobile
+3086,2026-08-19,Emailing,Tablet
+1801,2026-08-19,Instagram Ads,Tablet
+4686,2026-08-19,LinkedIn,Tablet
+1526,2026-08-19,LinkedIn,Mobile
+3014,2026-08-19,Facebook Ads,Desktop
+348,2026-08-19,Google Ads,Desktop
+2737,2026-08-19,Google Ads,Desktop
+4207,2026-08-19,Emailing,Mobile
+4015,2026-08-19,LinkedIn,Tablet
+135,2026-08-19,Organic,Tablet
+2192,2026-08-19,Organic,Tablet
+2552,2026-08-19,Instagram Ads,Tablet
+3168,2026-08-19,Instagram Ads,Tablet
+5007,2026-08-19,Facebook Ads,Desktop
+818,2026-08-19,Emailing,Desktop
+151,2026-08-20,Google Ads,Desktop
+3156,2026-08-20,Emailing,Mobile
+3395,2026-08-20,Facebook Ads,Tablet
+3832,2026-08-20,LinkedIn,Mobile
+1339,2026-08-20,Google Ads,Mobile
+779,2026-08-20,Instagram Ads,Mobile
+579,2026-08-20,Google Ads,Mobile
+2223,2026-08-20,Instagram Ads,Mobile
+3629,2026-08-20,Instagram Ads,Tablet
+1202,2026-08-20,Facebook Ads,Mobile
+1928,2026-08-20,Facebook Ads,Desktop
+1483,2026-08-20,Emailing,Tablet
+1489,2026-08-20,LinkedIn,Desktop
+1916,2026-08-20,Emailing,Desktop
+1298,2026-08-20,Instagram Ads,Mobile
+5067,2026-08-20,Organic,Mobile
+4350,2026-08-20,Facebook Ads,Desktop
+3906,2026-08-20,LinkedIn,Desktop
+112,2026-08-21,LinkedIn,Mobile
+3947,2026-08-21,Instagram Ads,Tablet
+623,2026-08-21,Facebook Ads,Tablet
+1124,2026-08-21,Organic,Tablet
+4415,2026-08-21,Google Ads,Mobile
+2387,2026-08-21,Instagram Ads,Desktop
+3710,2026-08-21,Organic,Desktop
+3142,2026-08-21,LinkedIn,Tablet
+1471,2026-08-21,LinkedIn,Desktop
+3080,2026-08-21,Emailing,Desktop
+240,2026-08-21,Facebook Ads,Desktop
+2134,2026-08-21,Organic,Tablet
+1541,2026-08-21,Organic,Mobile
+572,2026-08-21,Instagram Ads,Tablet
+3007,2026-08-22,Google Ads,Desktop
+4071,2026-08-22,Emailing,Desktop
+327,2026-08-22,Facebook Ads,Mobile
+3607,2026-08-22,LinkedIn,Mobile
+1297,2026-08-22,Google Ads,Desktop
+599,2026-08-22,Instagram Ads,Desktop
+3627,2026-08-22,Emailing,Mobile
+4053,2026-08-22,Google Ads,Tablet
+2818,2026-08-22,Google Ads,Tablet
+1435,2026-08-22,Emailing,Mobile
+3613,2026-08-23,Instagram Ads,Mobile
+2906,2026-08-23,LinkedIn,Tablet
+2802,2026-08-23,Google Ads,Desktop
+1567,2026-08-23,Instagram Ads,Desktop
+1782,2026-08-23,LinkedIn,Mobile
+406,2026-08-23,Facebook Ads,Tablet
+3197,2026-08-23,Emailing,Mobile
+4679,2026-08-23,Facebook Ads,Mobile
+4137,2026-08-23,Emailing,Tablet
+5081,2026-08-23,Organic,Desktop
+4790,2026-08-23,Emailing,Mobile
+5091,2026-08-23,Facebook Ads,Mobile
+1425,2026-08-23,Google Ads,Mobile
+1855,2026-08-23,LinkedIn,Desktop
+2301,2026-08-23,LinkedIn,Tablet
+1931,2026-08-24,Facebook Ads,Tablet
+682,2026-08-24,Instagram Ads,Mobile
+2677,2026-08-24,Emailing,Desktop
+3138,2026-08-24,Facebook Ads,Desktop
+4014,2026-08-24,Google Ads,Desktop
+2599,2026-08-24,Emailing,Desktop
+2266,2026-08-24,LinkedIn,Mobile
+3064,2026-08-24,Organic,Mobile
+3890,2026-08-24,Organic,Desktop
+4546,2026-08-24,Instagram Ads,Tablet
+4168,2026-08-24,Google Ads,Tablet
+2210,2026-08-25,Google Ads,Desktop
+4800,2026-08-25,Emailing,Tablet
+2586,2026-08-25,Emailing,Mobile
+2883,2026-08-25,Facebook Ads,Mobile
+1272,2026-08-25,Google Ads,Mobile
+2128,2026-08-25,Google Ads,Desktop
+2892,2026-08-25,Organic,Desktop
+2899,2026-08-25,LinkedIn,Desktop
+776,2026-08-25,Emailing,Desktop
+3545,2026-08-25,Emailing,Desktop
+4428,2026-08-25,Emailing,Desktop
+4951,2026-08-25,Google Ads,Desktop
+3904,2026-08-26,Facebook Ads,Tablet
+2225,2026-08-26,Emailing,Tablet
+3028,2026-08-26,Facebook Ads,Mobile
+2179,2026-08-26,Google Ads,Tablet
+600,2026-08-26,Instagram Ads,Desktop
+1162,2026-08-26,LinkedIn,Tablet
+911,2026-08-26,Facebook Ads,Tablet
+255,2026-08-26,Facebook Ads,Mobile
+1965,2026-08-26,Google Ads,Desktop
+547,2026-08-26,Organic,Tablet
+1329,2026-08-26,LinkedIn,Mobile
+2533,2026-08-26,Emailing,Tablet
+1033,2026-08-26,LinkedIn,Desktop
+1819,2026-08-26,Instagram Ads,Tablet
+4272,2026-08-27,LinkedIn,Tablet
+2509,2026-08-27,Emailing,Desktop
+762,2026-08-27,Organic,Tablet
+619,2026-08-27,Instagram Ads,Desktop
+4862,2026-08-27,Organic,Tablet
+170,2026-08-27,Emailing,Tablet
+1175,2026-08-27,Instagram Ads,Tablet
+1112,2026-08-27,Organic,Mobile
+4860,2026-08-27,Facebook Ads,Desktop
+4136,2026-08-27,Facebook Ads,Mobile
+542,2026-08-27,Facebook Ads,Tablet
+1525,2026-08-27,Instagram Ads,Mobile
+1378,2026-08-27,Facebook Ads,Mobile
+1685,2026-08-27,Facebook Ads,Desktop
+1449,2026-08-27,Emailing,Desktop
+1692,2026-08-28,Google Ads,Desktop
+3674,2026-08-28,LinkedIn,Desktop
+2837,2026-08-28,Instagram Ads,Tablet
+1189,2026-08-28,LinkedIn,Tablet
+491,2026-08-28,Google Ads,Mobile
+3815,2026-08-28,Google Ads,Desktop
+4505,2026-08-28,Emailing,Mobile
+806,2026-08-28,Organic,Desktop
+4025,2026-08-28,Emailing,Tablet
+3532,2026-08-28,Emailing,Desktop
+4572,2026-08-28,LinkedIn,Tablet
+362,2026-08-28,Instagram Ads,Desktop
+4160,2026-08-29,LinkedIn,Mobile
+1765,2026-08-29,Google Ads,Desktop
+2561,2026-08-29,Emailing,Mobile
+4134,2026-08-29,Instagram Ads,Desktop
+1717,2026-08-29,Organic,Mobile
+4539,2026-08-29,Instagram Ads,Mobile
+4844,2026-08-29,Google Ads,Mobile
+4866,2026-08-29,Google Ads,Desktop
+1990,2026-08-29,Instagram Ads,Tablet
+576,2026-08-29,Emailing,Desktop
+1739,2026-08-29,Emailing,Desktop
+2415,2026-08-29,Instagram Ads,Desktop
+2937,2026-08-29,Emailing,Desktop
+4818,2026-08-30,Instagram Ads,Mobile
+3402,2026-08-30,Organic,Tablet
+2344,2026-08-30,Instagram Ads,Mobile
+4276,2026-08-30,Organic,Mobile
+4660,2026-08-30,LinkedIn,Tablet
+1310,2026-08-30,Google Ads,Tablet
+1434,2026-08-30,LinkedIn,Mobile
+1816,2026-08-30,Facebook Ads,Tablet
+948,2026-08-30,LinkedIn,Desktop
+1205,2026-08-30,Facebook Ads,Desktop
+3603,2026-08-30,Instagram Ads,Mobile
+3496,2026-08-30,Facebook Ads,Desktop
+2890,2026-08-30,Google Ads,Mobile
+633,2026-08-30,Emailing,Tablet
+1828,2026-08-30,LinkedIn,Mobile
+2013,2026-08-30,Instagram Ads,Desktop
+3544,2026-08-30,Organic,Desktop
+4563,2026-08-30,LinkedIn,Tablet
+1565,2026-08-31,Instagram Ads,Desktop
+2630,2026-08-31,LinkedIn,Mobile
+2055,2026-08-31,Instagram Ads,Mobile
+632,2026-08-31,LinkedIn,Mobile
+1155,2026-08-31,LinkedIn,Mobile
+3503,2026-08-31,Google Ads,Mobile
+4357,2026-08-31,Facebook Ads,Desktop
+3508,2026-08-31,Emailing,Tablet
+3750,2026-08-31,Google Ads,Mobile
