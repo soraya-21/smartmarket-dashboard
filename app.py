@@ -46,12 +46,12 @@ df_final, df_campaigns = load_and_clean_data()
 with st.sidebar:
     st.header("Paramètres et Filtres")
     
-    canaux = list(df_campaigns['channel'].unique())
+    canaux_list = list(df_campaigns['channel'].unique())
     
     canaux_selectionnes = st.multiselect(
         label="Sélectionner les canaux :", 
-        options=canaux, 
-        default=canaux
+        options=canaux_list, 
+        default=canaux_list
     )
     
     st.divider()
