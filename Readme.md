@@ -1,4 +1,6 @@
 # Dashboard de Pilotage Marketing - SmartMarket
+Le rapport a été déployé au lien suivant :
+https://smartmarket-super-dashboard.streamlit.app/
 
 ## Aperçu du Projet
 Ce projet consiste en une application de Business Intelligence (BI) développée avec **Streamlit**. L'objectif est d'offrir une vision claire et actionnable de la performance des campagnes marketing de SmartMarket pour la période de **septembre 2025**.
