@@ -5,4 +5,5 @@ openpyxl
 jupyter
 plotly
 streamlit
+altair<5
 
